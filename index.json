@@ -27256,13 +27256,13 @@
         "name": "Lycan Toons",
         "packageName": "eu.kanade.tachiyomi.extension.pt.lycantoons",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/3131c0f-2/tachiyomi-pt.lycantoons-v1.4.8.apk",
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/0cb7682/tachiyomi-pt.lycantoons-v1.4.10.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/lycantoons/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/3131c0f-2/tachiyomi-pt.lycantoons-v1.4.8.jar"
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/0cb7682/tachiyomi-pt.lycantoons-v1.4.10.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "8",
-        "versionName": "1.4.8",
+        "versionCode": "10",
+        "versionName": "1.4.10",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
