@@ -1,20 +1,10 @@
-# Extensões FelipeGFA
+# Extensões Project Nox
 
-### Por favor, dê uma estrela ao repositório :star:
+Repositório de armazenamento e publicação das extensões compiladas pelo
+[Project Nox](https://github.com/Awerkori/fonte-extensoes).
 
-| Build | Precisa de Ajuda? (Keiyoushi Discord) |
-|-------|---------|
-| [![CI](https://github.com/FelipeGFA/fonte-extensoes/actions/workflows/build_push.yml/badge.svg)](https://github.com/FelipeGFA/fonte-extensoes/actions/workflows/build_push.yml) | [![Discord](https://img.shields.io/discord/1193460528052453448.svg?label=discord&labelColor=7289da&color=2c2f33&style=flat)](https://discord.gg/3FbCpdKbdY) |
+Para aplicativos compatíveis com o catálogo moderno, use:
 
-## Uso
-**Se você é novo em repositórios/extensões, por favor leia o [guia de primeiros passos do Keiyoushi](https://keiyoushi.github.io/docs/guides/getting-started#adding-the-extension-repo) primeiro.**
+`https://github.com/Awerkori/extensoes/raw/repo/index.pb`
 
-* Você pode adicionar o repositório Keiyoushi visitando o [Site do Keiyoushi](https://keiyoushi.github.io/add-repo)
-* Caso contrário, para usar esse repositório, copie e cole a seguinte URL no seu app: https://raw.githubusercontent.com/FelipeGFA/extensoes/repo/index.min.json
-
-### Reportar problemas
-
-https://github.com/Keiyoushi/extensions-source/issues/new/choose
-
-### Outros
-Se você não está usando nenhum dos forks acima, baixe e atualize extensões manualmente da [página de listagem](https://felipegfa.github.io)
+O `index.min.json` é mantido apenas para compatibilidade com aplicativos antigos.
