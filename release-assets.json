@@ -10381,12 +10381,12 @@
   },
   "eu.kanade.tachiyomi.extension.pt.lycantoons": {
     "apk": {
-      "name": "tachiyomi-pt.lycantoons-v1.4.10.apk",
-      "sha256": "94e62cd7c2797df0d0176f817b684d19df2500e09274170ba197b93612cde35d"
+      "name": "tachiyomi-pt.lycantoons-v1.4.11.apk",
+      "sha256": "9307b7bd4c6ca96eaa5dbc895565b64f4a2b61db8700c42b6ba3b265a6de22a2"
     },
     "jar": {
-      "name": "tachiyomi-pt.lycantoons-v1.4.10.jar",
-      "sha256": "da2c5ebe852cee70ded054f004542c5fd76520089cf3916921d190cb4844a5e9"
+      "name": "tachiyomi-pt.lycantoons-v1.4.11.jar",
+      "sha256": "cf2bdeb9da90d6937be4b270771d08096dd13ff92d07a223bcbf09bc2144799d"
     }
   },
   "eu.kanade.tachiyomi.extension.pt.maidscan": {
