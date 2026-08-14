@@ -1,0 +1,36 @@
+[
+  {
+    "name": "App Desatualizado",
+    "pkg": "eu.kanade.tachiyomi.extension.all.felipegfa",
+    "apk": "tachiyomi-all.felipegfa-v1.4.1.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "App Desatualizado",
+        "lang": "all",
+        "id": "1",
+        "baseUrl": "https://felipegfa.github.io"
+      }
+    ]
+  },
+  {
+    "name": "Atualize para o Mihon 0.20.1+",
+    "pkg": "eu.kanade.tachiyomi.extension.all.mihon",
+    "apk": "tachiyomi-all.mihon-v1.4.1.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Atualize para o Mihon 0.20.1+",
+        "lang": "all",
+        "id": "1",
+        "baseUrl": "https://mihon.app"
+      }
+    ]
+  }
+]
