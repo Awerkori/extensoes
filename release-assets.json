@@ -1241,12 +1241,12 @@
   },
   "eu.kanade.tachiyomi.extension.all.xcomic": {
     "apk": {
-      "name": "tachiyomi-all.xcomic-v1.6.2.apk",
-      "sha256": "5bd31d84f0ba7f1284fdbac6268fa833c883413ce8cb3d5b628b38a4fc38764a"
+      "name": "tachiyomi-all.xcomic-v1.6.3.apk",
+      "sha256": "cdc5c864ae77a689718a74d47ab865849994d1b8396c7cd55156f93584d19a7a"
     },
     "jar": {
-      "name": "tachiyomi-all.xcomic-v1.6.2.jar",
-      "sha256": "0e9f41d4b7f6dbdeb0b53e0503c65a2860397cddc5d5371529ee0d2d21afd9a4"
+      "name": "tachiyomi-all.xcomic-v1.6.3.jar",
+      "sha256": "cf3202d99cd4e0f386acc081c83c0bcb354f9a7244e6edf41d310a116d300a4e"
     }
   },
   "eu.kanade.tachiyomi.extension.all.xgmn": {
@@ -2297,16 +2297,6 @@
     "jar": {
       "name": "tachiyomi-en.cocomic-v1.4.54.jar",
       "sha256": "5cdc6e44d791a8c73e0fed5687ff206d9a29af3277bb46385b2ecffa29f5878a"
-    }
-  },
-  "eu.kanade.tachiyomi.extension.en.coffeemanga": {
-    "apk": {
-      "name": "tachiyomi-en.coffeemanga-v1.4.57.apk",
-      "sha256": "29b5011a8bc89a7a5be15edb65e725d77332fc458b52d919afb2e36a22b1f079"
-    },
-    "jar": {
-      "name": "tachiyomi-en.coffeemanga-v1.4.57.jar",
-      "sha256": "8a629f9cd83ce82a901727c666e53a38a0533ebdbbc671967bc11ca3a1f8eaa7"
     }
   },
   "eu.kanade.tachiyomi.extension.en.collectedcurios": {
@@ -5781,12 +5771,12 @@
   },
   "eu.kanade.tachiyomi.extension.en.vyvymanga": {
     "apk": {
-      "name": "tachiyomi-en.vyvymanga-v1.6.42.apk",
-      "sha256": "dd81ed9eff09059abda1c4b4afed7f99f3ae843ced7b5080eee5180e2f3f0621"
+      "name": "tachiyomi-en.vyvymanga-v1.6.43.apk",
+      "sha256": "5940701f1d75423e8830240690d5c592dd4250f19563a82dfb72885b810b7ac3"
     },
     "jar": {
-      "name": "tachiyomi-en.vyvymanga-v1.6.42.jar",
-      "sha256": "484c42dde6ca2707b057bc93f5ce76ec76e34155a7b4d733f605d0610deb4cbb"
+      "name": "tachiyomi-en.vyvymanga-v1.6.43.jar",
+      "sha256": "0164459507e5a45e91cc2326226911ce2f090f9086016a25ceae829d11763a0b"
     }
   },
   "eu.kanade.tachiyomi.extension.en.warforrayuba": {
@@ -10451,12 +10441,12 @@
   },
   "eu.kanade.tachiyomi.extension.pt.mangalivreorg": {
     "apk": {
-      "name": "tachiyomi-pt.mangalivreorg-v1.6.2.apk",
-      "sha256": "a0136fbda6023eee4fb34531489a8d19fc4eb23fff5a6163d42a69b3fae29ade"
+      "name": "tachiyomi-pt.mangalivreorg-v1.6.3.apk",
+      "sha256": "9b855ffad1343f60c46037deb1ad3c1fc1be7d2ceee8a6d8bb86ea27e2be330b"
     },
     "jar": {
-      "name": "tachiyomi-pt.mangalivreorg-v1.6.2.jar",
-      "sha256": "a63b07774a965c3e2423b52ef871b9cf9766e3e1f9cd9063a488d889fe7328d1"
+      "name": "tachiyomi-pt.mangalivreorg-v1.6.3.jar",
+      "sha256": "94d59d864f8fa2c88e8ffdc3eddde46d9bbaee331a8e52fb1f8a8403014f39c5"
     }
   },
   "eu.kanade.tachiyomi.extension.pt.mangalivreto": {
