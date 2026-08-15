@@ -28135,6 +28135,27 @@
         ]
       },
       {
+        "name": "Shadow Manga",
+        "packageName": "eu.kanade.tachiyomi.extension.pt.shadowmanga",
+        "resources": {
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/4d5fa97/tachiyomi-pt.shadowmanga-v1.4.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/shadowmanga/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/4d5fa97/tachiyomi-pt.shadowmanga-v1.4.1.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "1",
+        "versionName": "1.4.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "600749569466355623",
+            "name": "Shadow Manga",
+            "language": "pt-BR",
+            "homeUrl": "https://shadow-mang.onrender.com"
+          }
+        ]
+      },
+      {
         "name": "Shirai Scans",
         "packageName": "eu.kanade.tachiyomi.extension.pt.shiraiscans",
         "resources": {

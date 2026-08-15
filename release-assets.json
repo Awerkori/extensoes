@@ -10799,6 +10799,16 @@
       "sha256": "85a7f0e0767ba43e390f342202a92dd9841b9606b8b30efe2ef0934d26fd645a"
     }
   },
+  "eu.kanade.tachiyomi.extension.pt.shadowmanga": {
+    "apk": {
+      "name": "tachiyomi-pt.shadowmanga-v1.4.1.apk",
+      "sha256": "cb21311cbee035cb5d98d54b77fdc4c4a3ca45fa98cd8a545f7e99f8d40f2480"
+    },
+    "jar": {
+      "name": "tachiyomi-pt.shadowmanga-v1.4.1.jar",
+      "sha256": "1a300ad47e582f90d928f83113b4e9d2233bb9cc060ab5102587089fb3212022"
+    }
+  },
   "eu.kanade.tachiyomi.extension.pt.shiraiscans": {
     "apk": {
       "name": "tachiyomi-pt.shiraiscans-v1.4.1.apk",
