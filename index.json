@@ -28009,23 +28009,23 @@
         ]
       },
       {
-        "name": "NoxManga",
+        "name": "NixManga",
         "packageName": "eu.kanade.tachiyomi.extension.pt.remangas",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/3131c0f-2/tachiyomi-pt.remangas-v1.4.53.apk",
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/0a86167/tachiyomi-pt.remangas-v1.4.54.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/remangas/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/3131c0f-2/tachiyomi-pt.remangas-v1.4.53.jar"
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/0a86167/tachiyomi-pt.remangas-v1.4.54.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "53",
-        "versionName": "1.4.53",
+        "versionCode": "54",
+        "versionName": "1.4.54",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "7462657023971681136",
-            "name": "NoxManga",
+            "name": "NixManga",
             "language": "pt-BR",
-            "homeUrl": "https://noxtoons.com"
+            "homeUrl": "https://noxmangas.org"
           }
         ]
       },

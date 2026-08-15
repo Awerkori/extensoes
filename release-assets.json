@@ -10741,12 +10741,12 @@
   },
   "eu.kanade.tachiyomi.extension.pt.remangas": {
     "apk": {
-      "name": "tachiyomi-pt.remangas-v1.4.53.apk",
-      "sha256": "22f94bcba88962e85dbb4e40590c6b11bc6b29558dd0cc424e6ecee632cc97a1"
+      "name": "tachiyomi-pt.remangas-v1.4.54.apk",
+      "sha256": "01cdec9782d077453124b8f031f2ef32a2bf6188301b08eec913138b566061fb"
     },
     "jar": {
-      "name": "tachiyomi-pt.remangas-v1.4.53.jar",
-      "sha256": "0db077051e361c6d83225d3d63320e4255aabbc9dfe0f0cd0c1d0c510dfea124"
+      "name": "tachiyomi-pt.remangas-v1.4.54.jar",
+      "sha256": "c5e26f629217e4ae23f15860a9a35706adc129ccb6656621708101b0ae7c04f0"
     }
   },
   "eu.kanade.tachiyomi.extension.pt.revistasequadrinhos": {
