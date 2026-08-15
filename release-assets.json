@@ -10301,12 +10301,12 @@
   },
   "eu.kanade.tachiyomi.extension.pt.inkscan": {
     "apk": {
-      "name": "tachiyomi-pt.inkscan-v1.4.1.apk",
-      "sha256": "d6e03f6d07939a93038bf55db8582aacf636adeaecc06e1ab2040f0cc2013a15"
+      "name": "tachiyomi-pt.inkscan-v1.4.2.apk",
+      "sha256": "1e8ea978eccb45f0bf08a4a1e81ff922b6cc024ed5b90ff72cab9cd265b3482d"
     },
     "jar": {
-      "name": "tachiyomi-pt.inkscan-v1.4.1.jar",
-      "sha256": "d158363307e8bd7902d9ff8d90198703e169417199ce4101c0826970b801f74f"
+      "name": "tachiyomi-pt.inkscan-v1.4.2.jar",
+      "sha256": "3872ce6c3222bb72a132a6efd3cc8f328d5680551b51f8f16bd616be59d6fb32"
     }
   },
   "eu.kanade.tachiyomi.extension.pt.kamisamaexplorer": {
