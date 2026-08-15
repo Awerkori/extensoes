@@ -26581,6 +26581,27 @@
         ]
       },
       {
+        "name": "CorujaToon",
+        "packageName": "eu.kanade.tachiyomi.extension.pt.corujatoon",
+        "resources": {
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/f983a16/tachiyomi-pt.corujatoon-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/corujatoon/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/f983a16/tachiyomi-pt.corujatoon-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "1",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "3746809004727795505",
+            "name": "CorujaToon",
+            "language": "pt-BR",
+            "homeUrl": "https://corujatoon.com"
+          }
+        ]
+      },
+      {
         "name": "Coven Scan",
         "packageName": "eu.kanade.tachiyomi.extension.pt.covenscan",
         "resources": {

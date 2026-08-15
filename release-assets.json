@@ -10059,6 +10059,16 @@
       "sha256": "c1ee5c74b7a8c9d88f11f84fcab0187daea6e49688d969cb8a795d1b73cb7fd2"
     }
   },
+  "eu.kanade.tachiyomi.extension.pt.corujatoon": {
+    "apk": {
+      "name": "tachiyomi-pt.corujatoon-v1.6.1.apk",
+      "sha256": "216c727ded7efc2fb3624f1d08239c04b81c382c7158b250c263f8768ccadacc"
+    },
+    "jar": {
+      "name": "tachiyomi-pt.corujatoon-v1.6.1.jar",
+      "sha256": "68f371aa02099e7d8a4b4bd21ae18be8fa97be5bcfc386113fd735f3a9691daa"
+    }
+  },
   "eu.kanade.tachiyomi.extension.pt.covenscan": {
     "apk": {
       "name": "tachiyomi-pt.covenscan-v1.4.54.apk",
