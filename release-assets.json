@@ -11049,6 +11049,16 @@
       "sha256": "e2c3b132f85ff6b05ef0f473a567b3d88a1ed95ca08c8b112e5f66d33f1ed1a5"
     }
   },
+  "eu.kanade.tachiyomi.extension.pt.zinnes": {
+    "apk": {
+      "name": "tachiyomi-pt.zinnes-v1.6.1.apk",
+      "sha256": "6de3454f22ca4a04055d7a9cd8b3cdaf3133dbc941e284cb93f7aae22dfd099d"
+    },
+    "jar": {
+      "name": "tachiyomi-pt.zinnes-v1.6.1.jar",
+      "sha256": "d30eed418e83764abe5478458b20cfa76f630f39f874113aa748b3eb68170221"
+    }
+  },
   "eu.kanade.tachiyomi.extension.ru.acomics": {
     "apk": {
       "name": "tachiyomi-ru.acomics-v1.4.8.apk",

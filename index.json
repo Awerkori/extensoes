@@ -28660,6 +28660,27 @@
         ]
       },
       {
+        "name": "Zinnes",
+        "packageName": "eu.kanade.tachiyomi.extension.pt.zinnes",
+        "resources": {
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/0de2fcc/tachiyomi-pt.zinnes-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/zinnes/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/0de2fcc/tachiyomi-pt.zinnes-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "1",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "7351030456099843987",
+            "name": "Zinnes",
+            "language": "pt-BR",
+            "homeUrl": "https://www.zinnes.com.br"
+          }
+        ]
+      },
+      {
         "name": "AComics",
         "packageName": "eu.kanade.tachiyomi.extension.ru.acomics",
         "resources": {
