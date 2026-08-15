@@ -27088,9 +27088,9 @@
         "name": "Ink Scan",
         "packageName": "eu.kanade.tachiyomi.extension.pt.inkscan",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/3de0d75/tachiyomi-pt.inkscan-v1.4.2.apk",
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/65ecfa2/tachiyomi-pt.inkscan-v1.4.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/inkscan/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/3de0d75/tachiyomi-pt.inkscan-v1.4.2.jar"
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/65ecfa2/tachiyomi-pt.inkscan-v1.4.2.jar"
         },
         "extensionLib": "1.4",
         "versionCode": "2",

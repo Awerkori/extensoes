@@ -10302,11 +10302,11 @@
   "eu.kanade.tachiyomi.extension.pt.inkscan": {
     "apk": {
       "name": "tachiyomi-pt.inkscan-v1.4.2.apk",
-      "sha256": "1e8ea978eccb45f0bf08a4a1e81ff922b6cc024ed5b90ff72cab9cd265b3482d"
+      "sha256": "d195738065df2f7e1ad69b562d60774dde96702c5528583b0895e638a62220d5"
     },
     "jar": {
       "name": "tachiyomi-pt.inkscan-v1.4.2.jar",
-      "sha256": "3872ce6c3222bb72a132a6efd3cc8f328d5680551b51f8f16bd616be59d6fb32"
+      "sha256": "ed81e062eeb02d660964a04275510fd617b31b301d41cc236ac3226e09ad4b2a"
     }
   },
   "eu.kanade.tachiyomi.extension.pt.kamisamaexplorer": {
