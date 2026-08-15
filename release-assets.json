@@ -10481,12 +10481,12 @@
   },
   "eu.kanade.tachiyomi.extension.pt.mangasbrasuka": {
     "apk": {
-      "name": "tachiyomi-pt.mangasbrasuka-v1.4.55.apk",
-      "sha256": "5932364099028ed6d2a6cded9b3cf6b82c6f77adf474624b3ac376420a854d9a"
+      "name": "tachiyomi-pt.mangasbrasuka-v1.6.56.apk",
+      "sha256": "9c0d6ef7c16d06b2b962cc9ac1e7f8f71c2944f5c10d35d7effffb5e50f0587b"
     },
     "jar": {
-      "name": "tachiyomi-pt.mangasbrasuka-v1.4.55.jar",
-      "sha256": "073c33db9677d22827489ac069cab2ae34df83b61a60190781d30eaddfbd6392"
+      "name": "tachiyomi-pt.mangasbrasuka-v1.6.56.jar",
+      "sha256": "06d83f52001470e2599302704bdbdf991691349cdb8a5160329a467b6484c8d5"
     }
   },
   "eu.kanade.tachiyomi.extension.pt.mangastop": {
