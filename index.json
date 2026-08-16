@@ -26542,20 +26542,20 @@
         "name": "Cerise Scan",
         "packageName": "eu.kanade.tachiyomi.extension.pt.cerisescans",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/b146e1d/tachiyomi-pt.cerisescans-v1.4.63.apk",
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/eb16fd5/tachiyomi-pt.cerisescans-v1.4.64.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/cerisescans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/b146e1d/tachiyomi-pt.cerisescans-v1.4.63.jar"
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/eb16fd5/tachiyomi-pt.cerisescans-v1.4.64.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "63",
-        "versionName": "1.4.63",
+        "versionCode": "64",
+        "versionName": "1.4.64",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
             "id": "6986357795598884919",
             "name": "Cerise Scan",
             "language": "pt-BR",
-            "homeUrl": "https://loverstoon.com"
+            "homeUrl": "https://loverstoon.net"
           }
         ]
       },

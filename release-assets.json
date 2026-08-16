@@ -10041,12 +10041,12 @@
   },
   "eu.kanade.tachiyomi.extension.pt.cerisescans": {
     "apk": {
-      "name": "tachiyomi-pt.cerisescans-v1.4.63.apk",
-      "sha256": "df07f93f54a6df8759defd4e1321e774218bb743630eb5753a066456e5ee8084"
+      "name": "tachiyomi-pt.cerisescans-v1.4.64.apk",
+      "sha256": "44b35ccb9a5048c6853687c6973666692ba261d702a9f30c21f1f465ff707bac"
     },
     "jar": {
-      "name": "tachiyomi-pt.cerisescans-v1.4.63.jar",
-      "sha256": "c46f1a29818b51844f87f9fcf2b7b8371d9ea021256ac58d8a51d2e4a20797ba"
+      "name": "tachiyomi-pt.cerisescans-v1.4.64.jar",
+      "sha256": "974766a861c6de56d6bd7b385f75f66448ff7b37268f3c0317f6c830611c66f6"
     }
   },
   "eu.kanade.tachiyomi.extension.pt.corujatoon": {
