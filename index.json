@@ -28222,13 +28222,13 @@
         "name": "Yomu Comics",
         "packageName": "eu.kanade.tachiyomi.extension.pt.sssscanlator",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/3131c0f-2/tachiyomi-pt.sssscanlator-v1.4.52.apk",
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/74310db/tachiyomi-pt.sssscanlator-v1.4.53.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/sssscanlator/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/3131c0f-2/tachiyomi-pt.sssscanlator-v1.4.52.jar"
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/74310db/tachiyomi-pt.sssscanlator-v1.4.53.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "52",
-        "versionName": "1.4.52",
+        "versionCode": "53",
+        "versionName": "1.4.53",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {

@@ -10841,12 +10841,12 @@
   },
   "eu.kanade.tachiyomi.extension.pt.sssscanlator": {
     "apk": {
-      "name": "tachiyomi-pt.sssscanlator-v1.4.52.apk",
-      "sha256": "2345cd0488d9230f27d68c384a3cfdee8e26b250dcd4326b8e79e6f07ca53272"
+      "name": "tachiyomi-pt.sssscanlator-v1.4.53.apk",
+      "sha256": "5dcdd212234a6d9d124bcfda87234d8dcfa1de240cdf1643fee6bad7571793d6"
     },
     "jar": {
-      "name": "tachiyomi-pt.sssscanlator-v1.4.52.jar",
-      "sha256": "9f629c36e511c7b9e09076677ebead90b9411ba26a55e628b45357397dff1e83"
+      "name": "tachiyomi-pt.sssscanlator-v1.4.53.jar",
+      "sha256": "c00286b8600ecc6dd92e1d1e548df4cbadea50e8da78b217d62f6e19b2c1614b"
     }
   },
   "eu.kanade.tachiyomi.extension.pt.starlightscan": {
