@@ -27172,14 +27172,14 @@
         "name": "Leitor de Mangas",
         "packageName": "eu.kanade.tachiyomi.extension.pt.leitordemangas",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/3131c0f-2/tachiyomi-pt.leitordemangas-v1.4.52.apk",
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/04e2327/tachiyomi-pt.leitordemangas-v1.6.53.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/leitordemangas/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/3131c0f-2/tachiyomi-pt.leitordemangas-v1.4.52.jar"
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/04e2327/tachiyomi-pt.leitordemangas-v1.6.53.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "52",
-        "versionName": "1.4.52",
-        "contentWarning": "CONTENT_WARNING_NSFW",
+        "extensionLib": "1.6",
+        "versionCode": "53",
+        "versionName": "1.6.53",
+        "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
             "id": "6589457175730154076",
@@ -27655,13 +27655,13 @@
         "name": "Mugiwaras Oficial",
         "packageName": "eu.kanade.tachiyomi.extension.pt.mugiwarasoficial",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/3131c0f-2/tachiyomi-pt.mugiwarasoficial-v1.4.55.apk",
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/04e2327/tachiyomi-pt.mugiwarasoficial-v1.6.56.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/mugiwarasoficial/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/3131c0f-2/tachiyomi-pt.mugiwarasoficial-v1.4.55.jar"
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/04e2327/tachiyomi-pt.mugiwarasoficial-v1.6.56.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "55",
-        "versionName": "1.4.55",
+        "extensionLib": "1.6",
+        "versionCode": "56",
+        "versionName": "1.6.56",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
