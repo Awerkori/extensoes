@@ -10271,12 +10271,12 @@
   },
   "eu.kanade.tachiyomi.extension.pt.huntersscans": {
     "apk": {
-      "name": "tachiyomi-pt.huntersscans-v1.4.63.apk",
-      "sha256": "2b3a24f1963afb53e2a2c2852d984dcb2679a109133b3f1de113b33a88862724"
+      "name": "tachiyomi-pt.huntersscans-v1.4.64.apk",
+      "sha256": "4ac9f2f47bf02436bcae0d5e41097882b68686187031ee2890e3e93d65174fcc"
     },
     "jar": {
-      "name": "tachiyomi-pt.huntersscans-v1.4.63.jar",
-      "sha256": "ab5eb17f31dd9631293b2e4255803b54963aec846de8bdd140fff7fce14f6826"
+      "name": "tachiyomi-pt.huntersscans-v1.4.64.jar",
+      "sha256": "dccc8427b57c2758517063a5cb4fc6f4f3ca88c6a9bae3b405417829bb0c32fb"
     }
   },
   "eu.kanade.tachiyomi.extension.pt.imperiodabritannia": {

@@ -27025,13 +27025,13 @@
         "name": "Hunters Scans",
         "packageName": "eu.kanade.tachiyomi.extension.pt.huntersscans",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/3131c0f-2/tachiyomi-pt.huntersscans-v1.4.63.apk",
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/04a9bc1/tachiyomi-pt.huntersscans-v1.4.64.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/huntersscans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/3131c0f-2/tachiyomi-pt.huntersscans-v1.4.63.jar"
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/04a9bc1/tachiyomi-pt.huntersscans-v1.4.64.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "63",
-        "versionName": "1.4.63",
+        "versionCode": "64",
+        "versionName": "1.4.64",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
