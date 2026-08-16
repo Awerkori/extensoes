@@ -11021,12 +11021,12 @@
   },
   "eu.kanade.tachiyomi.extension.pt.yomumangas": {
     "apk": {
-      "name": "tachiyomi-pt.yomumangas-v1.4.5.apk",
-      "sha256": "08f74e979e31be54f7dee98dbb49ba91e440b3b98924efe7cf0b59c7e95c9542"
+      "name": "tachiyomi-pt.yomumangas-v1.6.6.apk",
+      "sha256": "1abcb391f6a8fe3a75eff0ffc76775dad81774819e283f6f9a599787c11f71de"
     },
     "jar": {
-      "name": "tachiyomi-pt.yomumangas-v1.4.5.jar",
-      "sha256": "e436295041d3f929ea6948dedeb8d3a6bc51adc3b1aa79c459fbb94740cec999"
+      "name": "tachiyomi-pt.yomumangas-v1.6.6.jar",
+      "sha256": "fd116a01f0f25e0bf5bb8ff844201e9e50156ef02307894ae7e90aab559496af"
     }
   },
   "eu.kanade.tachiyomi.extension.pt.yugenmangas": {

@@ -28600,13 +28600,13 @@
         "name": "Yomu Mang\u00e1s",
         "packageName": "eu.kanade.tachiyomi.extension.pt.yomumangas",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/3131c0f-2/tachiyomi-pt.yomumangas-v1.4.5.apk",
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/b3902c3/tachiyomi-pt.yomumangas-v1.6.6.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/yomumangas/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/3131c0f-2/tachiyomi-pt.yomumangas-v1.4.5.jar"
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/b3902c3/tachiyomi-pt.yomumangas-v1.6.6.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "5",
-        "versionName": "1.4.5",
+        "extensionLib": "1.6",
+        "versionCode": "6",
+        "versionName": "1.6.6",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
