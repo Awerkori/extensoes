@@ -27466,13 +27466,13 @@
         "name": "Manga Stop",
         "packageName": "eu.kanade.tachiyomi.extension.pt.mangastop",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/a4523eb-2/tachiyomi-pt.mangastop-v1.4.44.apk",
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/7b54ef8/tachiyomi-pt.mangastop-v1.4.45.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/mangastop/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/a4523eb-2/tachiyomi-pt.mangastop-v1.4.44.jar"
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/7b54ef8/tachiyomi-pt.mangastop-v1.4.45.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "44",
-        "versionName": "1.4.44",
+        "versionCode": "45",
+        "versionName": "1.4.45",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {

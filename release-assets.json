@@ -10481,12 +10481,12 @@
   },
   "eu.kanade.tachiyomi.extension.pt.mangastop": {
     "apk": {
-      "name": "tachiyomi-pt.mangastop-v1.4.44.apk",
-      "sha256": "2d8daa6f04e127aff8d5ac5c0b85bef0c9c60ae874f19c5be1927d10ef250701"
+      "name": "tachiyomi-pt.mangastop-v1.4.45.apk",
+      "sha256": "f94d9bd4677a6b95e7815ca42eb0b51bb491aca3c2580046efb033269fe38846"
     },
     "jar": {
-      "name": "tachiyomi-pt.mangastop-v1.4.44.jar",
-      "sha256": "bd452c0007a1df626925be1fdec11b26ba36a7273d80f96ec72f6bc84c49da6d"
+      "name": "tachiyomi-pt.mangastop-v1.4.45.jar",
+      "sha256": "26a88c7a10a1a0bfdf9d14684999b0a0cb2dd6fca2dbad658171eef9df6083bf"
     }
   },
   "eu.kanade.tachiyomi.extension.pt.mangeek": {
