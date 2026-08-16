@@ -28369,13 +28369,13 @@
         "name": "Tia Manhwa",
         "packageName": "eu.kanade.tachiyomi.extension.pt.tiamanhwa",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/3131c0f-2/tachiyomi-pt.tiamanhwa-v1.4.55.apk",
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/64fa530/tachiyomi-pt.tiamanhwa-v1.4.56.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/tiamanhwa/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/3131c0f-2/tachiyomi-pt.tiamanhwa-v1.4.55.jar"
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/64fa530/tachiyomi-pt.tiamanhwa-v1.4.56.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "55",
-        "versionName": "1.4.55",
+        "versionCode": "56",
+        "versionName": "1.4.56",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {

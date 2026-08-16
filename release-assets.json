@@ -10911,12 +10911,12 @@
   },
   "eu.kanade.tachiyomi.extension.pt.tiamanhwa": {
     "apk": {
-      "name": "tachiyomi-pt.tiamanhwa-v1.4.55.apk",
-      "sha256": "2cb51ab6e16d48875cc24820111b5b5c2d822e8c90c5d4813785c0c53287722d"
+      "name": "tachiyomi-pt.tiamanhwa-v1.4.56.apk",
+      "sha256": "09f6770b417b2d7b3a0d46c691de014bb0c3649aa15550c5c894d63eecc89630"
     },
     "jar": {
-      "name": "tachiyomi-pt.tiamanhwa-v1.4.55.jar",
-      "sha256": "1d0751e3362de9c6dea53fa6da36393ed7dd15a6294d7e9c5441841e386b0ebe"
+      "name": "tachiyomi-pt.tiamanhwa-v1.4.56.jar",
+      "sha256": "39b7d344823a1746aa4bf7b2e8e534033c013d4ddefe56041c1f32b8186f77a3"
     }
   },
   "eu.kanade.tachiyomi.extension.pt.toonbr": {
