@@ -10521,12 +10521,12 @@
   },
   "eu.kanade.tachiyomi.extension.pt.manhastro": {
     "apk": {
-      "name": "tachiyomi-pt.manhastro-v1.4.58.apk",
-      "sha256": "148bf2f9c56d093f86de3db3b4f5c7d455dfcb93b7fb0130da9648d0f4ba2608"
+      "name": "tachiyomi-pt.manhastro-v1.4.59.apk",
+      "sha256": "c29b9c7771c9daf07ee8b0f24690fb662ff590e15e6b7240d56af68a46d6a4f3"
     },
     "jar": {
-      "name": "tachiyomi-pt.manhastro-v1.4.58.jar",
-      "sha256": "1eb327014b353421141d4c5993527f32e674477ae8a982f068c38065c4c68395"
+      "name": "tachiyomi-pt.manhastro-v1.4.59.jar",
+      "sha256": "a8044b2d07e47aab0c5f9c007db4c147b099e5634ffd27d221b36cb06fce5c98"
     }
   },
   "eu.kanade.tachiyomi.extension.pt.mediocretoons": {

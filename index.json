@@ -27550,13 +27550,13 @@
         "name": "Manhastro",
         "packageName": "eu.kanade.tachiyomi.extension.pt.manhastro",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/3131c0f-2/tachiyomi-pt.manhastro-v1.4.58.apk",
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/9570413/tachiyomi-pt.manhastro-v1.4.59.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/manhastro/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/3131c0f-2/tachiyomi-pt.manhastro-v1.4.58.jar"
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/9570413/tachiyomi-pt.manhastro-v1.4.59.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "58",
-        "versionName": "1.4.58",
+        "versionCode": "59",
+        "versionName": "1.4.59",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
