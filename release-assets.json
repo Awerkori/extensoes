@@ -9991,12 +9991,12 @@
   },
   "eu.kanade.tachiyomi.extension.pt.bladetoons": {
     "apk": {
-      "name": "tachiyomi-pt.bladetoons-v1.4.3.apk",
-      "sha256": "e43cabbaf9fa28859e6cb80590a969d376c4d1967382aa8b9493c869675e1878"
+      "name": "tachiyomi-pt.bladetoons-v1.4.7.apk",
+      "sha256": "b771f84b60831fe880bbd51e1d2fbdbae0e10a490460002bdba3acaedf80a841"
     },
     "jar": {
-      "name": "tachiyomi-pt.bladetoons-v1.4.3.jar",
-      "sha256": "143cbc4f6677df4458405b315c7879dca73ce6f85898a1cf0937d8431af14e64"
+      "name": "tachiyomi-pt.bladetoons-v1.4.7.jar",
+      "sha256": "a5dec125020cd5d9203f893b253207709536a4e2a7e3a86f2870a73ba94a4616"
     }
   },
   "eu.kanade.tachiyomi.extension.pt.borutoexplorer": {
@@ -10537,6 +10537,16 @@
     "jar": {
       "name": "tachiyomi-pt.mediocretoons-v1.4.20.jar",
       "sha256": "0c86e66346b8e3a7aac269b3fb35c9629cf39d7894f8ae520427ddd6925e0d84"
+    }
+  },
+  "eu.kanade.tachiyomi.extension.pt.megahentai": {
+    "apk": {
+      "name": "tachiyomi-pt.megahentai-v1.4.1.apk",
+      "sha256": "fd66175cd34eb235b58ba7119360189927fe2ec4b4f22fe8fd46bb727553bef6"
+    },
+    "jar": {
+      "name": "tachiyomi-pt.megahentai-v1.4.1.jar",
+      "sha256": "565d167494bb2c02612622c338e319266110042718ef891a3b33c6898a6b22be"
     }
   },
   "eu.kanade.tachiyomi.extension.pt.minitwoscan": {
