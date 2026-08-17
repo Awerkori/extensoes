@@ -10471,12 +10471,12 @@
   },
   "eu.kanade.tachiyomi.extension.pt.mangaonline": {
     "apk": {
-      "name": "tachiyomi-pt.mangaonline-v1.4.56.apk",
-      "sha256": "c14daabfb408084e22fb838dd7c3c5d3286fac11a1f88f00ffbdec8287ed0757"
+      "name": "tachiyomi-pt.mangaonline-v1.4.57.apk",
+      "sha256": "827d74b89ded63fcfbdc481ed5696d15139938c5fd4aa4c564098d1244cf423b"
     },
     "jar": {
-      "name": "tachiyomi-pt.mangaonline-v1.4.56.jar",
-      "sha256": "5cb66a263bca85f63ac3c26115ce14502105536b188177080533d55a1fc1d67a"
+      "name": "tachiyomi-pt.mangaonline-v1.4.57.jar",
+      "sha256": "f7fbe9d485912b65494fcb6d519846c46047c7e58e126131252a6bbdc323c495"
     }
   },
   "eu.kanade.tachiyomi.extension.pt.mangasbrasuka": {
@@ -10807,6 +10807,16 @@
     "jar": {
       "name": "tachiyomi-pt.saikaiscan-v1.4.13.jar",
       "sha256": "d55ab268fc944facf4ea450e7f1af2a1c952f952648a005a278d2b7c24930045"
+    }
+  },
+  "eu.kanade.tachiyomi.extension.pt.sexkomix": {
+    "apk": {
+      "name": "tachiyomi-pt.sexkomix-v1.6.1.apk",
+      "sha256": "85c9259bb42ab63e24e23c52b1fad72ae1d8d9665c1051cb615f2a5bf3d29351"
+    },
+    "jar": {
+      "name": "tachiyomi-pt.sexkomix-v1.6.1.jar",
+      "sha256": "37114c38937189e2fcb39fc843758cf82e13bd61027a5ec4b8683a3f73813709"
     }
   },
   "eu.kanade.tachiyomi.extension.pt.shadowmanga": {
