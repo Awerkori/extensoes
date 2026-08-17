@@ -26854,6 +26854,27 @@
         ]
       },
       {
+        "name": "Hentai Home",
+        "packageName": "eu.kanade.tachiyomi.extension.pt.hentaihome",
+        "resources": {
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/d30bfc8/tachiyomi-pt.hentaihome-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/hentaihome/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/d30bfc8/tachiyomi-pt.hentaihome-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "1",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "7231112579087357426",
+            "name": "Hentai Home",
+            "language": "pt-BR",
+            "homeUrl": "https://www.hentaihome.net"
+          }
+        ]
+      },
+      {
         "name": "Hentai Season",
         "packageName": "eu.kanade.tachiyomi.extension.pt.hentaiseason",
         "resources": {
