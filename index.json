@@ -27193,13 +27193,13 @@
         "name": "Leitor de Mangas",
         "packageName": "eu.kanade.tachiyomi.extension.pt.leitordemangas",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/0a764af/tachiyomi-pt.leitordemangas-v1.6.53.apk",
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/172b0ae/tachiyomi-pt.leitordemangas-v1.6.54.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/leitordemangas/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/0a764af/tachiyomi-pt.leitordemangas-v1.6.53.jar"
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/172b0ae/tachiyomi-pt.leitordemangas-v1.6.54.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "53",
-        "versionName": "1.6.53",
+        "versionCode": "54",
+        "versionName": "1.6.54",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -27529,13 +27529,13 @@
         "name": "Mangas Brasuka",
         "packageName": "eu.kanade.tachiyomi.extension.pt.mangasbrasuka",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/0a764af/tachiyomi-pt.mangasbrasuka-v1.6.56.apk",
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/172b0ae/tachiyomi-pt.mangasbrasuka-v1.6.57.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/mangasbrasuka/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/0a764af/tachiyomi-pt.mangasbrasuka-v1.6.56.jar"
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/172b0ae/tachiyomi-pt.mangasbrasuka-v1.6.57.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "56",
-        "versionName": "1.6.56",
+        "versionCode": "57",
+        "versionName": "1.6.57",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -27739,13 +27739,13 @@
         "name": "Mugiwaras Oficial",
         "packageName": "eu.kanade.tachiyomi.extension.pt.mugiwarasoficial",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/0a764af/tachiyomi-pt.mugiwarasoficial-v1.6.56.apk",
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/172b0ae/tachiyomi-pt.mugiwarasoficial-v1.6.57.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/mugiwarasoficial/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/0a764af/tachiyomi-pt.mugiwarasoficial-v1.6.56.jar"
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/172b0ae/tachiyomi-pt.mugiwarasoficial-v1.6.57.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "56",
-        "versionName": "1.6.56",
+        "versionCode": "57",
+        "versionName": "1.6.57",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {

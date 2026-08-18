@@ -10351,12 +10351,12 @@
   },
   "eu.kanade.tachiyomi.extension.pt.leitordemangas": {
     "apk": {
-      "name": "tachiyomi-pt.leitordemangas-v1.6.53.apk",
-      "sha256": "10765ad571aad27bd8b0d681e77f1aa2c337bd0c0f920c905bc91ad8f09b8011"
+      "name": "tachiyomi-pt.leitordemangas-v1.6.54.apk",
+      "sha256": "fa5e6bf352f4e7e6a71fb8c99260ca56ee328f9e9a523ee232bebb301612bd70"
     },
     "jar": {
-      "name": "tachiyomi-pt.leitordemangas-v1.6.53.jar",
-      "sha256": "e8e365328e00b04b1e430ad81c46fdf2e86d37e3e68229c7b366de977e60398f"
+      "name": "tachiyomi-pt.leitordemangas-v1.6.54.jar",
+      "sha256": "a6d156b7d396214b77b64254b1533b5ee243f2a1e7638e5a2e89d1c9e20db969"
     }
   },
   "eu.kanade.tachiyomi.extension.pt.leituramanga": {
@@ -10511,12 +10511,12 @@
   },
   "eu.kanade.tachiyomi.extension.pt.mangasbrasuka": {
     "apk": {
-      "name": "tachiyomi-pt.mangasbrasuka-v1.6.56.apk",
-      "sha256": "9d47881d12b8936afad72dedb37f15b2038f2895d336e8143b9f82cb03e69c5e"
+      "name": "tachiyomi-pt.mangasbrasuka-v1.6.57.apk",
+      "sha256": "11350d7b8fb32f74c49fac843ee5375610078cd941e07dc61c9d2d63d71d530f"
     },
     "jar": {
-      "name": "tachiyomi-pt.mangasbrasuka-v1.6.56.jar",
-      "sha256": "28a3c2474d851762ae57b3ebfd17a644d5b3c754c26423fe62ce72545aff5088"
+      "name": "tachiyomi-pt.mangasbrasuka-v1.6.57.jar",
+      "sha256": "df424d823af02b4c8ec0f4e3cde02db64f34a9fc0ccec40d6d96c79b4b28b9b2"
     }
   },
   "eu.kanade.tachiyomi.extension.pt.mangastop": {
@@ -10611,12 +10611,12 @@
   },
   "eu.kanade.tachiyomi.extension.pt.mugiwarasoficial": {
     "apk": {
-      "name": "tachiyomi-pt.mugiwarasoficial-v1.6.56.apk",
-      "sha256": "5aad1e0efd09e191d9287133d2c8f18d468fd31756b66ed3e02c9eab8e22fa82"
+      "name": "tachiyomi-pt.mugiwarasoficial-v1.6.57.apk",
+      "sha256": "06f8a75cfb37552d5e5faafcd9c05d546cb384706440656fb68347a821447f30"
     },
     "jar": {
-      "name": "tachiyomi-pt.mugiwarasoficial-v1.6.56.jar",
-      "sha256": "04b729a1d145b16f60cb124c067b1108e0231fa206885be086b4641a531e9c19"
+      "name": "tachiyomi-pt.mugiwarasoficial-v1.6.57.jar",
+      "sha256": "2e731bc1c394883cb10dd141552f2af3cd3b234894fe0eccd08213870552662a"
     }
   },
   "eu.kanade.tachiyomi.extension.pt.muitohentai": {
