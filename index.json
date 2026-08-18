@@ -27106,6 +27106,27 @@
         ]
       },
       {
+        "name": "Jon Domingues",
+        "packageName": "eu.kanade.tachiyomi.extension.pt.jondomingues",
+        "resources": {
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/65cf4e6/tachiyomi-pt.jondomingues-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/jondomingues/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/65cf4e6/tachiyomi-pt.jondomingues-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "1",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "7040901904089860015",
+            "name": "Jon Domingues",
+            "language": "pt-BR",
+            "homeUrl": "https://jondomingues.com"
+          }
+        ]
+      },
+      {
         "name": "Kami Sama Explorer",
         "packageName": "eu.kanade.tachiyomi.extension.pt.kamisamaexplorer",
         "resources": {
@@ -27438,6 +27459,27 @@
             "name": "Manga Livre.to",
             "language": "pt-BR",
             "homeUrl": "https://mangalivre.to"
+          }
+        ]
+      },
+      {
+        "name": "Manga Night",
+        "packageName": "eu.kanade.tachiyomi.extension.pt.manganight",
+        "resources": {
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/65cf4e6/tachiyomi-pt.manganight-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/manganight/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/65cf4e6/tachiyomi-pt.manganight-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "1",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "5824558789854801098",
+            "name": "Manga Night",
+            "language": "pt-BR",
+            "homeUrl": "https://www.manganight.com.br"
           }
         ]
       },
@@ -28408,6 +28450,27 @@
         ]
       },
       {
+        "name": "TheHentai",
+        "packageName": "eu.kanade.tachiyomi.extension.pt.thehentai",
+        "resources": {
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/65cf4e6/tachiyomi-pt.thehentai-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/thehentai/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/65cf4e6/tachiyomi-pt.thehentai-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "1",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "3939092798692747109",
+            "name": "TheHentai",
+            "language": "pt-BR",
+            "homeUrl": "https://thehentai.net"
+          }
+        ]
+      },
+      {
         "name": "Tia Manhwa",
         "packageName": "eu.kanade.tachiyomi.extension.pt.tiamanhwa",
         "resources": {
@@ -28425,6 +28488,27 @@
             "name": "Tia Manhwa",
             "language": "pt-BR",
             "homeUrl": "https://tiamanhwa.com"
+          }
+        ]
+      },
+      {
+        "name": "Timeline Comics",
+        "packageName": "eu.kanade.tachiyomi.extension.pt.timelinecomics",
+        "resources": {
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/65cf4e6/tachiyomi-pt.timelinecomics-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/timelinecomics/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/65cf4e6/tachiyomi-pt.timelinecomics-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "1",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "7115586439863780878",
+            "name": "Timeline Comics",
+            "language": "pt-BR",
+            "homeUrl": "https://timelinecomics.blogspot.com"
           }
         ]
       },

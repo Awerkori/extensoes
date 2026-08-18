@@ -10309,6 +10309,16 @@
       "sha256": "a4ee496142c01f493eea1095c93a6b7c35d4d2d0cd2bca7bfca6ee323d474a18"
     }
   },
+  "eu.kanade.tachiyomi.extension.pt.jondomingues": {
+    "apk": {
+      "name": "tachiyomi-pt.jondomingues-v1.6.1.apk",
+      "sha256": "a3e7a9744524cb41b7e12a1815896532900a95e33f23e2dfeb84384feea7e308"
+    },
+    "jar": {
+      "name": "tachiyomi-pt.jondomingues-v1.6.1.jar",
+      "sha256": "eb3a96c225768e8546673cd47fb1303728e0137ace9971ac5c3594ff87885e7e"
+    }
+  },
   "eu.kanade.tachiyomi.extension.pt.kamisamaexplorer": {
     "apk": {
       "name": "tachiyomi-pt.kamisamaexplorer-v1.4.55.apk",
@@ -10467,6 +10477,16 @@
     "jar": {
       "name": "tachiyomi-pt.mangalivreto-v1.4.54.jar",
       "sha256": "bb07e8927fb9e2396a38a6463672e65e26899409339e58b4a26f24a353ff6752"
+    }
+  },
+  "eu.kanade.tachiyomi.extension.pt.manganight": {
+    "apk": {
+      "name": "tachiyomi-pt.manganight-v1.6.1.apk",
+      "sha256": "d7ecd88f5d17c597a4bef20f6b8db0dc633a2b75b3d7df575588df537205a49a"
+    },
+    "jar": {
+      "name": "tachiyomi-pt.manganight-v1.6.1.jar",
+      "sha256": "88868e603277434523bd7318fd98f90ec18c487cbca18d85de52bfb0248930c5"
     }
   },
   "eu.kanade.tachiyomi.extension.pt.mangaonline": {
@@ -10929,6 +10949,16 @@
       "sha256": "a99c572d39653426ad0060ed4b3a5b367252e5835b78281b7a36ff4d40ff52d8"
     }
   },
+  "eu.kanade.tachiyomi.extension.pt.thehentai": {
+    "apk": {
+      "name": "tachiyomi-pt.thehentai-v1.6.1.apk",
+      "sha256": "5999360d021b45090011d6f364a69a94ace204692b6a0f02fc21aad347f7e6b6"
+    },
+    "jar": {
+      "name": "tachiyomi-pt.thehentai-v1.6.1.jar",
+      "sha256": "d3dcc7dbb086bef1ef5d036579b0ce4df50d6903b07134d6641195702d22911b"
+    }
+  },
   "eu.kanade.tachiyomi.extension.pt.tiamanhwa": {
     "apk": {
       "name": "tachiyomi-pt.tiamanhwa-v1.4.56.apk",
@@ -10937,6 +10967,16 @@
     "jar": {
       "name": "tachiyomi-pt.tiamanhwa-v1.4.56.jar",
       "sha256": "0d3183187eb2cf03da0863d72beb80e62020c86bb30e8c7d4be4f448e5190b88"
+    }
+  },
+  "eu.kanade.tachiyomi.extension.pt.timelinecomics": {
+    "apk": {
+      "name": "tachiyomi-pt.timelinecomics-v1.6.1.apk",
+      "sha256": "8b29f1fe6ceff22bd0b53d1dfa306c78f951d4aebe5fa4d7c9ef8c9d12ac182a"
+    },
+    "jar": {
+      "name": "tachiyomi-pt.timelinecomics-v1.6.1.jar",
+      "sha256": "6f62b8b58e454d37f00515bc018acda1ad527e79297405cdd9af9e520bb95596"
     }
   },
   "eu.kanade.tachiyomi.extension.pt.toonbr": {
