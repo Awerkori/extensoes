@@ -9971,12 +9971,12 @@
   },
   "eu.kanade.tachiyomi.extension.pt.bakai": {
     "apk": {
-      "name": "tachiyomi-pt.bakai-v1.4.17.apk",
-      "sha256": "6ed9169b89a397163ba54a75c2b01bdc2f490a9bc45dd625a4bfcddc9e894e21"
+      "name": "tachiyomi-pt.bakai-v1.4.18.apk",
+      "sha256": "7e6adfce87e4036ca48f30da48d702b4e721e0595ba8ae4550a3929d37734655"
     },
     "jar": {
-      "name": "tachiyomi-pt.bakai-v1.4.17.jar",
-      "sha256": "c68be4ab0a1710df64f7578d843cb460d69a45cfec81ad087ad709aca3520e5c"
+      "name": "tachiyomi-pt.bakai-v1.4.18.jar",
+      "sha256": "f07ded31824ed2a80fa27a89727b6dfa8012ef135c542726b9035badc8ec4bad"
     }
   },
   "eu.kanade.tachiyomi.extension.pt.blackoutcomics": {
@@ -10401,12 +10401,12 @@
   },
   "eu.kanade.tachiyomi.extension.pt.lycantoons": {
     "apk": {
-      "name": "tachiyomi-pt.lycantoons-v1.4.10.apk",
-      "sha256": "b1cd0c1e2d80d92c70b792398066b09747a1e70faeb3e4a0396f91f950abd7f8"
+      "name": "tachiyomi-pt.lycantoons-v1.4.11.apk",
+      "sha256": "99f8a1a0beb7e8bd59abf1f35964af8dabf4f47ba7556d8d98320f4ff67907b5"
     },
     "jar": {
-      "name": "tachiyomi-pt.lycantoons-v1.4.10.jar",
-      "sha256": "a4c23e7e14a45677e8850ea05b52cc6fe7d9f6dae2df8ecbee7393341f1d29f2"
+      "name": "tachiyomi-pt.lycantoons-v1.4.11.jar",
+      "sha256": "37b89b701947e6f18d9749b342620c075978da41624e52cdaf108bd049218ed7"
     }
   },
   "eu.kanade.tachiyomi.extension.pt.maidscan": {
