@@ -26395,13 +26395,13 @@
         "name": "Bakai",
         "packageName": "eu.kanade.tachiyomi.extension.pt.bakai",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/a4523eb-2/tachiyomi-pt.bakai-v1.4.16.apk",
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/10c764d/tachiyomi-pt.bakai-v1.4.17.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/bakai/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/a4523eb-2/tachiyomi-pt.bakai-v1.4.16.jar"
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/10c764d/tachiyomi-pt.bakai-v1.4.17.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "16",
-        "versionName": "1.4.16",
+        "versionCode": "17",
+        "versionName": "1.4.17",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -27172,13 +27172,13 @@
         "name": "KuroMangas",
         "packageName": "eu.kanade.tachiyomi.extension.pt.kuromangas",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/a4523eb-2/tachiyomi-pt.kuromangas-v1.4.10.apk",
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/10c764d/tachiyomi-pt.kuromangas-v1.4.11.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/kuromangas/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/a4523eb-2/tachiyomi-pt.kuromangas-v1.4.10.jar"
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/10c764d/tachiyomi-pt.kuromangas-v1.4.11.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "10",
-        "versionName": "1.4.10",
+        "versionCode": "11",
+        "versionName": "1.4.11",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -27298,13 +27298,13 @@
         "name": "Lycan Toons",
         "packageName": "eu.kanade.tachiyomi.extension.pt.lycantoons",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/0a764af/tachiyomi-pt.lycantoons-v1.4.9.apk",
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/10c764d/tachiyomi-pt.lycantoons-v1.4.10.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/lycantoons/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/0a764af/tachiyomi-pt.lycantoons-v1.4.9.jar"
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/10c764d/tachiyomi-pt.lycantoons-v1.4.10.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "9",
-        "versionName": "1.4.9",
+        "versionCode": "10",
+        "versionName": "1.4.10",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -27550,13 +27550,13 @@
         "name": "Manga Stop",
         "packageName": "eu.kanade.tachiyomi.extension.pt.mangastop",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/7b54ef8/tachiyomi-pt.mangastop-v1.4.45.apk",
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/10c764d/tachiyomi-pt.mangastop-v1.4.46.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/mangastop/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/7b54ef8/tachiyomi-pt.mangastop-v1.4.45.jar"
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/10c764d/tachiyomi-pt.mangastop-v1.4.46.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "45",
-        "versionName": "1.4.45",
+        "versionCode": "46",
+        "versionName": "1.4.46",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -28327,13 +28327,13 @@
         "name": "Yomu Comics",
         "packageName": "eu.kanade.tachiyomi.extension.pt.sssscanlator",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/027b463/tachiyomi-pt.sssscanlator-v1.4.54.apk",
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/10c764d/tachiyomi-pt.sssscanlator-v1.4.55.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/sssscanlator/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/027b463/tachiyomi-pt.sssscanlator-v1.4.54.jar"
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/10c764d/tachiyomi-pt.sssscanlator-v1.4.55.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "54",
-        "versionName": "1.4.54",
+        "versionCode": "55",
+        "versionName": "1.4.55",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
