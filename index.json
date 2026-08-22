@@ -2168,13 +2168,13 @@
         "name": "HentaiHand",
         "packageName": "eu.kanade.tachiyomi.extension.all.hentaihand",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/a4523eb-0/tachiyomi-all.hentaihand-v1.4.11.apk",
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/c35241a/tachiyomi-all.hentaihand-v1.4.12.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/all/hentaihand/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/a4523eb-0/tachiyomi-all.hentaihand-v1.4.11.jar"
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/c35241a/tachiyomi-all.hentaihand-v1.4.12.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "11",
-        "versionName": "1.4.11",
+        "versionCode": "12",
+        "versionName": "1.4.12",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -2319,12 +2319,6 @@
             "id": "1049245690865797006",
             "name": "HentaiHand",
             "language": "es",
-            "homeUrl": "https://hentaihand.com"
-          },
-          {
-            "id": "2516244587139644000",
-            "name": "HentaiHand",
-            "language": "pt-BR",
             "homeUrl": "https://hentaihand.com"
           },
           {
@@ -26254,13 +26248,13 @@
         "name": "Amuy",
         "packageName": "eu.kanade.tachiyomi.extension.pt.amuy",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/a4523eb-2/tachiyomi-pt.amuy-v1.4.55.apk",
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/c35241a/tachiyomi-pt.amuy-v1.4.56.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/amuy/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/a4523eb-2/tachiyomi-pt.amuy-v1.4.55.jar"
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/c35241a/tachiyomi-pt.amuy-v1.4.56.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "55",
-        "versionName": "1.4.55",
+        "versionCode": "56",
+        "versionName": "1.4.56",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -26275,13 +26269,13 @@
         "name": "AnimeXNovel",
         "packageName": "eu.kanade.tachiyomi.extension.pt.animexnovel",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/a4523eb-2/tachiyomi-pt.animexnovel-v1.4.18.apk",
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/c35241a/tachiyomi-pt.animexnovel-v1.4.19.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/animexnovel/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/a4523eb-2/tachiyomi-pt.animexnovel-v1.4.18.jar"
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/c35241a/tachiyomi-pt.animexnovel-v1.4.19.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "18",
-        "versionName": "1.4.18",
+        "versionCode": "19",
+        "versionName": "1.4.19",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -26338,13 +26332,13 @@
         "name": "Argos Comics",
         "packageName": "eu.kanade.tachiyomi.extension.pt.argoscomics",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/0a764af/tachiyomi-pt.argoscomics-v1.6.57.apk",
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/c35241a/tachiyomi-pt.argoscomics-v1.6.58.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/argoscomics/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/0a764af/tachiyomi-pt.argoscomics-v1.6.57.jar"
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/c35241a/tachiyomi-pt.argoscomics-v1.6.58.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "57",
-        "versionName": "1.6.57",
+        "versionCode": "58",
+        "versionName": "1.6.58",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -26359,13 +26353,13 @@
         "name": "Argos Scan",
         "packageName": "eu.kanade.tachiyomi.extension.pt.argosscan",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/a4523eb-2/tachiyomi-pt.argosscan-v1.4.29.apk",
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/c35241a/tachiyomi-pt.argosscan-v1.4.30.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/argosscan/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/a4523eb-2/tachiyomi-pt.argosscan-v1.4.29.jar"
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/c35241a/tachiyomi-pt.argosscan-v1.4.30.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "29",
-        "versionName": "1.4.29",
+        "versionCode": "30",
+        "versionName": "1.4.30",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -26485,13 +26479,13 @@
         "name": "Blackout Comics",
         "packageName": "eu.kanade.tachiyomi.extension.pt.blackoutcomics",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/a4523eb-2/tachiyomi-pt.blackoutcomics-v1.4.10.apk",
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/c35241a/tachiyomi-pt.blackoutcomics-v1.6.11.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/blackoutcomics/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/a4523eb-2/tachiyomi-pt.blackoutcomics-v1.4.10.jar"
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/c35241a/tachiyomi-pt.blackoutcomics-v1.6.11.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "10",
-        "versionName": "1.4.10",
+        "extensionLib": "1.6",
+        "versionCode": "11",
+        "versionName": "1.6.11",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -26800,13 +26794,13 @@
         "name": "Fliptru",
         "packageName": "eu.kanade.tachiyomi.extension.pt.fliptru",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/a4523eb-2/tachiyomi-pt.fliptru-v1.4.3.apk",
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/c35241a/tachiyomi-pt.fliptru-v1.4.4.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/fliptru/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/a4523eb-2/tachiyomi-pt.fliptru-v1.4.3.jar"
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/c35241a/tachiyomi-pt.fliptru-v1.4.4.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "3",
-        "versionName": "1.4.3",
+        "versionCode": "4",
+        "versionName": "1.4.4",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -26923,6 +26917,27 @@
         ]
       },
       {
+        "name": "Hentai Fusion",
+        "packageName": "eu.kanade.tachiyomi.extension.pt.hentaifusion",
+        "resources": {
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/c35241a/tachiyomi-pt.hentaifusion-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/hentaifusion/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/c35241a/tachiyomi-pt.hentaifusion-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "1",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "9042058344355487337",
+            "name": "Hentai Fusion",
+            "language": "pt-BR",
+            "homeUrl": "https://hentaifusion.me"
+          }
+        ]
+      },
+      {
         "name": "Hentai Home",
         "packageName": "eu.kanade.tachiyomi.extension.pt.hentaihome",
         "resources": {
@@ -26968,13 +26983,13 @@
         "name": "Hentai Tokyo",
         "packageName": "eu.kanade.tachiyomi.extension.pt.hentaitokyo",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/a4523eb-2/tachiyomi-pt.hentaitokyo-v1.4.7.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/lib-multisrc/gattsu/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/a4523eb-2/tachiyomi-pt.hentaitokyo-v1.4.7.jar"
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/c35241a/tachiyomi-pt.hentaitokyo-v1.4.8.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/hentaitokyo/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/c35241a/tachiyomi-pt.hentaitokyo-v1.4.8.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "7",
-        "versionName": "1.4.7",
+        "versionCode": "8",
+        "versionName": "1.4.8",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -27157,13 +27172,13 @@
         "name": "Ink Scan",
         "packageName": "eu.kanade.tachiyomi.extension.pt.inkscan",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/a4523eb-2/tachiyomi-pt.inkscan-v1.4.2.apk",
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/c35241a/tachiyomi-pt.inkscan-v1.4.3.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/inkscan/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/a4523eb-2/tachiyomi-pt.inkscan-v1.4.2.jar"
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/c35241a/tachiyomi-pt.inkscan-v1.4.3.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "2",
-        "versionName": "1.4.2",
+        "versionCode": "3",
+        "versionName": "1.4.3",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -27171,6 +27186,27 @@
             "name": "Ink Scan",
             "language": "pt-BR",
             "homeUrl": "https://inkscann.live"
+          }
+        ]
+      },
+      {
+        "name": "InstaHentai",
+        "packageName": "eu.kanade.tachiyomi.extension.pt.instahentai",
+        "resources": {
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/c35241a/tachiyomi-pt.instahentai-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/instahentai/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/c35241a/tachiyomi-pt.instahentai-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "1",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "7005133773025256564",
+            "name": "InstaHentai",
+            "language": "pt-BR",
+            "homeUrl": "https://instahentai.com"
           }
         ]
       },
@@ -27493,13 +27529,13 @@
         "name": "MangaLivre.org",
         "packageName": "eu.kanade.tachiyomi.extension.pt.mangalivreorg",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/46094cf/tachiyomi-pt.mangalivreorg-v1.6.5.apk",
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/c35241a/tachiyomi-pt.mangalivreorg-v1.6.6.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/mangalivreorg/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/46094cf/tachiyomi-pt.mangalivreorg-v1.6.5.jar"
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/c35241a/tachiyomi-pt.mangalivreorg-v1.6.6.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "5",
-        "versionName": "1.6.5",
+        "versionCode": "6",
+        "versionName": "1.6.6",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -27889,6 +27925,27 @@
         ]
       },
       {
+        "name": "NHentai.net.br",
+        "packageName": "eu.kanade.tachiyomi.extension.pt.nhentaibr",
+        "resources": {
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/c35241a/tachiyomi-pt.nhentaibr-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/nhentaibr/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/c35241a/tachiyomi-pt.nhentaibr-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "1",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "7958850161139280032",
+            "name": "NHentai.net.br",
+            "language": "pt-BR",
+            "homeUrl": "https://nhentai.net.br"
+          }
+        ]
+      },
+      {
         "name": "Ninja Scan",
         "packageName": "eu.kanade.tachiyomi.extension.pt.ninjascan",
         "resources": {
@@ -27997,13 +28054,13 @@
         "name": "Osaka Scan",
         "packageName": "eu.kanade.tachiyomi.extension.pt.osakascan",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/a4523eb-2/tachiyomi-pt.osakascan-v1.4.15.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/core/src/main/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/a4523eb-2/tachiyomi-pt.osakascan-v1.4.15.jar"
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/c35241a/tachiyomi-pt.osakascan-v1.4.16.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/osakascan/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/c35241a/tachiyomi-pt.osakascan-v1.4.16.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "15",
-        "versionName": "1.4.15",
+        "versionCode": "16",
+        "versionName": "1.4.16",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -28207,13 +28264,13 @@
         "name": "RF Dragon Scan",
         "packageName": "eu.kanade.tachiyomi.extension.pt.rfdragonscan",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/0a764af/tachiyomi-pt.rfdragonscan-v1.4.13.apk",
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/c35241a/tachiyomi-pt.rfdragonscan-v1.4.14.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/rfdragonscan/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/0a764af/tachiyomi-pt.rfdragonscan-v1.4.13.jar"
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/c35241a/tachiyomi-pt.rfdragonscan-v1.4.14.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "13",
-        "versionName": "1.4.13",
+        "versionCode": "14",
+        "versionName": "1.4.14",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -28228,13 +28285,13 @@
         "name": "Risentoons",
         "packageName": "eu.kanade.tachiyomi.extension.pt.risentoons",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/a4523eb-2/tachiyomi-pt.risentoons-v1.4.2.apk",
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/c35241a/tachiyomi-pt.risentoons-v1.4.3.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/risentoons/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/a4523eb-2/tachiyomi-pt.risentoons-v1.4.2.jar"
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/c35241a/tachiyomi-pt.risentoons-v1.4.3.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "2",
-        "versionName": "1.4.2",
+        "versionCode": "3",
+        "versionName": "1.4.3",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -28333,13 +28390,13 @@
         "name": "Shirai Scans",
         "packageName": "eu.kanade.tachiyomi.extension.pt.shiraiscans",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/a4523eb-2/tachiyomi-pt.shiraiscans-v1.4.1.apk",
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/c35241a/tachiyomi-pt.shiraiscans-v1.4.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/shiraiscans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/a4523eb-2/tachiyomi-pt.shiraiscans-v1.4.1.jar"
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/c35241a/tachiyomi-pt.shiraiscans-v1.4.2.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "1",
-        "versionName": "1.4.1",
+        "versionCode": "2",
+        "versionName": "1.4.2",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -28396,13 +28453,13 @@
         "name": "Yomu Comics",
         "packageName": "eu.kanade.tachiyomi.extension.pt.sssscanlator",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/836f079/tachiyomi-pt.sssscanlator-v1.4.57.apk",
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/c35241a/tachiyomi-pt.sssscanlator-v1.4.58.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/sssscanlator/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/836f079/tachiyomi-pt.sssscanlator-v1.4.57.jar"
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/c35241a/tachiyomi-pt.sssscanlator-v1.4.58.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "57",
-        "versionName": "1.4.57",
+        "versionCode": "58",
+        "versionName": "1.4.58",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -28690,13 +28747,13 @@
         "name": "ValkYuri",
         "packageName": "eu.kanade.tachiyomi.extension.pt.valkyuri",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/a4523eb-2/tachiyomi-pt.valkyuri-v1.4.1.apk",
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/c35241a/tachiyomi-pt.valkyuri-v1.4.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/valkyuri/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/a4523eb-2/tachiyomi-pt.valkyuri-v1.4.1.jar"
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/c35241a/tachiyomi-pt.valkyuri-v1.4.2.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "1",
-        "versionName": "1.4.1",
+        "versionCode": "2",
+        "versionName": "1.4.2",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
