@@ -28660,6 +28660,27 @@
         ]
       },
       {
+        "name": "Tomato",
+        "packageName": "eu.kanade.tachiyomi.extension.pt.tomato",
+        "resources": {
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/c77f08f/tachiyomi-pt.tomato-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/tomato/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/c77f08f/tachiyomi-pt.tomato-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "1",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "3298973071492789784",
+            "name": "Tomato",
+            "language": "pt-BR",
+            "homeUrl": "https://prod-api.tomatoanimes.com"
+          }
+        ]
+      },
+      {
         "name": "ToonBr",
         "packageName": "eu.kanade.tachiyomi.extension.pt.toonbr",
         "resources": {
