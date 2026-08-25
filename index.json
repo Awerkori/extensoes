@@ -27969,13 +27969,13 @@
         "name": "NHentai.net.br",
         "packageName": "eu.kanade.tachiyomi.extension.pt.nhentaibr",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/c35241a/tachiyomi-pt.nhentaibr-v1.6.1.apk",
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/9318b8f/tachiyomi-pt.nhentaibr-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/nhentaibr/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/c35241a/tachiyomi-pt.nhentaibr-v1.6.1.jar"
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/9318b8f/tachiyomi-pt.nhentaibr-v1.6.2.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "1",
-        "versionName": "1.6.1",
+        "versionCode": "2",
+        "versionName": "1.6.2",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -28634,6 +28634,27 @@
             "name": "Temaki mang\u00e1s",
             "language": "pt-BR",
             "homeUrl": "https://temakimangas.blogspot.com"
+          }
+        ]
+      },
+      {
+        "name": "Terceiro Z",
+        "packageName": "eu.kanade.tachiyomi.extension.pt.terceiroz",
+        "resources": {
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/9318b8f/tachiyomi-pt.terceiroz-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/terceiroz/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/9318b8f/tachiyomi-pt.terceiroz-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "1",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "3997939872850915408",
+            "name": "Terceiro Z",
+            "language": "pt-BR",
+            "homeUrl": "https://terceiroz.com"
           }
         ]
       },

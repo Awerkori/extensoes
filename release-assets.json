@@ -10711,12 +10711,12 @@
   },
   "eu.kanade.tachiyomi.extension.pt.nhentaibr": {
     "apk": {
-      "name": "tachiyomi-pt.nhentaibr-v1.6.1.apk",
-      "sha256": "aa4e4592794626d6da96d9a8bb9978e764ac22647802b17c9b667c16666a8e7f"
+      "name": "tachiyomi-pt.nhentaibr-v1.6.2.apk",
+      "sha256": "b393a75ef91143cf7ad27fb988dc8cf7f4a8ad7417b5185cb0376993a14c3b3f"
     },
     "jar": {
-      "name": "tachiyomi-pt.nhentaibr-v1.6.1.jar",
-      "sha256": "81161a88d1be31a1117b845eefee41731179fd7081f1a4eba8ebecbbffec5b0c"
+      "name": "tachiyomi-pt.nhentaibr-v1.6.2.jar",
+      "sha256": "a4bbc4c7a3c075c58b29b6880d0a2f56b28760e9fe09810d12ef2438e84b3792"
     }
   },
   "eu.kanade.tachiyomi.extension.pt.ninjascan": {
@@ -11027,6 +11027,16 @@
     "jar": {
       "name": "tachiyomi-pt.temakimangas-v1.4.14.jar",
       "sha256": "a99c572d39653426ad0060ed4b3a5b367252e5835b78281b7a36ff4d40ff52d8"
+    }
+  },
+  "eu.kanade.tachiyomi.extension.pt.terceiroz": {
+    "apk": {
+      "name": "tachiyomi-pt.terceiroz-v1.6.1.apk",
+      "sha256": "bca3dd0e82787c80907b2bc5a3a8a5cc978cd4d1e4ca4fddbd37e8a5ee0d60f4"
+    },
+    "jar": {
+      "name": "tachiyomi-pt.terceiroz-v1.6.1.jar",
+      "sha256": "08bf18171254404e47712cbf32a51aa10c1fb0dc3a18471c0596a4ef49aaff4e"
     }
   },
   "eu.kanade.tachiyomi.extension.pt.thehentai": {
