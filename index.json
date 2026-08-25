@@ -27405,13 +27405,13 @@
         "name": "KuroMangas",
         "packageName": "eu.kanade.tachiyomi.extension.pt.kuromangas",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/513b9a2/tachiyomi-pt.kuromangas-v1.4.13.apk",
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/c9625e1/tachiyomi-pt.kuromangas-v1.4.14.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/kuromangas/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/513b9a2/tachiyomi-pt.kuromangas-v1.4.13.jar"
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/c9625e1/tachiyomi-pt.kuromangas-v1.4.14.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "13",
-        "versionName": "1.4.13",
+        "versionCode": "14",
+        "versionName": "1.4.14",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
