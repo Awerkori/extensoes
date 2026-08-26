@@ -5490,13 +5490,13 @@
         "name": "NHentai",
         "packageName": "eu.kanade.tachiyomi.extension.all.nhentai",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/a4523eb-0/tachiyomi-all.nhentai-v1.4.55.apk",
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/d85ca90/tachiyomi-all.nhentai-v1.6.56.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/all/nhentai/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/a4523eb-0/tachiyomi-all.nhentai-v1.4.55.jar"
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/d85ca90/tachiyomi-all.nhentai-v1.6.56.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "55",
-        "versionName": "1.4.55",
+        "extensionLib": "1.6",
+        "versionCode": "56",
+        "versionName": "1.6.56",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -26586,13 +26586,13 @@
         "name": "Bakai",
         "packageName": "eu.kanade.tachiyomi.extension.pt.bakai",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/4116056/tachiyomi-pt.bakai-v1.4.18.apk",
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/d85ca90/tachiyomi-pt.bakai-v1.4.19.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/bakai/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/4116056/tachiyomi-pt.bakai-v1.4.18.jar"
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/d85ca90/tachiyomi-pt.bakai-v1.4.19.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "18",
-        "versionName": "1.4.18",
+        "versionCode": "19",
+        "versionName": "1.4.19",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -27405,13 +27405,13 @@
         "name": "KuroMangas",
         "packageName": "eu.kanade.tachiyomi.extension.pt.kuromangas",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/c9625e1/tachiyomi-pt.kuromangas-v1.4.14.apk",
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/d85ca90/tachiyomi-pt.kuromangas-v1.4.15.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/kuromangas/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/c9625e1/tachiyomi-pt.kuromangas-v1.4.14.jar"
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/d85ca90/tachiyomi-pt.kuromangas-v1.4.15.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "14",
-        "versionName": "1.4.14",
+        "versionCode": "15",
+        "versionName": "1.4.15",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -27426,13 +27426,13 @@
         "name": "Leitor de Mangas",
         "packageName": "eu.kanade.tachiyomi.extension.pt.leitordemangas",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/513b9a2/tachiyomi-pt.leitordemangas-v1.6.54.apk",
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/d85ca90/tachiyomi-pt.leitordemangas-v1.6.55.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/leitordemangas/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/513b9a2/tachiyomi-pt.leitordemangas-v1.6.54.jar"
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/d85ca90/tachiyomi-pt.leitordemangas-v1.6.55.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "54",
-        "versionName": "1.6.54",
+        "versionCode": "55",
+        "versionName": "1.6.55",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -27510,13 +27510,13 @@
         "name": "Little Tyrant",
         "packageName": "eu.kanade.tachiyomi.extension.pt.littletyrant",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/a4523eb-2/tachiyomi-pt.littletyrant-v1.4.63.apk",
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/d85ca90/tachiyomi-pt.littletyrant-v1.4.116.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/littletyrant/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/a4523eb-2/tachiyomi-pt.littletyrant-v1.4.63.jar"
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/d85ca90/tachiyomi-pt.littletyrant-v1.4.116.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "63",
-        "versionName": "1.4.63",
+        "versionCode": "116",
+        "versionName": "1.4.116",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -27657,13 +27657,13 @@
         "name": "MangaLivre.org",
         "packageName": "eu.kanade.tachiyomi.extension.pt.mangalivreorg",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/513b9a2/tachiyomi-pt.mangalivreorg-v1.6.8.apk",
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/d85ca90/tachiyomi-pt.mangalivreorg-v1.6.9.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/mangalivreorg/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/513b9a2/tachiyomi-pt.mangalivreorg-v1.6.8.jar"
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/d85ca90/tachiyomi-pt.mangalivreorg-v1.6.9.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "8",
-        "versionName": "1.6.8",
+        "versionCode": "9",
+        "versionName": "1.6.9",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -27762,13 +27762,13 @@
         "name": "Mangas Brasuka",
         "packageName": "eu.kanade.tachiyomi.extension.pt.mangasbrasuka",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/513b9a2/tachiyomi-pt.mangasbrasuka-v1.6.57.apk",
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/d85ca90/tachiyomi-pt.mangasbrasuka-v1.6.58.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/mangasbrasuka/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/513b9a2/tachiyomi-pt.mangasbrasuka-v1.6.57.jar"
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/d85ca90/tachiyomi-pt.mangasbrasuka-v1.6.58.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "57",
-        "versionName": "1.6.57",
+        "versionCode": "58",
+        "versionName": "1.6.58",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -27972,20 +27972,20 @@
         "name": "Mugiwaras Oficial",
         "packageName": "eu.kanade.tachiyomi.extension.pt.mugiwarasoficial",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/513b9a2/tachiyomi-pt.mugiwarasoficial-v1.6.57.apk",
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/d85ca90/tachiyomi-pt.mugiwarasoficial-v1.6.58.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/mugiwarasoficial/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/513b9a2/tachiyomi-pt.mugiwarasoficial-v1.6.57.jar"
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/d85ca90/tachiyomi-pt.mugiwarasoficial-v1.6.58.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "57",
-        "versionName": "1.6.57",
+        "versionCode": "58",
+        "versionName": "1.6.58",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "2079534153507614534",
             "name": "Mugiwaras Oficial",
             "language": "pt-BR",
-            "homeUrl": "https://mugiwarasoficial.com"
+            "homeUrl": "https://mugiwarasoficial.org"
           }
         ]
       },
