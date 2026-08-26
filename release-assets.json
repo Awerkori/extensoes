@@ -11081,12 +11081,12 @@
   },
   "eu.kanade.tachiyomi.extension.pt.tomato": {
     "apk": {
-      "name": "tachiyomi-pt.tomato-v1.6.1.apk",
-      "sha256": "aa765a05b401b3eb956d6a89e5a6699781b58c92ddd91877d8927e9c64331aa9"
+      "name": "tachiyomi-pt.tomato-v1.6.2.apk",
+      "sha256": "542548269fa5b3c6d04cccde5dc9b518d1dcad47cc6524b57e77d7bd410008ec"
     },
     "jar": {
-      "name": "tachiyomi-pt.tomato-v1.6.1.jar",
-      "sha256": "9459c490a90e99f06f0f1f6a30f14142daa3b87e94ef19dd977d6578546fc101"
+      "name": "tachiyomi-pt.tomato-v1.6.2.jar",
+      "sha256": "01c4aaba2b13c902ebb9f4e5c26aeff16a91494c39a4a4cc15237040c467ae9f"
     }
   },
   "eu.kanade.tachiyomi.extension.pt.toonbr": {
