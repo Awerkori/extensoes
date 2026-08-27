@@ -29001,13 +29001,13 @@
         "name": "XXX Yaoi",
         "packageName": "eu.kanade.tachiyomi.extension.pt.xxxyaoi",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/be29a6e/tachiyomi-pt.xxxyaoi-v1.4.54.apk",
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/1841b5c/tachiyomi-pt.xxxyaoi-v1.4.55.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/xxxyaoi/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/be29a6e/tachiyomi-pt.xxxyaoi-v1.4.54.jar"
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/1841b5c/tachiyomi-pt.xxxyaoi-v1.4.55.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "54",
-        "versionName": "1.4.54",
+        "versionCode": "55",
+        "versionName": "1.4.55",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
