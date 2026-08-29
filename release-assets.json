@@ -10421,12 +10421,12 @@
   },
   "eu.kanade.tachiyomi.extension.pt.kuromangas": {
     "apk": {
-      "name": "tachiyomi-pt.kuromangas-v1.4.15.apk",
-      "sha256": "6335a9d3f661894596a6ff27e864ec797f25f0053a04434e5a1463421baf65be"
+      "name": "tachiyomi-pt.kuromangas-v1.4.16.apk",
+      "sha256": "13a63dfd842156689cb89818355cf8eda1225d8ccfbe6622326a950d7502cb2a"
     },
     "jar": {
-      "name": "tachiyomi-pt.kuromangas-v1.4.15.jar",
-      "sha256": "d6a82a775682862a037a576755fbe9cad18c5bbb3a85b5feae5d467b370e930d"
+      "name": "tachiyomi-pt.kuromangas-v1.4.16.jar",
+      "sha256": "62bdd9989f105a117986adae2cda8583c4a2d8f9af24dd68e263a3ff3a04c32c"
     }
   },
   "eu.kanade.tachiyomi.extension.pt.leitordemangas": {
