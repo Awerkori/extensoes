@@ -82,11 +82,11 @@
   "eu.kanade.tachiyomi.extension.all.comicgrowl": {
     "apk": {
       "name": "tachiyomi-all.comicgrowl-v1.4.13.apk",
-      "sha256": "3c4a69cab80d7821d0284d0f87c7852f382bc75d98ef02c1f977c4432b7d7833"
+      "sha256": "b7f62c3b838f4b7f070ea3ae06b92a210e8534d8c7e490a4b0465a5734b7b4b4"
     },
     "jar": {
       "name": "tachiyomi-all.comicgrowl-v1.4.13.jar",
-      "sha256": "16721c5719c4264b48f5e7b7f151bde2675ffed9a1777b7f3bf2faf76a50ea3e"
+      "sha256": "1e74139d5387072315dfdfbb1a433d4ec904076166105b046bc6bdafb01738d8"
     }
   },
   "eu.kanade.tachiyomi.extension.all.comicklive": {
@@ -2542,11 +2542,11 @@
   "eu.kanade.tachiyomi.extension.en.divascans": {
     "apk": {
       "name": "tachiyomi-en.divascans-v1.6.27.apk",
-      "sha256": "bea5e8b33238d93350624c6ae3fc17182b7189c22211c82edef947c793da398e"
+      "sha256": "7569b07ec0df776c0164083df580132e91d66bc3304905fd190e7900602bbea2"
     },
     "jar": {
       "name": "tachiyomi-en.divascans-v1.6.27.jar",
-      "sha256": "2cea739db266e4eb32bf8099389f711418c2be9d463c42918150efbf4afe5f09"
+      "sha256": "e702e6208f06cdefe047d60240b56d75ab68c26b39d3e7f5cd7022c5f8d0f47c"
     }
   },
   "eu.kanade.tachiyomi.extension.en.doujinio": {
@@ -2582,21 +2582,21 @@
   "eu.kanade.tachiyomi.extension.en.drakescans": {
     "apk": {
       "name": "tachiyomi-en.drakescans-v1.6.50.apk",
-      "sha256": "a54237ee832a0281ea44b399f819dc17671750ddcd41c3f4c33e780971eaf01c"
+      "sha256": "e13fa3f733f564ff4f6c9716b48b063cfe5921c082f45f501f9ef445f628ba7e"
     },
     "jar": {
       "name": "tachiyomi-en.drakescans-v1.6.50.jar",
-      "sha256": "177b943a5a013954663420dee9d4e5b28b364933e4792e3265a89410e3879089"
+      "sha256": "339b8e07710f3dd94713e74133b1cc93c9349014a2b8da0a181195dd6c3929cc"
     }
   },
   "eu.kanade.tachiyomi.extension.en.duskscans": {
     "apk": {
       "name": "tachiyomi-en.duskscans-v1.6.3.apk",
-      "sha256": "e132bf293593620e9a616fe55d465e77493d46f59a6a370c0db87f520cf9a165"
+      "sha256": "3894da58cb3a60fdd112614d0db42d02693981195c988504baedd9527395c77a"
     },
     "jar": {
       "name": "tachiyomi-en.duskscans-v1.6.3.jar",
-      "sha256": "acb2e2bbff5d960e590c205c7a0ce37034773d168670048c2ed446593b52f7d2"
+      "sha256": "9cd2ecb7a5351df8627903d6ef1ae768313664fcb9c68730b1ae456ff4b6cea1"
     }
   },
   "eu.kanade.tachiyomi.extension.en.dynasty": {
@@ -3212,11 +3212,21 @@
   "eu.kanade.tachiyomi.extension.en.infinityscans": {
     "apk": {
       "name": "tachiyomi-en.infinityscans-v1.6.13.apk",
-      "sha256": "7cd28ca40c384eb65bdee9a9d55facfcb76b99515bdd7e246cfda9cf64cbdc89"
+      "sha256": "ee64a71d8d0621bfcfaa879c364da42b5b7e232f4b95bbd43dabc276bbb7733f"
     },
     "jar": {
       "name": "tachiyomi-en.infinityscans-v1.6.13.jar",
-      "sha256": "f5d114acda934c498a4119618c416256438d9d2155685c9dcfd902c2817785de"
+      "sha256": "0417b12a91df7ac62c9c92741eed2549ad3acd6a3fe279b1187b35ee1075e459"
+    }
+  },
+  "eu.kanade.tachiyomi.extension.en.inkr": {
+    "apk": {
+      "name": "tachiyomi-en.inkr-v1.6.1.apk",
+      "sha256": "48757cdfb14775e9fd8e7498ba9fbf1a7a7034370e4bb497a490291796c986b2"
+    },
+    "jar": {
+      "name": "tachiyomi-en.inkr-v1.6.1.jar",
+      "sha256": "de6e210312519b3406af514963cb96f4198a90a13a2078cde88c66995b995f14"
     }
   },
   "eu.kanade.tachiyomi.extension.en.irovedout": {
@@ -3252,11 +3262,11 @@
   "eu.kanade.tachiyomi.extension.en.jnovel": {
     "apk": {
       "name": "tachiyomi-en.jnovel-v1.4.4.apk",
-      "sha256": "373692fb96f81a0cac47f472f74ab718a3b1b8fd204119ccf2a41a1eb043ec05"
+      "sha256": "56a2d744d6aedeb549661468c2fab19dd042bdacd99e1464148af17a44c11fd9"
     },
     "jar": {
       "name": "tachiyomi-en.jnovel-v1.4.4.jar",
-      "sha256": "ceaf6d32f225fd7e81198b75f5544e9eb0f7ed9970c3a66b7544847e3201767e"
+      "sha256": "b45f40317caed0046e7d8719a047238b21a79e6327d930bb47d49082763c82f3"
     }
   },
   "eu.kanade.tachiyomi.extension.en.kaizenscan": {
@@ -3292,11 +3302,11 @@
   "eu.kanade.tachiyomi.extension.en.kaynscans": {
     "apk": {
       "name": "tachiyomi-en.kaynscans-v1.6.33.apk",
-      "sha256": "42a5db5c9871d0d326eafb6815d84355498fe1a2d1b015dcc78c618ceb803171"
+      "sha256": "2051a3d71b34d4841f8fc2e974bf11a4e6c2c5262b1b293f4d9cd538d992b64b"
     },
     "jar": {
       "name": "tachiyomi-en.kaynscans-v1.6.33.jar",
-      "sha256": "5929999a8a06c6393a0e32b47e3417b666459cd6f83e0c49f99645a7b74e8f31"
+      "sha256": "f1aa21e4dea4f4ed74f4a1264a28f6b491a665a0eb4a84bd216cae747e586e23"
     }
   },
   "eu.kanade.tachiyomi.extension.en.keenspot": {
@@ -3532,11 +3542,11 @@
   "eu.kanade.tachiyomi.extension.en.lusttoon": {
     "apk": {
       "name": "tachiyomi-en.lusttoon-v1.4.1.apk",
-      "sha256": "7a8afd444b8dd3481193c1e4bc0468ff8ba8e137d85d856fd56fca07a3ea5641"
+      "sha256": "92537774635eb4d5690724aaed42dcd388c83363114750be36a109f2d76c260a"
     },
     "jar": {
       "name": "tachiyomi-en.lusttoon-v1.4.1.jar",
-      "sha256": "abd777ac2722cb339857212910706a774c4c2db0e9cd8b93e1e2a760ac05fecf"
+      "sha256": "deed0dfaa5d68eddc85c4ddd3886a3ad2a8502e849750119a8ad4eed456d97c9"
     }
   },
   "eu.kanade.tachiyomi.extension.en.madaradex": {
@@ -3662,11 +3672,11 @@
   "eu.kanade.tachiyomi.extension.en.mangabuddy": {
     "apk": {
       "name": "tachiyomi-en.mangabuddy-v1.6.34.apk",
-      "sha256": "ed47b0947c995105d401f99b5ebebf65626b0d07b9688a9cbe05ad82d6d7a899"
+      "sha256": "18d529aa8dff395342a1425f7bc2546530632c97f18e1619b52e73c98039aa0d"
     },
     "jar": {
       "name": "tachiyomi-en.mangabuddy-v1.6.34.jar",
-      "sha256": "e73fc36d8a37ba8aee48c82337e61133c17bdf37ac4e05ed2efc8843fd9b9950"
+      "sha256": "78d776f9d0e07292123a1996f45f776456339c1c6eb6e0cfa48a01c00e53d86b"
     }
   },
   "eu.kanade.tachiyomi.extension.en.mangack": {
@@ -4252,11 +4262,11 @@
   "eu.kanade.tachiyomi.extension.en.manhuarush": {
     "apk": {
       "name": "tachiyomi-en.manhuarush-v1.4.2.apk",
-      "sha256": "acb55940d4b112e320772db8521baf9ae236b921ec5d3b87d96a4095b1f47851"
+      "sha256": "494d1d888be947e63213cfcfa3e5c8572ae8118892ee51c28cc2dc3983cac108"
     },
     "jar": {
       "name": "tachiyomi-en.manhuarush-v1.4.2.jar",
-      "sha256": "c3452843ac20a1415d5614f9a7570e66ccf52f99884fb77b291efc4d8f3ed710"
+      "sha256": "a42982d5306df61a76b6d52669f4f9d905c48c9e6f7567fddda4b5531f992dd9"
     }
   },
   "eu.kanade.tachiyomi.extension.en.manhuascanus": {
@@ -5232,11 +5242,11 @@
   "eu.kanade.tachiyomi.extension.en.reimanga": {
     "apk": {
       "name": "tachiyomi-en.reimanga-v1.6.5.apk",
-      "sha256": "778017866c3bf72384ab9061f54cfabf01b1e1980242e8b7dd23898e27b3dd11"
+      "sha256": "baaf3efca72f35c6eed3767f59388875fdd1b227fd78e5f3849cb03aa247b82d"
     },
     "jar": {
       "name": "tachiyomi-en.reimanga-v1.6.5.jar",
-      "sha256": "c93f6f6771ffdc26b8b79026833f45cd90045422d1f0ca6e813cac6218416693"
+      "sha256": "e432a09cc91247604fcbc41c86fa1cb1b2a35af2757cc53eebd460a250b0e37b"
     }
   },
   "eu.kanade.tachiyomi.extension.en.renascans": {
@@ -5262,11 +5272,11 @@
   "eu.kanade.tachiyomi.extension.en.revivalscans": {
     "apk": {
       "name": "tachiyomi-en.revivalscans-v1.4.1.apk",
-      "sha256": "c9f893432f21863abe02c1a6912d303c7a90844e901eb9eb20301e9ea9f2064c"
+      "sha256": "ed54031a8771e4797cc4ab6780860dc0bdf3671b88a398dccf042d364963d9dc"
     },
     "jar": {
       "name": "tachiyomi-en.revivalscans-v1.4.1.jar",
-      "sha256": "19ceb015e509c179a4c3a9fda43adfcd43376cb67732804b19eca9a33a665f25"
+      "sha256": "91b15f7b8dd036e8eeeae3c124343dfd8ec67f51139d7a3f1936112693103140"
     }
   },
   "eu.kanade.tachiyomi.extension.en.rinkocomics": {
@@ -5362,11 +5372,11 @@
   "eu.kanade.tachiyomi.extension.en.sacachispa": {
     "apk": {
       "name": "tachiyomi-en.sacachispa-v1.4.1.apk",
-      "sha256": "9ceff31ac0e9e6016a63760e5c4fc52ec9b09bcb83f174d036a7e3620a3f0872"
+      "sha256": "282fa7360e20028cb7adb4aaafcbe91daedd81824e4157de8e7b0b170de27cbe"
     },
     "jar": {
       "name": "tachiyomi-en.sacachispa-v1.4.1.jar",
-      "sha256": "d28051afb7a0b16b03e6ebf44b8cebdba0f9e4eb83da5f5749c9e49d511ab089"
+      "sha256": "1e5f7c721f6e3ee53cf0e6d657e4ff90ad3ae18f28fa4c1953503fc80c341cfd"
     }
   },
   "eu.kanade.tachiyomi.extension.en.sanascans": {
@@ -5511,22 +5521,22 @@
   },
   "eu.kanade.tachiyomi.extension.en.sunshinebutterflyscans": {
     "apk": {
-      "name": "tachiyomi-en.sunshinebutterflyscans-v1.4.39.apk",
-      "sha256": "cadda128f6e1049e9bb98ac067d81b85ccb90e742526782952b4f0f064a0c2fc"
+      "name": "tachiyomi-en.sunshinebutterflyscans-v1.6.1.apk",
+      "sha256": "355b13053e9e81f2e23d69d537312f5c6f72f41a22cb00f7457a82e5e7fff622"
     },
     "jar": {
-      "name": "tachiyomi-en.sunshinebutterflyscans-v1.4.39.jar",
-      "sha256": "c0a52f4a8a281f416d662df30d56a0e6cee1cfbb18a11f9ae3151a8da1d49c52"
+      "name": "tachiyomi-en.sunshinebutterflyscans-v1.6.1.jar",
+      "sha256": "66c6a02ecc535251938bdaac4121367816772b8955db8fb93144dd5797431159"
     }
   },
   "eu.kanade.tachiyomi.extension.en.supermega": {
     "apk": {
-      "name": "tachiyomi-en.supermega-v1.4.4.apk",
-      "sha256": "2d9050d5b027334738a78205600d5a4e0d3f8813509119160d25ae72fa717dbb"
+      "name": "tachiyomi-en.supermega-v1.6.1.apk",
+      "sha256": "ac5c4e43e75c8d2c1f6606449f5159c61de1a093213321afd9ffb48a3e00f16d"
     },
     "jar": {
-      "name": "tachiyomi-en.supermega-v1.4.4.jar",
-      "sha256": "e249e8f183a30612ce3f9edd1264a68dcbf7da833fd723179636d00f77b0b821"
+      "name": "tachiyomi-en.supermega-v1.6.1.jar",
+      "sha256": "28c8308d8661f78518ceed25ba81b394c1d93ce9778821fd45484cefc89c298d"
     }
   },
   "eu.kanade.tachiyomi.extension.en.suryascans": {
@@ -5541,12 +5551,12 @@
   },
   "eu.kanade.tachiyomi.extension.en.swordscomic": {
     "apk": {
-      "name": "tachiyomi-en.swordscomic-v1.4.5.apk",
-      "sha256": "743e4b43545e085a19f20c27470fb4191ba0dd0f34a3bb3ba38e8bbab1488b2b"
+      "name": "tachiyomi-en.swordscomic-v1.6.1.apk",
+      "sha256": "cfbf0be4e1c145da91e40a006ae37a8ccd98919e118be8b62ad4f274bf9301e2"
     },
     "jar": {
-      "name": "tachiyomi-en.swordscomic-v1.4.5.jar",
-      "sha256": "31c39acb991330b22cda9ec168d752a35515c20ead9ff9f9ab744866d40b1e5a"
+      "name": "tachiyomi-en.swordscomic-v1.6.1.jar",
+      "sha256": "c95e7c1f6bd11e63886d92c398b53d903f4bb2a1910b6a866f7837f1c7bdc26b"
     }
   },
   "eu.kanade.tachiyomi.extension.en.tapastic": {
@@ -5572,21 +5582,21 @@
   "eu.kanade.tachiyomi.extension.en.teamshadowi": {
     "apk": {
       "name": "tachiyomi-en.teamshadowi-v1.6.2.apk",
-      "sha256": "37466418c15d3286db97f0b7858e104db22f5739283da8655d0a0b81cf1fc578"
+      "sha256": "b81e288bc7eb0d43dee66fb1f4ddf24d3dd85743394ba171b39a06e173b18ed3"
     },
     "jar": {
       "name": "tachiyomi-en.teamshadowi-v1.6.2.jar",
-      "sha256": "dab47808c33946d84318efc023955eaf7809efb65884c78f0657638e5aca42b3"
+      "sha256": "5c398c52a6b2b4f2254847e806cd47786b3690581928225ea359684f77b37c5a"
     }
   },
   "eu.kanade.tachiyomi.extension.en.templescan": {
     "apk": {
       "name": "tachiyomi-en.templescan-v1.6.51.apk",
-      "sha256": "f6f70bafb646e2aa59554b1700b5fb3907bd94fd4a3002574307613402e0a0b4"
+      "sha256": "bd1fb552df7db121d9f2c03a94c953270369dd0aea9c3318e88fba7fbb878a67"
     },
     "jar": {
       "name": "tachiyomi-en.templescan-v1.6.51.jar",
-      "sha256": "23adb541e941e98d020de58cab85a4a6ca5e936a8f72344bde560f75755846f0"
+      "sha256": "762ca1c967ef7c4ddf60bc51e2d70f9212cd6261e329b75a8e02df929f47853a"
     }
   },
   "eu.kanade.tachiyomi.extension.en.theblank": {
@@ -5692,11 +5702,11 @@
   "eu.kanade.tachiyomi.extension.en.toonilyme": {
     "apk": {
       "name": "tachiyomi-en.toonilyme-v1.6.4.apk",
-      "sha256": "3fa8194409aef150534c24e448c86e6a971002d34c6610c20e989dc163bd732b"
+      "sha256": "c981ac3048d72363cd2bb72aab218dc4bd510d419881f24cc187051284ae4027"
     },
     "jar": {
       "name": "tachiyomi-en.toonilyme-v1.6.4.jar",
-      "sha256": "1d4d98ce9ac5d02694ea5ee1ad8ecbeff9042288f9c15b82109d279c866773be"
+      "sha256": "372a5b65dd8ad27e001a311d3417625a5e0cb6a30bf6eef97dc16afaaf84b135"
     }
   },
   "eu.kanade.tachiyomi.extension.en.toonizy": {
@@ -5752,11 +5762,11 @@
   "eu.kanade.tachiyomi.extension.en.valirscans": {
     "apk": {
       "name": "tachiyomi-en.valirscans-v1.6.24.apk",
-      "sha256": "77f5fe77bbd8f9d041c7e21e7858bb51f4258d9bee44804fff59a237094d134c"
+      "sha256": "129805653714aabbb122ab8d4f9a5806186be07ae242558f794a52e42dd12383"
     },
     "jar": {
       "name": "tachiyomi-en.valirscans-v1.6.24.jar",
-      "sha256": "b0ed07c459071679118f8bb13f8546e6bd342cc6cff727de9acd8cc369bcb865"
+      "sha256": "6f1f14941d8129f02cdcf0311344f4a05ecc7794dee9b940678f805a54edfe55"
     }
   },
   "eu.kanade.tachiyomi.extension.en.vanillascans": {
@@ -5912,11 +5922,11 @@
   "eu.kanade.tachiyomi.extension.en.witchscans": {
     "apk": {
       "name": "tachiyomi-en.witchscans-v1.6.34.apk",
-      "sha256": "b19c970b25b1a5f62f2e7fa63b7e7f6290582022c3cb4f0871da06db9fd100b4"
+      "sha256": "6b107656cd0f5799b71fb639f76af91507cefb37b848e832b08c5619d118d9a0"
     },
     "jar": {
       "name": "tachiyomi-en.witchscans-v1.6.34.jar",
-      "sha256": "4f164aa387657ccc0a6e587d5656c104449dd7a5a3ddc00b3bcd06aa1a288e5b"
+      "sha256": "c0597129996092698f94e11e5221750561b9c477ce030b02d67be35639b9832b"
     }
   },
   "eu.kanade.tachiyomi.extension.en.woopread": {
@@ -6032,11 +6042,11 @@
   "eu.kanade.tachiyomi.extension.en.yorai": {
     "apk": {
       "name": "tachiyomi-en.yorai-v1.4.2.apk",
-      "sha256": "cfc1d6c25cab9d608585bedf6973db8b85ec4a7dc89d5b10168c34bd75635222"
+      "sha256": "416144403611cf59d3cfce98dc8e2b6f2d4c36034335675c58068112dd7d80f9"
     },
     "jar": {
       "name": "tachiyomi-en.yorai-v1.4.2.jar",
-      "sha256": "6fa2e024c71aff5310c1610f656307a1354ec6389943fb3244aac3954ffc22c1"
+      "sha256": "133f93b1c5560de595dd03d1e8533da570a89152b5474786e8c182e243a6baad"
     }
   },
   "eu.kanade.tachiyomi.extension.en.zazamanga": {
@@ -6232,11 +6242,11 @@
   "eu.kanade.tachiyomi.extension.es.codearc": {
     "apk": {
       "name": "tachiyomi-es.codearc-v1.4.3.apk",
-      "sha256": "91fae9bd4c658b2b50c64781753548d617202cfb482644edb8a82f539b036f49"
+      "sha256": "181207a95923082f4a5a4b9d88c395fe75a79f381714c959e6801aa676cd4d78"
     },
     "jar": {
       "name": "tachiyomi-es.codearc-v1.4.3.jar",
-      "sha256": "c9019839dd750e1385b71345096ba0d77c25f141314763887df3f0d1f06595d2"
+      "sha256": "ae60cb28bdddb4c89ab76300d3bec0c935fc0048fda09ff285a2736c343a63dd"
     }
   },
   "eu.kanade.tachiyomi.extension.es.codexzero": {
@@ -6572,11 +6582,11 @@
   "eu.kanade.tachiyomi.extension.es.lectormonline": {
     "apk": {
       "name": "tachiyomi-es.lectormonline-v1.4.2.apk",
-      "sha256": "504ce9cb28d2bc957d9b31e2ef8e9afef897d99f01f863b0ef167ee6ae4a4f29"
+      "sha256": "791422285fa6d030af334f36af6e10087f0b9aed122065e9bd6425cb1d21054d"
     },
     "jar": {
       "name": "tachiyomi-es.lectormonline-v1.4.2.jar",
-      "sha256": "b44d71b9ceecc41ae0f8d3c3fdc7ffac0ad4bfefa5ad402e61286d32f4c31edc"
+      "sha256": "312fd17ab7e7d1b40837e7c6d66bb5e013d16810355dfb0d6b97bb6a385f7f4f"
     }
   },
   "eu.kanade.tachiyomi.extension.es.leercapitulo": {
@@ -6612,11 +6622,11 @@
   "eu.kanade.tachiyomi.extension.es.lmtoonline": {
     "apk": {
       "name": "tachiyomi-es.lmtoonline-v1.4.54.apk",
-      "sha256": "324f9cc1de2300a79adff7cb1f5053e7997203f021d77d650844a3a473cd78fb"
+      "sha256": "5b8effd87d9add4ff601da1aaa6b081ff6e77780f5c25d0a65abc002f71b453b"
     },
     "jar": {
       "name": "tachiyomi-es.lmtoonline-v1.4.54.jar",
-      "sha256": "d0b75906b6bf269af150e1dadba43ac2da22549c23df6ea9fff2967cb4bf62c4"
+      "sha256": "ba80a545a0963a12bd724c7d4845af078a489ac260ff0f4cfbc14816dd583da2"
     }
   },
   "eu.kanade.tachiyomi.extension.es.lolivault": {
@@ -6832,11 +6842,11 @@
   "eu.kanade.tachiyomi.extension.es.neomanga": {
     "apk": {
       "name": "tachiyomi-es.neomanga-v1.4.1.apk",
-      "sha256": "b75de9656a6eace5f6230f149be5ffcb32ff9780d4a764cf7d01bba1d5a87383"
+      "sha256": "ba1bb699ced0c768cae039cdabe38abfeb3ff59eeae086215816c7631a3dfac6"
     },
     "jar": {
       "name": "tachiyomi-es.neomanga-v1.4.1.jar",
-      "sha256": "266839495e2dcedf37c86a287f8ea0747ae612fe4a64643e39281c9b60fbbbda"
+      "sha256": "918150193b23b39a62ad86676ee052bcedbc914cc0c7d1d0ccde8c6504b8ca3d"
     }
   },
   "eu.kanade.tachiyomi.extension.es.nexusscanlation": {
@@ -7172,11 +7182,11 @@
   "eu.kanade.tachiyomi.extension.fr.astralmanga": {
     "apk": {
       "name": "tachiyomi-fr.astralmanga-v1.4.48.apk",
-      "sha256": "d654ecdbc065087c3684b2b67a0c42eca328646975395e38892391965a3334f5"
+      "sha256": "16dcc8931fb5af64f4c8814bf710ebe43f3c636b4065ddd74eb10d1c19503144"
     },
     "jar": {
       "name": "tachiyomi-fr.astralmanga-v1.4.48.jar",
-      "sha256": "ae2708799d4be6e82cc9948b45a5f9095ce8fdae091f710b0c8f9babf3bab7d5"
+      "sha256": "8b03bab8e534277366ccc303900f02ef6104c888c292fc71ff845406e7a6e18b"
     }
   },
   "eu.kanade.tachiyomi.extension.fr.bananascan": {
@@ -7472,21 +7482,21 @@
   "eu.kanade.tachiyomi.extension.fr.ono": {
     "apk": {
       "name": "tachiyomi-fr.ono-v1.4.2.apk",
-      "sha256": "2d20e36a733d6e411ca7eacbff0e9fd1d9009bec8a75d75540c5c72b5a743fd4"
+      "sha256": "1b4d967b65392839b6e8d08f19b45b5095444ebf3bdbc2e369a56499cc660c94"
     },
     "jar": {
       "name": "tachiyomi-fr.ono-v1.4.2.jar",
-      "sha256": "27390f67dc4820b329e2b95d03a8980fc6d1ffd1ac77f965948000a78cfc0ec2"
+      "sha256": "474e351c8e8f1e81550c89920dfebf02c1b735d5ae8d7ee72317cf8b04a7d580"
     }
   },
   "eu.kanade.tachiyomi.extension.fr.ortegascans": {
     "apk": {
       "name": "tachiyomi-fr.ortegascans-v1.6.3.apk",
-      "sha256": "cbd7c76b3497dc6cbac6b173ede628916ce0a4037a204f689bc4025b35e8e3c0"
+      "sha256": "300eaeb787853730aafe90e613670e0cf2ae6b5c6ed478021936166a9db328e4"
     },
     "jar": {
       "name": "tachiyomi-fr.ortegascans-v1.6.3.jar",
-      "sha256": "4d8e964029a7c3239058d5afc590e2ced304903ecbe101f9c8ad76c65323ef15"
+      "sha256": "f8c3743e677cbd0ba7a817e58539b3b1ccac908111c5c81f0f6daf423480cf8a"
     }
   },
   "eu.kanade.tachiyomi.extension.fr.pantheonscan": {
@@ -7532,11 +7542,11 @@
   "eu.kanade.tachiyomi.extension.fr.poseidonscans": {
     "apk": {
       "name": "tachiyomi-fr.poseidonscans-v1.4.51.apk",
-      "sha256": "dba7d67c84449817805ac9cfe0128be1fd94b334d66e8bf5058e2e86ec0d6d8a"
+      "sha256": "37f36c3a27c6d6ac43374615241c8f8474e7be0650e51da3840ba86af91248a5"
     },
     "jar": {
       "name": "tachiyomi-fr.poseidonscans-v1.4.51.jar",
-      "sha256": "c404dedb38ada57fb28ca46985384f09402a39737e90c5bc2f6a6ec38cb0f589"
+      "sha256": "b6ea636a6cc3f0ae28f55d01fceb24fd8b3398c82d5faee1fa202b1382590c06"
     }
   },
   "eu.kanade.tachiyomi.extension.fr.raijinscans": {
@@ -7552,11 +7562,11 @@
   "eu.kanade.tachiyomi.extension.fr.rimuscans": {
     "apk": {
       "name": "tachiyomi-fr.rimuscans-v1.4.35.apk",
-      "sha256": "b990e5f282f502581ea3d4a05beb559e748a397fc8d309615d79f8ea049d74fc"
+      "sha256": "107126570ead07691217a0769a5af5b215165ad9777f07165eb3c56929138f45"
     },
     "jar": {
       "name": "tachiyomi-fr.rimuscans-v1.4.35.jar",
-      "sha256": "ba57ba73eb34cfef8930ba534984cfd6efe678fd1365f09fdffe76e4a34ba6a0"
+      "sha256": "e642b86dc4f8aecff90f4b69d5923e7e0f834e4234cf0c03649db5fbd8fd9e4c"
     }
   },
   "eu.kanade.tachiyomi.extension.fr.scanhentaimenu": {
@@ -8482,11 +8492,11 @@
   "eu.kanade.tachiyomi.extension.id.softkomik": {
     "apk": {
       "name": "tachiyomi-id.softkomik-v1.4.13.apk",
-      "sha256": "3eb438d307874f0c34adaa94cf30e0c76f2268250840ac8a09e8f0199b0b544d"
+      "sha256": "4f653c37b566a103fc0572065c959f35f829e63e8b4d991ccadd7388a731f3e7"
     },
     "jar": {
       "name": "tachiyomi-id.softkomik-v1.4.13.jar",
-      "sha256": "5c799f772ae828621bbd378414116cbfffda16950074adc7f33331422e53baec"
+      "sha256": "cee187ffb184b0be7ab623f62d13b7682dd2e91a4c70591e3c36e6be016ba650"
     }
   },
   "eu.kanade.tachiyomi.extension.id.soulscans": {
@@ -8542,11 +8552,11 @@
   "eu.kanade.tachiyomi.extension.id.wurmz": {
     "apk": {
       "name": "tachiyomi-id.wurmz-v1.4.1.apk",
-      "sha256": "23b0cbf62bb72aaa79c8dde20bb60a045ec1ec0224f6b5b539c5c8ea2e3381bc"
+      "sha256": "0ad247fc162a46b364e26fb382e16838420d1127018110739f99a051bbf20d8d"
     },
     "jar": {
       "name": "tachiyomi-id.wurmz-v1.4.1.jar",
-      "sha256": "ef0c4e33db1120df747254151a63baadbccdf0795d4b49c9cac5ba5612659961"
+      "sha256": "1f6bc94f0d0a7eaaf34ee12fb45108f5076be87eea6d623435d6b5ce38f6ea28"
     }
   },
   "eu.kanade.tachiyomi.extension.id.yubikiri": {
@@ -8742,41 +8752,41 @@
   "eu.kanade.tachiyomi.extension.ja.asacomi": {
     "apk": {
       "name": "tachiyomi-ja.asacomi-v1.4.5.apk",
-      "sha256": "2a944484842cebe2961de3803d08ec7830f0db470c80310a03ebfdb634d199c7"
+      "sha256": "522320d9a0ce61049c3a3353c806bd37216f363ad672d1b03bb2974186a7b151"
     },
     "jar": {
       "name": "tachiyomi-ja.asacomi-v1.4.5.jar",
-      "sha256": "1186bdccd150e1f9f8ea1ac0d8d8fe1cf0bf6cfe00f807dbbc8ef56e80eaf03e"
+      "sha256": "6489f120793f4d4f494818229ee57785a4362b343c4c5c6bd687e18a6b66c091"
     }
   },
   "eu.kanade.tachiyomi.extension.ja.bibibicomic": {
     "apk": {
       "name": "tachiyomi-ja.bibibicomic-v1.4.5.apk",
-      "sha256": "9fb1546c3fbdb6400c0bf2e46351ef9ac3efaddd2aa20da22e1a1b7fa34f73ca"
+      "sha256": "9b13d5b3a5db398095683ac89340cf49fa5e117eaa4ac10deffa29aecb8d8346"
     },
     "jar": {
       "name": "tachiyomi-ja.bibibicomic-v1.4.5.jar",
-      "sha256": "33998b00d357492db9a77cbada84e8a275011b92ec82a04061eb7e679f67f5c3"
+      "sha256": "eba98285ca9fbdfc6669793473bcf6f00ec983b33e16729679181e26f56a5e8b"
     }
   },
   "eu.kanade.tachiyomi.extension.ja.bigcomics": {
     "apk": {
       "name": "tachiyomi-ja.bigcomics-v1.4.6.apk",
-      "sha256": "29ef17a49fa2138e5f1d9bf564aeea2590ff147d18d6af7b04d3c6752b44f114"
+      "sha256": "ec5df8f054dc424971b2e6963b4deea2860d42f18f97d3866899b0cf9464511f"
     },
     "jar": {
       "name": "tachiyomi-ja.bigcomics-v1.4.6.jar",
-      "sha256": "a6a2657f2af45abd0bcdea4c900c7a753ad40911c27827d741c576176b0882fa"
+      "sha256": "9577f18a7bbdab349d9110c3efc6bd69165aaa1897643f4ab21b70cf4ad191ae"
     }
   },
   "eu.kanade.tachiyomi.extension.ja.booklistastudio": {
     "apk": {
       "name": "tachiyomi-ja.booklistastudio-v1.4.5.apk",
-      "sha256": "e0282e2af9f360908769c4eb5de698ab3ff6483d800f33aa17160aaef2ff3c63"
+      "sha256": "3d2178a26e62d44b5d776eeb772b742649b0f441615e7264ad1d0e452be52abc"
     },
     "jar": {
       "name": "tachiyomi-ja.booklistastudio-v1.4.5.jar",
-      "sha256": "ffeb54b95010c4f12aaddeb293c6cd3b14142ffd9214acb773d298bddae94a3c"
+      "sha256": "647f285b2c59f74d9df96441b6e2855b4d4f0236089bf87e4aee7384529bbb26"
     }
   },
   "eu.kanade.tachiyomi.extension.ja.bookwalkerjp": {
@@ -8852,11 +8862,11 @@
   "eu.kanade.tachiyomi.extension.ja.comicfesta": {
     "apk": {
       "name": "tachiyomi-ja.comicfesta-v1.4.3.apk",
-      "sha256": "11348b6d56bedb5cb444b582bacf007c274a9097213e0c88d3f7527da434c145"
+      "sha256": "6bba7a201098a16d2a899f099a437482cbcf40db3b84ae31614179b3cc6bb4c2"
     },
     "jar": {
       "name": "tachiyomi-ja.comicfesta-v1.4.3.jar",
-      "sha256": "090ef0cae9d83e930dbcf17136961735e9733fe49d2968db6391d07813dce3ea"
+      "sha256": "b890d305fd37a0515ec4d828395bc982f8903c98129fd3ae469e327d7d0d82c3"
     }
   },
   "eu.kanade.tachiyomi.extension.ja.comicfuz": {
@@ -8892,11 +8902,11 @@
   "eu.kanade.tachiyomi.extension.ja.comicmedu": {
     "apk": {
       "name": "tachiyomi-ja.comicmedu-v1.4.6.apk",
-      "sha256": "7c653076d3dd2d975ff1403159d26b4fb05394df9c6697bd74ed35e6e77b4f23"
+      "sha256": "830a99ed0641ff6a4ea683f3d0b5757c3020bcd69dc68cc620965062676dca35"
     },
     "jar": {
       "name": "tachiyomi-ja.comicmedu-v1.4.6.jar",
-      "sha256": "2ce73d74291f8cd09077845acd15445776f83e5c93ee480d5fe5917de14d01ea"
+      "sha256": "57522f3a27fb12a7ec4e56954fcd29811d6a3b9fafe729f9848fb6e299392146"
     }
   },
   "eu.kanade.tachiyomi.extension.ja.comicmeteor": {
@@ -8932,31 +8942,31 @@
   "eu.kanade.tachiyomi.extension.ja.comicpash": {
     "apk": {
       "name": "tachiyomi-ja.comicpash-v1.4.6.apk",
-      "sha256": "c72525d6e56d41164fe40f0bd8404f86c754faa2f479d9769b749e8722a6e29e"
+      "sha256": "14cfbcf9aff32033894f16d6080667930f60e9acbe4b31931b9a9dd5368d0f0c"
     },
     "jar": {
       "name": "tachiyomi-ja.comicpash-v1.4.6.jar",
-      "sha256": "2d6d1e94c70a67f65c266aa8a8af6a10e3cf5c67a583372d6a7bbc0a8e82c709"
+      "sha256": "c0868a01a6f880a6118b98e5fb2b882101b7f8900c0f3ab6d9854a3f3ce5228f"
     }
   },
   "eu.kanade.tachiyomi.extension.ja.comicride": {
     "apk": {
       "name": "tachiyomi-ja.comicride-v1.4.5.apk",
-      "sha256": "c21efc36e0bfdbbad64bf9f6efdbaec906dbf531471cb95de466bbf7d4eba949"
+      "sha256": "116a252c3920e3e491fc0b73f8eea34421e72e50fbac2c227047b984afc26c7c"
     },
     "jar": {
       "name": "tachiyomi-ja.comicride-v1.4.5.jar",
-      "sha256": "5102b9fabb5c2dfcfa62664d2f12b0c680b65c6b77431d4866e849e8c345f844"
+      "sha256": "13acf4208f783af90ea69cbf733ee601ff0921f22d4035aa23cf0bf04f0e3b2c"
     }
   },
   "eu.kanade.tachiyomi.extension.ja.comicroombase": {
     "apk": {
       "name": "tachiyomi-ja.comicroombase-v1.4.5.apk",
-      "sha256": "fcd7136798c85ac326a2caecf49b6bd297eb1ec6094f1b7bf53dd0e154c4e96e"
+      "sha256": "3b8b66af68267846a7941cd67a9697e49cb26c5b4508ec2ad9d8cd6d2c621dc6"
     },
     "jar": {
       "name": "tachiyomi-ja.comicroombase-v1.4.5.jar",
-      "sha256": "fc04763748db00ea5e04a8a55f4ca7ca0ea99b3f11b17744ef4f00f92b61b88e"
+      "sha256": "58f406e362a872aafdd3b104c6d8b0278a0f790dfd01c07850c99f7a9df9fdd8"
     }
   },
   "eu.kanade.tachiyomi.extension.ja.comicryu": {
@@ -8992,11 +9002,11 @@
   "eu.kanade.tachiyomi.extension.ja.comirela": {
     "apk": {
       "name": "tachiyomi-ja.comirela-v1.4.5.apk",
-      "sha256": "3abce1839f248e14e76f99330c78e6664a4ed8b3cb1166bb69a4d7895c9bc8ab"
+      "sha256": "5cbaf5d04bd1be087e35b45154bc10cb008a5e14c275a135e0897a0f6f1104c8"
     },
     "jar": {
       "name": "tachiyomi-ja.comirela-v1.4.5.jar",
-      "sha256": "ada0e00bcc424ef9bead84426a316ee580fa1e7f41424780302e40e72354d339"
+      "sha256": "16d5277643a77941594819284ddc123b34485860863a10ffe690f18e29a3ec0b"
     }
   },
   "eu.kanade.tachiyomi.extension.ja.corocoroonline": {
@@ -9022,11 +9032,11 @@
   "eu.kanade.tachiyomi.extension.ja.cycomi": {
     "apk": {
       "name": "tachiyomi-ja.cycomi-v1.4.2.apk",
-      "sha256": "d8a576c9fa0762919341b3af7c8ecf498cccd5eb109fe6c3010b770ecf1255bc"
+      "sha256": "77283085ef2a17c6f76e999d515de287d1c36f5348431e442aed5af496909921"
     },
     "jar": {
       "name": "tachiyomi-ja.cycomi-v1.4.2.jar",
-      "sha256": "3506c404eb612e904988d0b1d4570f3a32bd5597ad3ef78693b1d36dd8f2e38b"
+      "sha256": "de410b697d83b66845501abbfddf67544924727e856436b468d6255297a66db8"
     }
   },
   "eu.kanade.tachiyomi.extension.ja.dmm": {
@@ -9092,11 +9102,11 @@
   "eu.kanade.tachiyomi.extension.ja.flowercomics": {
     "apk": {
       "name": "tachiyomi-ja.flowercomics-v1.4.2.apk",
-      "sha256": "043206e585bf17d54039f13e5fa2259f35fffc02e4e9c5c07a4e2c0a54c3e977"
+      "sha256": "9677b945b816a12ddee49b8275fb2bdff1c2e4111a82d31098a17f12c8c63c7d"
     },
     "jar": {
       "name": "tachiyomi-ja.flowercomics-v1.4.2.jar",
-      "sha256": "e6a99cf9ec98cc41a1f7a2d9d877e708392cb9012a78d92af2b2cbd86efa8029"
+      "sha256": "fc623a9fadbb7c77f8d4fee94dadcdd5edadb6b10e63f17b73ac65e84bbc0417"
     }
   },
   "eu.kanade.tachiyomi.extension.ja.fodfuji": {
@@ -9142,11 +9152,11 @@
   "eu.kanade.tachiyomi.extension.ja.gorakuweb": {
     "apk": {
       "name": "tachiyomi-ja.gorakuweb-v1.4.2.apk",
-      "sha256": "0591fba46f6fa38586ec2813302938bbc296418c04e058385272b059c672b854"
+      "sha256": "6cd7a6c4d12fab06f10a142b08c57cd82488b0e3b63b6040662b265146801085"
     },
     "jar": {
       "name": "tachiyomi-ja.gorakuweb-v1.4.2.jar",
-      "sha256": "cd624a8ff259bba2ad0ea2bbea957aa0324baee3bdae1036e0b5e4584ac688a6"
+      "sha256": "8a78195c86a07e556184e89eebb79955cc12f75d56932fb9f52134ed5b320caa"
     }
   },
   "eu.kanade.tachiyomi.extension.ja.hachiraw": {
@@ -9162,31 +9172,31 @@
   "eu.kanade.tachiyomi.extension.ja.hanayume": {
     "apk": {
       "name": "tachiyomi-ja.hanayume-v1.4.5.apk",
-      "sha256": "cd8da0502b1e25ef2ed703860fb757469d44850c22743e52c8171a2bfa8da9c4"
+      "sha256": "923aca403725a5a7c34ca778edd49eda92f5bebacb19cf9605df80e1e3a0fa71"
     },
     "jar": {
       "name": "tachiyomi-ja.hanayume-v1.4.5.jar",
-      "sha256": "74e605377289e9429835facbf93c92145af6b663d46aeb6ad84ca24c09633aea"
+      "sha256": "4239b42cae5278ea0829fb50791c371ad12ae01dddf9f560259cac58dbba7040"
     }
   },
   "eu.kanade.tachiyomi.extension.ja.hayacomic": {
     "apk": {
       "name": "tachiyomi-ja.hayacomic-v1.4.5.apk",
-      "sha256": "4211e0d135853449ea1c34b990e17dc247ada4b6758ed8f8fbb893532c737ca7"
+      "sha256": "31a4a3ab8cf210adb2f33a35b69db933afb9d25cc3d572135e08c7255ad3eb00"
     },
     "jar": {
       "name": "tachiyomi-ja.hayacomic-v1.4.5.jar",
-      "sha256": "4a7750861f920d362e4a6477d7b0723fb3a26ec7bdb0a2aad5c6bd6bcb56670d"
+      "sha256": "afe814dca22df8598344aefaec1274260038bb506d9ca3f5a8e321916a153d38"
     }
   },
   "eu.kanade.tachiyomi.extension.ja.herosweb": {
     "apk": {
       "name": "tachiyomi-ja.herosweb-v1.4.5.apk",
-      "sha256": "4b88e8db5dfe12ab3519e93ca3da4dbbe304b915bafa8404e4588d425d199c13"
+      "sha256": "e3953eb274b27f977164cc0af7adbf4f212782b56c1a2d03945544d2feae1a67"
     },
     "jar": {
       "name": "tachiyomi-ja.herosweb-v1.4.5.jar",
-      "sha256": "fbeb63e3b4e50af2264be121082eb9e7e2966b5604c707a8c783abad4e2435f8"
+      "sha256": "f6d9044f3b7aa10258fb7b7ad5d65cbc57ee50493e0b2eb7209aeb7f42a8703e"
     }
   },
   "eu.kanade.tachiyomi.extension.ja.ichicomi": {
@@ -9226,7 +9236,7 @@
     },
     "jar": {
       "name": "tachiyomi-ja.jnbooks-v1.4.5.jar",
-      "sha256": "7026b6cddc1314f8d0f5b07de3f3a26ac512d97b5c7fbeba21b4e2e66b96ab3e"
+      "sha256": "9300762827615f02fd9550ee5a260b686e0136f2e4382d6e6ad4937fb05a8a58"
     }
   },
   "eu.kanade.tachiyomi.extension.ja.jumprookie": {
@@ -9252,11 +9262,11 @@
   "eu.kanade.tachiyomi.extension.ja.kimicomi": {
     "apk": {
       "name": "tachiyomi-ja.kimicomi-v1.4.6.apk",
-      "sha256": "55855976f10b3269853f54f5601f69f2e038dc222fcd857bdec30abd78f09543"
+      "sha256": "cc029b3f8e93c16ff990397cd70a6ae14eb8b733f760db0b2c5f692e333b8ecd"
     },
     "jar": {
       "name": "tachiyomi-ja.kimicomi-v1.4.6.jar",
-      "sha256": "9eeb44b6b628cfc13d9da517795eefcd0cda53884c07b31bf3d77fec5486fcbf"
+      "sha256": "9df954b1903adc71ceb75f0060612164714c47985a75fe73f5125c440b790a9b"
     }
   },
   "eu.kanade.tachiyomi.extension.ja.kisslove": {
@@ -9356,7 +9366,7 @@
     },
     "jar": {
       "name": "tachiyomi-ja.magkan-v1.4.6.jar",
-      "sha256": "87601a4b300a0242bfaed2c28f6d0942fd41c54fc5eadf75734f9f72e7e2603a"
+      "sha256": "d747fbfed4b54440bed846adce322b88d47db9f5c8b7f3d58bf9b2245f323437"
     }
   },
   "eu.kanade.tachiyomi.extension.ja.manga1000": {
@@ -9376,27 +9386,27 @@
     },
     "jar": {
       "name": "tachiyomi-ja.mangabang-v1.4.6.jar",
-      "sha256": "4cdd11112030ccbf96bdbeb0d72f1db8df63c3ab853959cfe8b2e49783bf6b90"
+      "sha256": "761de54515da6c6a1c54e28c638cdd36cb846de8aaa38fb050b41a4ce3dd130a"
     }
   },
   "eu.kanade.tachiyomi.extension.ja.mangabu": {
     "apk": {
       "name": "tachiyomi-ja.mangabu-v1.4.5.apk",
-      "sha256": "d4d8099c5e36b6d276d12e82043fbe4de174a4b4b24d5b2933a6a6a552f18252"
+      "sha256": "a5a4f7fa6c8a7679c5a4d3a41dcde523bfc151f33a126937c7e7ac38ead15cc0"
     },
     "jar": {
       "name": "tachiyomi-ja.mangabu-v1.4.5.jar",
-      "sha256": "6ff39a10d857ff9b371debc2e6b840c6291f6f038341d5356390af1cfdb62a3d"
+      "sha256": "d7fa018d33d7bb0da62b1ee387537a6c6a1f131d49405d2c18100a09a3538bfc"
     }
   },
   "eu.kanade.tachiyomi.extension.ja.mangacross": {
     "apk": {
       "name": "tachiyomi-ja.mangacross-v1.4.10.apk",
-      "sha256": "02b483eb8ef17cdb6e06cd082b6e95f050971486a0cf5207818bbcba20b4c130"
+      "sha256": "5dcf2c0b8a03b9c90b0321fca78aa11f3c538d2ff1cfa582d7d4d3ebcace3b03"
     },
     "jar": {
       "name": "tachiyomi-ja.mangacross-v1.4.10.jar",
-      "sha256": "d680d5e116d5985bc0afd986c5b248530f32416f7710b5403df6fe855d3b9cfc"
+      "sha256": "504b18e95ee7919b2b31c2f6f13b7f1819c75bacdeed164bb1a847de7cd25fdd"
     }
   },
   "eu.kanade.tachiyomi.extension.ja.mangafive": {
@@ -9442,21 +9452,21 @@
   "eu.kanade.tachiyomi.extension.ja.mangalt": {
     "apk": {
       "name": "tachiyomi-ja.mangalt-v1.4.5.apk",
-      "sha256": "64530ba7155d713de9d20f24bea6c9ec9dc123946e54a3273d5b360567dffb16"
+      "sha256": "9186536588f4b18914495aafaa2e7c4b199147fc2a720a09d11bd98a1a486590"
     },
     "jar": {
       "name": "tachiyomi-ja.mangalt-v1.4.5.jar",
-      "sha256": "232fa3d23748cff776f85186c6c078055463be3950046ad9766a3928ee8347f4"
+      "sha256": "d20012bda54b1eb94256b0b8481cd38d7ed6bf11266f7de2abec53e5dd94e764"
     }
   },
   "eu.kanade.tachiyomi.extension.ja.mangamee": {
     "apk": {
       "name": "tachiyomi-ja.mangamee-v1.4.2.apk",
-      "sha256": "593e07f87b7c361c3e84a6686ddeee3e84a747675364ebfb968cfe71a32583d9"
+      "sha256": "4c80c7227c2d3d4643989b1a759be637f3871919003f486a0aa5c87baac80cc7"
     },
     "jar": {
       "name": "tachiyomi-ja.mangamee-v1.4.2.jar",
-      "sha256": "22dad9cc859796c01c3907a62b35595b206147f9197fca6fa375c4dd14a8a8d2"
+      "sha256": "951ebfe581c48bf45093c550de9044544bb2ae8885d03f6e58c156e209d20cf7"
     }
   },
   "eu.kanade.tachiyomi.extension.ja.mangameets": {
@@ -9522,11 +9532,11 @@
   "eu.kanade.tachiyomi.extension.ja.mangaspa": {
     "apk": {
       "name": "tachiyomi-ja.mangaspa-v1.4.5.apk",
-      "sha256": "9135adab9d713e9d12f8baca631c4ef72c8e746bdbb895387c175f312414ad65"
+      "sha256": "ed89f0dc62beac2c23689dcba1c37e742e816acc57e5a87c6225530f7810fe96"
     },
     "jar": {
       "name": "tachiyomi-ja.mangaspa-v1.4.5.jar",
-      "sha256": "cf859f7e6a9c559544012482cc604b7ce6043bf3be13ee71b2fb654c343211d6"
+      "sha256": "b0f6646740c5f7fd3881eb11247daee468bc98eccf459a79e257391ea5d22957"
     }
   },
   "eu.kanade.tachiyomi.extension.ja.mangatoshokanz": {
@@ -9552,11 +9562,11 @@
   "eu.kanade.tachiyomi.extension.ja.mangazegra": {
     "apk": {
       "name": "tachiyomi-ja.mangazegra-v1.4.5.apk",
-      "sha256": "55a36ee4a04525b09e9e5e596befa3ac42859e43272f58f7b0d4a223b216ec15"
+      "sha256": "d3712e3fafd8d8404de112c04046eaa7976a325265ce410367117bced54e6806"
     },
     "jar": {
       "name": "tachiyomi-ja.mangazegra-v1.4.5.jar",
-      "sha256": "43893dc6225451b6657216ef6d12b72b52de89bba807e898fe1001ba4d313d78"
+      "sha256": "a537b476643c2cd3d630e7d9a391d954160e7f9e1d4336b8c1ffa112ac1292d6"
     }
   },
   "eu.kanade.tachiyomi.extension.ja.mokuro": {
@@ -9582,11 +9592,11 @@
   "eu.kanade.tachiyomi.extension.ja.namicomic": {
     "apk": {
       "name": "tachiyomi-ja.namicomic-v1.4.5.apk",
-      "sha256": "1e72bcc5e2ec154469089c926768cb7e096f94cc871f3952003da2c76a1f608c"
+      "sha256": "23403c61cc2ededd8f372c91bb21497d3014fed2b5835183a792201de9136a8b"
     },
     "jar": {
       "name": "tachiyomi-ja.namicomic-v1.4.5.jar",
-      "sha256": "c2fe7b00838575a30eb3b152d5ab4881e56be2d45f722893c67519df47c9ce2c"
+      "sha256": "6c683955c94f6f8bab59cc79fd43e34834cae75bed0cca1bb955a65bf292dd84"
     }
   },
   "eu.kanade.tachiyomi.extension.ja.nicomanga": {
@@ -9642,11 +9652,11 @@
   "eu.kanade.tachiyomi.extension.ja.piacomic": {
     "apk": {
       "name": "tachiyomi-ja.piacomic-v1.4.5.apk",
-      "sha256": "468134b6d8052c73f3f1f03dae608b59038eaacc79a2b533a6bb9ee0090d248f"
+      "sha256": "eb96037b2519d5fe2a4928403ed9e7a2828897941c8f0f781b261b3967636bf7"
     },
     "jar": {
       "name": "tachiyomi-ja.piacomic-v1.4.5.jar",
-      "sha256": "cbc51509c9dd48cdfdd21cb90db9c031cc0f6859b9a67b54de306d53183a3386"
+      "sha256": "85e900efa4424e6ed56a7e7370a5d8246ca6f4a4103dfefbb3d10c60d10b14c7"
     }
   },
   "eu.kanade.tachiyomi.extension.ja.piccoma": {
@@ -9662,11 +9672,11 @@
   "eu.kanade.tachiyomi.extension.ja.pixivcomic": {
     "apk": {
       "name": "tachiyomi-ja.pixivcomic-v1.6.4.apk",
-      "sha256": "d122839404836cf0f2dfcbebecf5a5612e3fbbb49b12b4125d4a6fe3fffc6b88"
+      "sha256": "1d4c46eb1d12eda031f2da025a8829260e8099eaa8355d5eb748840a38c113a2"
     },
     "jar": {
       "name": "tachiyomi-ja.pixivcomic-v1.6.4.jar",
-      "sha256": "584f3448e099553a644af88013204b370a63db5d85ac09c2a4ffff23ab8562d0"
+      "sha256": "b0779621dd42f701d6fc9dcf7586e413f2528d72d137f7e04807ecb6c5417c1f"
     }
   },
   "eu.kanade.tachiyomi.extension.ja.raw1001": {
@@ -9782,11 +9792,11 @@
   "eu.kanade.tachiyomi.extension.ja.rimacomiplus": {
     "apk": {
       "name": "tachiyomi-ja.rimacomiplus-v1.4.5.apk",
-      "sha256": "ec677f07d60a24ae3e30c05863f81012e4d1fa67334a6f4a8e358d21f3172bfd"
+      "sha256": "2be4c3b83008ad39579b870cc15f34c728d1e4d12a226e80e5a06c4cadf5fabd"
     },
     "jar": {
       "name": "tachiyomi-ja.rimacomiplus-v1.4.5.jar",
-      "sha256": "1d2868ea980645c0ad6697a43932de0451b790ccd9b4bfc002f04e05c17789b0"
+      "sha256": "b3bf01c4861181763ee260846fe9b2d89f7188170a1147df9ff247cd501cbc4e"
     }
   },
   "eu.kanade.tachiyomi.extension.ja.senmanga": {
@@ -9832,11 +9842,11 @@
   "eu.kanade.tachiyomi.extension.ja.takecomic": {
     "apk": {
       "name": "tachiyomi-ja.takecomic-v1.4.6.apk",
-      "sha256": "f0879583f44720c858ffdb76c874b5a7a77de6ab06690a7af6144362b13f7860"
+      "sha256": "b1a89fde912b6aaab444d667157f5dd99c94480e0546123fd6f94d94e88de297"
     },
     "jar": {
       "name": "tachiyomi-ja.takecomic-v1.4.6.jar",
-      "sha256": "b038203bdad2a4e3d6e46e849d322af9d6362181e82c723ed1455d75ab4b536a"
+      "sha256": "3059062ef8de76fee515462c5bd9daa56b6fca4edfa758d2c6e8db4e26ded015"
     }
   },
   "eu.kanade.tachiyomi.extension.ja.tonarinoyoungjump": {
@@ -9912,21 +9922,21 @@
   "eu.kanade.tachiyomi.extension.ja.younganimal": {
     "apk": {
       "name": "tachiyomi-ja.younganimal-v1.4.5.apk",
-      "sha256": "517e58cd4188115d0194e17217e0fc84814c76f266b783f0b7f093f1aa7cb6f8"
+      "sha256": "4caf34102fc4089da7b283ab55dc04ffbb0239bb2348169d0d64a54a9e5ee558"
     },
     "jar": {
       "name": "tachiyomi-ja.younganimal-v1.4.5.jar",
-      "sha256": "3725fb1f956ab3bb9b26cc0dd48c1fe2132048495adb4970e749771d982f63cb"
+      "sha256": "fd660d2d94a1526fd815fbbc6d3b9040149755077a48a9f864ae6cd5a6135850"
     }
   },
   "eu.kanade.tachiyomi.extension.ja.youngchampion": {
     "apk": {
       "name": "tachiyomi-ja.youngchampion-v1.4.5.apk",
-      "sha256": "2ce93fa0e1d13bb06708558a7ad287f4c0af0b2728cbf975511dda89f6da1b0d"
+      "sha256": "04100517a83ac57df89d565628389f2f4084726cb5c737e0a906645b28688e70"
     },
     "jar": {
       "name": "tachiyomi-ja.youngchampion-v1.4.5.jar",
-      "sha256": "c9e7321583eada608be2e97dc4fa9d8db1115bb24d3b37229fee6ef86a5cfbba"
+      "sha256": "7fd97d310e769d889c6ef984ac8d28b7d1c4ccb2b111f0c2c4615c40a850e1a4"
     }
   },
   "eu.kanade.tachiyomi.extension.ja.zebrack": {
@@ -10092,11 +10102,11 @@
   "eu.kanade.tachiyomi.extension.pt.argoscomics": {
     "apk": {
       "name": "tachiyomi-pt.argoscomics-v1.6.59.apk",
-      "sha256": "bd6cf99131e1a5debce9a92311a5f3ea1cb3753adfeac7e234add70ad47bc702"
+      "sha256": "60288b958e0ba4ce541dce4e2754bad59c47f81d88812d2b572ed4c9a6498509"
     },
     "jar": {
       "name": "tachiyomi-pt.argoscomics-v1.6.59.jar",
-      "sha256": "48371f01aa1411db52d007cec72d921b2588873c7a9ce096d89f9cce175536f6"
+      "sha256": "66d1e2dea4c3797ddd4bbe6b252e8f72f61972f7aab374084c34d2db5d97167b"
     }
   },
   "eu.kanade.tachiyomi.extension.pt.argosscan": {
@@ -10582,21 +10592,21 @@
   "eu.kanade.tachiyomi.extension.pt.leitordemangas": {
     "apk": {
       "name": "tachiyomi-pt.leitordemangas-v1.6.57.apk",
-      "sha256": "c9f1ac3b4bf34fc110cc90aa48fc247e6099850306be4cc5405ea9b3de5fb4ed"
+      "sha256": "722adfa1e6171b38a34901e0a24005687d949302c396d72d81c7c50b7694e7c5"
     },
     "jar": {
       "name": "tachiyomi-pt.leitordemangas-v1.6.57.jar",
-      "sha256": "ab8ec8cd0b9e08ea5fae8d901c8fdf2371b1f5572be7d4457c73d73b919ed07e"
+      "sha256": "cc48da0377297cdb32805be3bbbef50b37ffad4a03638e0320a9b96db0025c98"
     }
   },
   "eu.kanade.tachiyomi.extension.pt.leituramanga": {
     "apk": {
       "name": "tachiyomi-pt.leituramanga-v1.4.6.apk",
-      "sha256": "4c8a80b252f444639aad3fcbc4c8a38dd5284b4a2bccf750fc6ac527911ada11"
+      "sha256": "de7057c9a2ae6f800f9a010e46506e4a64fd2d2e2428fd3ac1846544cf068007"
     },
     "jar": {
       "name": "tachiyomi-pt.leituramanga-v1.4.6.jar",
-      "sha256": "ec03e195d62463b3ed968fbf41af1f5b83c4dc6ff494d7e1f6cb0f25052b6bd1"
+      "sha256": "ea1522d847364c37e63db95b9e9096b3dbf94a92060481e1d3f92e0da59a24dc"
     }
   },
   "eu.kanade.tachiyomi.extension.pt.ler999": {
@@ -10632,11 +10642,11 @@
   "eu.kanade.tachiyomi.extension.pt.lycantoons": {
     "apk": {
       "name": "tachiyomi-pt.lycantoons-v1.4.12.apk",
-      "sha256": "79f06226c288ea78f419950b4f525e7f37cb75bd6d1ca87b56b0a08fbb4766c8"
+      "sha256": "42cb61e3d661c2ec6dbc7ba23bcd64a7b3d987091ae3535f6a3f8aec32129b8d"
     },
     "jar": {
       "name": "tachiyomi-pt.lycantoons-v1.4.12.jar",
-      "sha256": "42c4853b8bf2e0b1920dca3601ad00bee9fea33f9298e98003c69894a08c803a"
+      "sha256": "736d3e8727ad74c9f167eb64ea3b33788ca7092687f11718e13fb430a7f56d4a"
     }
   },
   "eu.kanade.tachiyomi.extension.pt.maidscan": {
@@ -10722,11 +10732,11 @@
   "eu.kanade.tachiyomi.extension.pt.manganyx": {
     "apk": {
       "name": "tachiyomi-pt.manganyx-v1.6.3.apk",
-      "sha256": "e876994a062cadc2a75dfda03d17382c53568b4870bb9f4bc152763a05a0d91b"
+      "sha256": "88ec6061e334014cb26b444dd8e8c83f2eab76440d136d6ecd9531326bb9eba0"
     },
     "jar": {
       "name": "tachiyomi-pt.manganyx-v1.6.3.jar",
-      "sha256": "ac969012bd6e3d306b903282acd34ae60f9bd32bdb6157647777264b0ebbc758"
+      "sha256": "5ad17795b2d11a8d31030036ea57e897827dea142b48534e6fc46756d729b7de"
     }
   },
   "eu.kanade.tachiyomi.extension.pt.mangaonline": {
@@ -10762,11 +10772,11 @@
   "eu.kanade.tachiyomi.extension.pt.mangasbrasuka": {
     "apk": {
       "name": "tachiyomi-pt.mangasbrasuka-v1.6.60.apk",
-      "sha256": "06815b4aec6102a9cd848bda25987477ed8422886bdbb2a0351d4321b1fe20bb"
+      "sha256": "4ede9a138d05467ba7de5460ba93ac6bbb8469546c87722401c750dd895f3518"
     },
     "jar": {
       "name": "tachiyomi-pt.mangasbrasuka-v1.6.60.jar",
-      "sha256": "b1a00a4c6999a407390d9ab64c8e656342af88b3b2ccce313aec2980fd2188e7"
+      "sha256": "9ac2e80b72692c20f1b7d2aba0b55f7c8c93da2f817f275cff76a9e4210c570c"
     }
   },
   "eu.kanade.tachiyomi.extension.pt.mangastop": {
@@ -10862,11 +10872,11 @@
   "eu.kanade.tachiyomi.extension.pt.mugiwarasoficial": {
     "apk": {
       "name": "tachiyomi-pt.mugiwarasoficial-v1.6.60.apk",
-      "sha256": "1b9aa242e3483980e27f8c413bff89febca2baa94bd07d0ae8bd23363bc29e3a"
+      "sha256": "d62fa79a28d0cc398f0a177d52eb3b48aa75c513e096b8f0a2596829367282b8"
     },
     "jar": {
       "name": "tachiyomi-pt.mugiwarasoficial-v1.6.60.jar",
-      "sha256": "b4132e22ebc59c3a1c227d63044d6c33c1dfaeffa546aa68117e9354773c14c7"
+      "sha256": "25a85dd62fc5f4b9831c6383e824d5b561dbfe903e2c0c0e6afc654220bca65c"
     }
   },
   "eu.kanade.tachiyomi.extension.pt.muitohentai": {
@@ -11012,11 +11022,11 @@
   "eu.kanade.tachiyomi.extension.pt.plumacomics": {
     "apk": {
       "name": "tachiyomi-pt.plumacomics-v1.6.51.apk",
-      "sha256": "a2b052fa0b5ed37941f084843ddbab209b9000a72ef02280c2c19f59b502141f"
+      "sha256": "e96df89fb5ade5bf092d2b658433e94a8b13a97850f56a3ee61a94157aab3d7b"
     },
     "jar": {
       "name": "tachiyomi-pt.plumacomics-v1.6.51.jar",
-      "sha256": "af6b612e9305e30263a1b4ed45fcbe383affae1c5ddc737119f3520eaa88b096"
+      "sha256": "fb6bd0be9a00d34efc9e33e3e5aaf309cff25b99cfc015b0ea7cdeed0eca8477"
     }
   },
   "eu.kanade.tachiyomi.extension.pt.pointzerotoons": {
@@ -11072,11 +11082,11 @@
   "eu.kanade.tachiyomi.extension.pt.rfdragonscan": {
     "apk": {
       "name": "tachiyomi-pt.rfdragonscan-v1.4.14.apk",
-      "sha256": "ce39ba03b61b3e9224a19cea7186ab021149eb6f9d0e7ccf3132a6c1fd3203a7"
+      "sha256": "0a092e1f314f6115c32e750fe5ae296ee16ca24e4340b20323e46bc3d44eae75"
     },
     "jar": {
       "name": "tachiyomi-pt.rfdragonscan-v1.4.14.jar",
-      "sha256": "2aeba22a118d4e6eb2e4e449188abfbcf82e72326c82046f2fa7d0fed4ec44ba"
+      "sha256": "6a04948e5609ff4c616daba4257e7220317ae6fabfe74f9411aee6ff94b4d287"
     }
   },
   "eu.kanade.tachiyomi.extension.pt.risentoons": {
@@ -12502,11 +12512,11 @@
   "eu.kanade.tachiyomi.extension.tr.monomanga": {
     "apk": {
       "name": "tachiyomi-tr.monomanga-v1.4.1.apk",
-      "sha256": "40a3e3dbdde9f0141e9efe80824622f57ed05755fb578de24b72b62f005fb57e"
+      "sha256": "0926d295e866af362d25afa6985fb24e0401d7c4bfff350b80ed66f254e9c7a3"
     },
     "jar": {
       "name": "tachiyomi-tr.monomanga-v1.4.1.jar",
-      "sha256": "57e0a984aa49fd12504a3c31ce10d88867729ef914fba5f25b9925da49fa1de4"
+      "sha256": "7dfa52c707badae1cfd1c85e97e74c5cc639fd90ec369553a73f91b07d918ad5"
     }
   },
   "eu.kanade.tachiyomi.extension.tr.moondaisyscans": {
@@ -12672,11 +12682,11 @@
   "eu.kanade.tachiyomi.extension.tr.sleptmanga": {
     "apk": {
       "name": "tachiyomi-tr.sleptmanga-v1.4.1.apk",
-      "sha256": "efc1e11e0cf4055ebf152dfc3a17fdfd4fb1b46b4048d11139d0d1a355791878"
+      "sha256": "94952c4f5e14cd74b25833e358aab75197edd0311ebdb7983a73c742bbb3c60e"
     },
     "jar": {
       "name": "tachiyomi-tr.sleptmanga-v1.4.1.jar",
-      "sha256": "478a6e816df75d4a5338b7092d634fa7059d2b014673af804edc313ef2536119"
+      "sha256": "1acdf7787394c1d16dd42b1a6f97da2d64dddef61c4b14dce63121ad3da35f60"
     }
   },
   "eu.kanade.tachiyomi.extension.tr.strayfansub": {
@@ -13252,11 +13262,11 @@
   "eu.kanade.tachiyomi.extension.vi.minotruyen": {
     "apk": {
       "name": "tachiyomi-vi.minotruyen-v1.6.5.apk",
-      "sha256": "5b624b084de8ac02f81031c6b0c8104885f096ad748581d6294929bfb8e6baa4"
+      "sha256": "052dd5f5d76fc1af86447d7394c2253c5f395f78d2ded67bcc67dd31438fcdcb"
     },
     "jar": {
       "name": "tachiyomi-vi.minotruyen-v1.6.5.jar",
-      "sha256": "3306cfae40da9beed3239b3b620356c5e0f5071d59a4ecd2386b5400e9334d90"
+      "sha256": "c7962d8c7b4015a43e8cbfdbf73081cc188a3b53aa5080c327eabfbaa87bda32"
     }
   },
   "eu.kanade.tachiyomi.extension.vi.moetruyen": {
@@ -13421,12 +13431,12 @@
   },
   "eu.kanade.tachiyomi.extension.vi.teamlanhlung": {
     "apk": {
-      "name": "tachiyomi-vi.teamlanhlung-v1.6.37.apk",
-      "sha256": "7f8af675de92a8007d6d9fad3547ae0cc34c34a46fd9f5d8dc2a3ca0b8172b95"
+      "name": "tachiyomi-vi.teamlanhlung-v1.6.38.apk",
+      "sha256": "e054a5136a5a53226c2e46a56ef2d1c38f5fd416db219ebdd8430e1604141416"
     },
     "jar": {
-      "name": "tachiyomi-vi.teamlanhlung-v1.6.37.jar",
-      "sha256": "7d06f114548fb0093c94cd8005ef7acd3acfb9b241074066a14d2f38c8f68c74"
+      "name": "tachiyomi-vi.teamlanhlung-v1.6.38.jar",
+      "sha256": "fb523114f8e04cfa321366fb7bd56d1a9f8b9d0640b465d973a8a77d08b6d50a"
     }
   },
   "eu.kanade.tachiyomi.extension.vi.teletruyen": {
@@ -13482,11 +13492,11 @@
   "eu.kanade.tachiyomi.extension.vi.truyen18": {
     "apk": {
       "name": "tachiyomi-vi.truyen18-v1.6.3.apk",
-      "sha256": "d43f14f01e381e693de233d456bdc373cadb23485df4a89c8e9bf06329334b41"
+      "sha256": "aa53f430e5c40590ee7de2f0c9444a7cf4de1b80f213bc1e261aa10eeca78897"
     },
     "jar": {
       "name": "tachiyomi-vi.truyen18-v1.6.3.jar",
-      "sha256": "03be284fa8c716e9b400f0f2e171e7a059c88d126716550097a7adcdd58eaf24"
+      "sha256": "e65e3b332c5c561fffc55b99b4fed143f57cf4b8ebec09453daa1ca73e5414d6"
     }
   },
   "eu.kanade.tachiyomi.extension.vi.truyengg": {
@@ -14091,12 +14101,12 @@
   },
   "eu.kanade.tachiyomi.extension.zh.picacomic": {
     "apk": {
-      "name": "tachiyomi-zh.picacomic-v1.6.10.apk",
-      "sha256": "62782260c234cdbe58b56b1153216c8793a28c12528bbbd18dbfe2b7ababf7bd"
+      "name": "tachiyomi-zh.picacomic-v1.6.11.apk",
+      "sha256": "859b253cb64b9f9e1d0091e6738b303ef755a15b884a94430ceba625d91bac7f"
     },
     "jar": {
-      "name": "tachiyomi-zh.picacomic-v1.6.10.jar",
-      "sha256": "29981940b25eab967b5db3cbeada7ff06093101136b241b1d9455e3d5990279e"
+      "name": "tachiyomi-zh.picacomic-v1.6.11.jar",
+      "sha256": "673bd1904e764ae6008bed3f5e7c696c0a2c28c0aa3b2bd1e75d5cce5a4af6fc"
     }
   },
   "eu.kanade.tachiyomi.extension.zh.roumanwu": {
