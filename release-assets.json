@@ -10521,12 +10521,12 @@
   },
   "eu.kanade.tachiyomi.extension.pt.leitordemangas": {
     "apk": {
-      "name": "tachiyomi-pt.leitordemangas-v1.6.57.apk",
-      "sha256": "cd0f1447455401de80cd27dcce828593fad8f0d4df1c79086917ef016f4a53d0"
+      "name": "tachiyomi-pt.leitordemangas-v1.6.58.apk",
+      "sha256": "546c7df6228f744f1bfc12ae5665042c2f30fb6454c59ca117928b42b6e3e935"
     },
     "jar": {
-      "name": "tachiyomi-pt.leitordemangas-v1.6.57.jar",
-      "sha256": "cc48da0377297cdb32805be3bbbef50b37ffad4a03638e0320a9b96db0025c98"
+      "name": "tachiyomi-pt.leitordemangas-v1.6.58.jar",
+      "sha256": "2eee099aac987b1778b7de974fb348a327f2abb5905fc4de3a5bdc8d740dd58d"
     }
   },
   "eu.kanade.tachiyomi.extension.pt.leituramanga": {
@@ -10661,12 +10661,12 @@
   },
   "eu.kanade.tachiyomi.extension.pt.manganyx": {
     "apk": {
-      "name": "tachiyomi-pt.manganyx-v1.6.3.apk",
-      "sha256": "8c837392bafca2301b2ba28686241ac6294168510ca3cced81364f8b43204cdf"
+      "name": "tachiyomi-pt.manganyx-v1.6.4.apk",
+      "sha256": "c43499b435a103fb22e52854bb760a14a38a01954e5a49aab94087cfbad52fe4"
     },
     "jar": {
-      "name": "tachiyomi-pt.manganyx-v1.6.3.jar",
-      "sha256": "5ad17795b2d11a8d31030036ea57e897827dea142b48534e6fc46756d729b7de"
+      "name": "tachiyomi-pt.manganyx-v1.6.4.jar",
+      "sha256": "c9d07f0bf195ec2902e297cc2e68221d6b8fb90ffef0aaa55e7cd92b523f0543"
     }
   },
   "eu.kanade.tachiyomi.extension.pt.mangaonline": {
@@ -10701,12 +10701,12 @@
   },
   "eu.kanade.tachiyomi.extension.pt.mangasbrasuka": {
     "apk": {
-      "name": "tachiyomi-pt.mangasbrasuka-v1.6.60.apk",
-      "sha256": "8507b35fd0be225b852cacf5a52e904344b15fb3838f392bf6c63849091f4bf6"
+      "name": "tachiyomi-pt.mangasbrasuka-v1.6.61.apk",
+      "sha256": "8d419cc1aa09fff39ecfeb68fc96773bd782305578945166351d1f3530f4c416"
     },
     "jar": {
-      "name": "tachiyomi-pt.mangasbrasuka-v1.6.60.jar",
-      "sha256": "9ac2e80b72692c20f1b7d2aba0b55f7c8c93da2f817f275cff76a9e4210c570c"
+      "name": "tachiyomi-pt.mangasbrasuka-v1.6.61.jar",
+      "sha256": "7847349c92f29e4ee17fb099a5d6314166933b192bbaf7d18fdc376f94deb82f"
     }
   },
   "eu.kanade.tachiyomi.extension.pt.mangastop": {
@@ -10801,12 +10801,12 @@
   },
   "eu.kanade.tachiyomi.extension.pt.mugiwarasoficial": {
     "apk": {
-      "name": "tachiyomi-pt.mugiwarasoficial-v1.6.60.apk",
-      "sha256": "59f23babcd9690e1af7bf5ec9686dc367a5a72750fc67d2630550566d2ef5b47"
+      "name": "tachiyomi-pt.mugiwarasoficial-v1.6.61.apk",
+      "sha256": "b0fe81320f0666dee8c83b928a242f23a3a7cf103364db598b7778157326b0ec"
     },
     "jar": {
-      "name": "tachiyomi-pt.mugiwarasoficial-v1.6.60.jar",
-      "sha256": "25a85dd62fc5f4b9831c6383e824d5b561dbfe903e2c0c0e6afc654220bca65c"
+      "name": "tachiyomi-pt.mugiwarasoficial-v1.6.61.jar",
+      "sha256": "fe022d50f0c946a70fa4a82e11d61ea2990a96064d8669184d591c5d4a31515f"
     }
   },
   "eu.kanade.tachiyomi.extension.pt.muitohentai": {
