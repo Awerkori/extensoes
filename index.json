@@ -32858,20 +32858,20 @@
         "name": "Manga NXY",
         "packageName": "eu.kanade.tachiyomi.extension.pt.manganyx",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/d5ce1b6/tachiyomi-pt.manganyx-v1.6.4.apk",
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/165f001/tachiyomi-pt.manganyx-v1.6.5.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/manganyx/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/d5ce1b6/tachiyomi-pt.manganyx-v1.6.4.jar"
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/165f001/tachiyomi-pt.manganyx-v1.6.5.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106004",
-        "versionName": "1.6.4",
+        "versionCode": "106005",
+        "versionName": "1.6.5",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
             "id": "5545056451990986567",
             "name": "Manga NXY",
             "language": "pt-BR",
-            "homeUrl": "https://manganyx.com"
+            "homeUrl": "https://manganyx.org"
           }
         ]
       },
@@ -34181,13 +34181,13 @@
         "name": "XXX Yaoi",
         "packageName": "eu.kanade.tachiyomi.extension.pt.xxxyaoi",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/325569d/tachiyomi-pt.xxxyaoi-v1.4.59.apk",
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/165f001/tachiyomi-pt.xxxyaoi-v1.6.61.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/xxxyaoi/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/325569d/tachiyomi-pt.xxxyaoi-v1.4.59.jar"
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/165f001/tachiyomi-pt.xxxyaoi-v1.6.61.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104059",
-        "versionName": "1.4.59",
+        "extensionLib": "1.6",
+        "versionCode": "106061",
+        "versionName": "1.6.61",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {

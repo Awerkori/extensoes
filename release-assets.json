@@ -10661,12 +10661,12 @@
   },
   "eu.kanade.tachiyomi.extension.pt.manganyx": {
     "apk": {
-      "name": "tachiyomi-pt.manganyx-v1.6.4.apk",
-      "sha256": "c43499b435a103fb22e52854bb760a14a38a01954e5a49aab94087cfbad52fe4"
+      "name": "tachiyomi-pt.manganyx-v1.6.5.apk",
+      "sha256": "7123214250ddfa2434e2c18e87dc881cb77e3128419ff65e7f370d48751fef2c"
     },
     "jar": {
-      "name": "tachiyomi-pt.manganyx-v1.6.4.jar",
-      "sha256": "c9d07f0bf195ec2902e297cc2e68221d6b8fb90ffef0aaa55e7cd92b523f0543"
+      "name": "tachiyomi-pt.manganyx-v1.6.5.jar",
+      "sha256": "cdccc75343275137c4fcd28632f3c8ff386f7c7987a449cb0c508f17b91d7bb8"
     }
   },
   "eu.kanade.tachiyomi.extension.pt.mangaonline": {
@@ -11291,12 +11291,12 @@
   },
   "eu.kanade.tachiyomi.extension.pt.xxxyaoi": {
     "apk": {
-      "name": "tachiyomi-pt.xxxyaoi-v1.4.59.apk",
-      "sha256": "14b2a70e199231fd4c857412f1af59842799f3437bdf4634463a1d6e6ca0b0d3"
+      "name": "tachiyomi-pt.xxxyaoi-v1.6.61.apk",
+      "sha256": "17ba60ad8221e1509c9bcc10e9622dc87ed5d27ecc52b908b7c6f5699e67f485"
     },
     "jar": {
-      "name": "tachiyomi-pt.xxxyaoi-v1.4.59.jar",
-      "sha256": "85896c478a19679e63ff1dfb89ec4fde9885cbc6b18e13aae986659865518484"
+      "name": "tachiyomi-pt.xxxyaoi-v1.6.61.jar",
+      "sha256": "5b01081ffa801057d4733f758e4d07e3e08f6dc923b9def7cb61b9f506885b21"
     }
   },
   "eu.kanade.tachiyomi.extension.pt.yaoifanclub": {
