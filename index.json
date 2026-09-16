@@ -32609,13 +32609,13 @@
         "name": "CorujaToon",
         "packageName": "eu.kanade.tachiyomi.extension.pt.corujatoon",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/fca6693-2/tachiyomi-pt.corujatoon-v1.6.1.apk",
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/ed11064/tachiyomi-pt.corujatoon-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/corujatoon/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/d6d5c1c-2/tachiyomi-pt.corujatoon-v1.6.1.jar"
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/ed11064/tachiyomi-pt.corujatoon-v1.6.2.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106001",
-        "versionName": "1.6.1",
+        "versionCode": "106002",
+        "versionName": "1.6.2",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -33302,13 +33302,13 @@
         "name": "KuroMangas",
         "packageName": "eu.kanade.tachiyomi.extension.pt.kuromangas",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/fca6693-2/tachiyomi-pt.kuromangas-v1.4.16.apk",
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/ed11064/tachiyomi-pt.kuromangas-v1.4.17.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/kuromangas/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/d6d5c1c-2/tachiyomi-pt.kuromangas-v1.4.16.jar"
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/ed11064/tachiyomi-pt.kuromangas-v1.4.17.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "104016",
-        "versionName": "1.4.16",
+        "versionCode": "104017",
+        "versionName": "1.4.17",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -34223,21 +34223,21 @@
         ]
       },
       {
-        "name": "Point Zero Toons",
+        "name": "Kitsune Yako",
         "packageName": "eu.kanade.tachiyomi.extension.pt.pointzerotoons",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/244559e/tachiyomi-pt.pointzerotoons-v1.6.2.apk",
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/ed11064/tachiyomi-pt.pointzerotoons-v1.6.3.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/pointzerotoons/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/244559e/tachiyomi-pt.pointzerotoons-v1.6.2.jar"
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/ed11064/tachiyomi-pt.pointzerotoons-v1.6.3.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106002",
-        "versionName": "1.6.2",
+        "versionCode": "106003",
+        "versionName": "1.6.3",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "2210021497257492329",
-            "name": "Point Zero Toons",
+            "id": "2697597408611720658",
+            "name": "Kitsune Yako",
             "language": "pt-BR",
             "homeUrl": "https://kitsuneyako.com"
           }
@@ -34940,13 +34940,13 @@
         "name": "XXX Yaoi",
         "packageName": "eu.kanade.tachiyomi.extension.pt.xxxyaoi",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/d744488/tachiyomi-pt.xxxyaoi-v1.6.62.apk",
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/ed11064/tachiyomi-pt.xxxyaoi-v1.6.63.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/xxxyaoi/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/d744488/tachiyomi-pt.xxxyaoi-v1.6.62.jar"
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/ed11064/tachiyomi-pt.xxxyaoi-v1.6.63.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106062",
-        "versionName": "1.6.62",
+        "versionCode": "106063",
+        "versionName": "1.6.63",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
