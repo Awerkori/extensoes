@@ -35057,13 +35057,13 @@
         "name": "OneReader",
         "packageName": "eu.kanade.tachiyomi.extension.pt.onereader",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/fca6693-2/tachiyomi-pt.onereader-v1.6.2.apk",
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/62aca3d/tachiyomi-pt.onereader-v1.6.3.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/onereader/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/d6d5c1c-2/tachiyomi-pt.onereader-v1.6.2.jar"
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/62aca3d/tachiyomi-pt.onereader-v1.6.3.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106002",
-        "versionName": "1.6.2",
+        "versionCode": "106003",
+        "versionName": "1.6.3",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
