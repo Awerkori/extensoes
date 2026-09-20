@@ -34214,6 +34214,27 @@
         ]
       },
       {
+        "name": "KariKari",
+        "packageName": "eu.kanade.tachiyomi.extension.pt.karikari",
+        "resources": {
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/57cfd81/tachiyomi-pt.karikari-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/karikari/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/57cfd81/tachiyomi-pt.karikari-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "7314811139529752687",
+            "name": "KariKari",
+            "language": "pt-BR",
+            "homeUrl": "https://karikari.app"
+          }
+        ]
+      },
+      {
         "name": "KivaraToons",
         "packageName": "eu.kanade.tachiyomi.extension.pt.kivaratoons",
         "resources": {
@@ -35159,21 +35180,21 @@
         ]
       },
       {
-        "name": "Point Zero Toons",
+        "name": "Kitsune Yako",
         "packageName": "eu.kanade.tachiyomi.extension.pt.pointzerotoons",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/fa2adb3/tachiyomi-pt.pointzerotoons-v1.6.2.apk",
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/57cfd81/tachiyomi-pt.pointzerotoons-v1.6.4.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/pointzerotoons/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/fa2adb3/tachiyomi-pt.pointzerotoons-v1.6.2.jar"
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/57cfd81/tachiyomi-pt.pointzerotoons-v1.6.4.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106002",
-        "versionName": "1.6.2",
+        "versionCode": "106004",
+        "versionName": "1.6.4",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "2210021497257492329",
-            "name": "Point Zero Toons",
+            "id": "2697597408611720658",
+            "name": "Kitsune Yako",
             "language": "pt-BR",
             "homeUrl": "https://kitsuneyako.com"
           }

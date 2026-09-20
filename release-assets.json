@@ -10529,6 +10529,16 @@
       "sha256": "7ba2fc42a11dfe10c749dfb2beb03f826cc99c2e2b9d8ff5154b14881aece80c"
     }
   },
+  "eu.kanade.tachiyomi.extension.pt.karikari": {
+    "apk": {
+      "name": "tachiyomi-pt.karikari-v1.6.1.apk",
+      "sha256": "a31717ecde17d3959baccb53990afb98ddfbcbcf5ce606169e0fb007b0a13b8f"
+    },
+    "jar": {
+      "name": "tachiyomi-pt.karikari-v1.6.1.jar",
+      "sha256": "3a0134b0e66f346975dfeca560ea502be2d1d4c4039a412a6a90e66b0e5f875b"
+    }
+  },
   "eu.kanade.tachiyomi.extension.pt.kivaratoons": {
     "apk": {
       "name": "tachiyomi-pt.kivaratoons-v1.6.3.apk",
@@ -10981,12 +10991,12 @@
   },
   "eu.kanade.tachiyomi.extension.pt.pointzerotoons": {
     "apk": {
-      "name": "tachiyomi-pt.pointzerotoons-v1.6.2.apk",
-      "sha256": "1b2c3da8414dbe3086ff456e31f2790888316d5e7085c1c7e5ef84e296bd7507"
+      "name": "tachiyomi-pt.pointzerotoons-v1.6.4.apk",
+      "sha256": "445ec9985766d6dc5cb83491d9c7354c992a7847b2277f75248bc186977e8b93"
     },
     "jar": {
-      "name": "tachiyomi-pt.pointzerotoons-v1.6.2.jar",
-      "sha256": "2d79cef024a0502cbec6a01de1f2478d0ac6269dee6ab2071d70516eaa758c8b"
+      "name": "tachiyomi-pt.pointzerotoons-v1.6.4.jar",
+      "sha256": "23bfcd73a1b08cfb9f8d8e73a874194c20782e307b2c0312169f4f619bbf3ca3"
     }
   },
   "eu.kanade.tachiyomi.extension.pt.portalyaoi": {
