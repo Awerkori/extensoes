@@ -10341,12 +10341,12 @@
   },
   "eu.kanade.tachiyomi.extension.pt.geasscomics": {
     "apk": {
-      "name": "tachiyomi-pt.geasscomics-v1.6.5.apk",
-      "sha256": "a6e82a544ee1cd6f3e093041334baad06bcd52caf166f2790dd878085931c33d"
+      "name": "tachiyomi-pt.geasscomics-v1.6.6.apk",
+      "sha256": "e6418eb5a2a7c6a24a9646022f74c2f1b639599dbf6ed79436d5909e458693b6"
     },
     "jar": {
-      "name": "tachiyomi-pt.geasscomics-v1.6.5.jar",
-      "sha256": "53fdab6811df4bfd94223fcd4504dc2108a8a3bae9f185cfa33595ece00d49d5"
+      "name": "tachiyomi-pt.geasscomics-v1.6.6.jar",
+      "sha256": "823076cbf5e5bef90cf70a4027a95459e631229587abd8a4e8eddaa95a4c9558"
     }
   },
   "eu.kanade.tachiyomi.extension.pt.ghostscan": {

@@ -34775,13 +34775,13 @@
         "name": "Geass Comics",
         "packageName": "eu.kanade.tachiyomi.extension.pt.geasscomics",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/eb4f2a0-2/tachiyomi-pt.geasscomics-v1.6.5.apk",
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/17d4277/tachiyomi-pt.geasscomics-v1.6.6.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/geasscomics/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/d6d5c1c-2/tachiyomi-pt.geasscomics-v1.6.5.jar"
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/17d4277/tachiyomi-pt.geasscomics-v1.6.6.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106005",
-        "versionName": "1.6.5",
+        "versionCode": "106006",
+        "versionName": "1.6.6",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
