@@ -35171,6 +35171,27 @@
         ]
       },
       {
+        "name": "KariKari",
+        "packageName": "eu.kanade.tachiyomi.extension.pt.karikari",
+        "resources": {
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/25fcf5c/tachiyomi-pt.karikari-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/karikari/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/25fcf5c/tachiyomi-pt.karikari-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "7314811139529752687",
+            "name": "KariKari",
+            "language": "pt-BR",
+            "homeUrl": "https://karikari.app"
+          }
+        ]
+      },
+      {
         "name": "KivaraToons",
         "packageName": "eu.kanade.tachiyomi.extension.pt.kivaratoons",
         "resources": {
@@ -35993,13 +36014,13 @@
         "name": "OneReader",
         "packageName": "eu.kanade.tachiyomi.extension.pt.onereader",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/83a7585/tachiyomi-pt.onereader-v1.6.2.apk",
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/25fcf5c/tachiyomi-pt.onereader-v1.6.3.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/onereader/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/83a7585/tachiyomi-pt.onereader-v1.6.2.jar"
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/25fcf5c/tachiyomi-pt.onereader-v1.6.3.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106002",
-        "versionName": "1.6.2",
+        "versionCode": "106003",
+        "versionName": "1.6.3",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {

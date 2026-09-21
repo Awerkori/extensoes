@@ -10529,6 +10529,16 @@
       "sha256": "7055a2861e0d06b66df8a7028b51c359946ccb4f44e2b75e853678a7357ac9d1"
     }
   },
+  "eu.kanade.tachiyomi.extension.pt.karikari": {
+    "apk": {
+      "name": "tachiyomi-pt.karikari-v1.6.1.apk",
+      "sha256": "72ae9b150957c485aa9580b9dfc8b08bc0338a284111628ec7cf3cea9db35a72"
+    },
+    "jar": {
+      "name": "tachiyomi-pt.karikari-v1.6.1.jar",
+      "sha256": "3a0134b0e66f346975dfeca560ea502be2d1d4c4039a412a6a90e66b0e5f875b"
+    }
+  },
   "eu.kanade.tachiyomi.extension.pt.kivaratoons": {
     "apk": {
       "name": "tachiyomi-pt.kivaratoons-v1.6.3.apk",
@@ -10921,12 +10931,12 @@
   },
   "eu.kanade.tachiyomi.extension.pt.onereader": {
     "apk": {
-      "name": "tachiyomi-pt.onereader-v1.6.2.apk",
-      "sha256": "6e48e84af2cd5a6713d6c8e21de1c3f4c802b7ad64388928b0cca63cc3afa8c5"
+      "name": "tachiyomi-pt.onereader-v1.6.3.apk",
+      "sha256": "8aaaff775de97f3f22ad6ccea54e0a36fbaa8bb163cd3802efbe54d73536a31b"
     },
     "jar": {
-      "name": "tachiyomi-pt.onereader-v1.6.2.jar",
-      "sha256": "0a6443ddbedfbe107372348a6d16cae437b8b353343cf43d84211250875dad03"
+      "name": "tachiyomi-pt.onereader-v1.6.3.jar",
+      "sha256": "c2c6ede197a762b3acf174be4cd127041488f19f54dfd7dc171985f287729ea7"
     }
   },
   "eu.kanade.tachiyomi.extension.pt.osakascan": {
