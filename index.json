@@ -36147,20 +36147,20 @@
         "name": "Fenix Project",
         "packageName": "eu.kanade.tachiyomi.extension.pt.fenixproject",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/eb4f2a0-2/tachiyomi-pt.fenixproject-v1.4.55.apk",
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/2342def/tachiyomi-pt.fenixproject-v1.4.56.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/fenixproject/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/d6d5c1c-2/tachiyomi-pt.fenixproject-v1.4.55.jar"
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/2342def/tachiyomi-pt.fenixproject-v1.4.56.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "104055",
-        "versionName": "1.4.55",
+        "versionCode": "104056",
+        "versionName": "1.4.56",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
             "id": "8852449878379679769",
             "name": "Fenix Project",
             "language": "pt-BR",
-            "homeUrl": "https://fenixproject.site"
+            "homeUrl": "https://fenixproject.website"
           }
         ]
       },
@@ -37026,44 +37026,23 @@
         ]
       },
       {
-        "name": "Manga Online RED",
+        "name": "Manga Online",
         "packageName": "eu.kanade.tachiyomi.extension.pt.mangaonline",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/eb4f2a0-2/tachiyomi-pt.mangaonline-v1.4.60.apk",
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/2342def/tachiyomi-pt.mangaonline-v1.4.61.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/mangaonline/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/d6d5c1c-2/tachiyomi-pt.mangaonline-v1.4.60.jar"
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/2342def/tachiyomi-pt.mangaonline-v1.4.61.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "104060",
-        "versionName": "1.4.60",
+        "versionCode": "104061",
+        "versionName": "1.4.61",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
             "id": "1057607826304767869",
-            "name": "Manga Online RED",
+            "name": "Manga Online",
             "language": "pt-BR",
-            "homeUrl": "https://mangaonline.red"
-          }
-        ]
-      },
-      {
-        "name": "Manga Online GREEN",
-        "packageName": "eu.kanade.tachiyomi.extension.pt.mangaonlinegreen",
-        "resources": {
-          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/eb4f2a0-2/tachiyomi-pt.mangaonlinegreen-v1.6.1.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/mangaonlinegreen/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/d6d5c1c-2/tachiyomi-pt.mangaonlinegreen-v1.6.1.jar"
-        },
-        "extensionLib": "1.6",
-        "versionCode": "106001",
-        "versionName": "1.6.1",
-        "contentWarning": "CONTENT_WARNING_MIXED",
-        "sources": [
-          {
-            "id": "1894377899418900536",
-            "name": "Manga Online GREEN",
-            "language": "pt-BR",
-            "homeUrl": "https://mangaonline.green"
+            "homeUrl": "https://mangaonline.love"
           }
         ]
       },
@@ -37652,6 +37631,27 @@
             "name": "Portal Yaoi",
             "language": "pt-BR",
             "homeUrl": "https://portalyaoi.com"
+          }
+        ]
+      },
+      {
+        "name": "Ragnarok Scanlation",
+        "packageName": "eu.kanade.tachiyomi.extension.pt.ragnarokscanlation",
+        "resources": {
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/2342def/tachiyomi-pt.ragnarokscanlation-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/ragnarokscanlation/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/2342def/tachiyomi-pt.ragnarokscanlation-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "2871520001251058293",
+            "name": "Ragnarok Scanlation",
+            "language": "pt-BR",
+            "homeUrl": "https://ragnarokscanlation.org"
           }
         ]
       },
@@ -38268,13 +38268,13 @@
         "name": "Vegitoons",
         "packageName": "eu.kanade.tachiyomi.extension.pt.vegitoons",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/b245965-2/tachiyomi-pt.vegitoons-v1.4.12.apk",
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/2342def/tachiyomi-pt.vegitoons-v1.4.13.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/vegitoons/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/d6d5c1c-2/tachiyomi-pt.vegitoons-v1.4.12.jar"
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/2342def/tachiyomi-pt.vegitoons-v1.4.13.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "104012",
-        "versionName": "1.4.12",
+        "versionCode": "104013",
+        "versionName": "1.4.13",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
