@@ -7093,6 +7093,27 @@
         ]
       },
       {
+        "name": "Ragnarok Scanlation",
+        "packageName": "eu.kanade.tachiyomi.extension.all.ragnarokscanlation",
+        "resources": {
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/8163a29/tachiyomi-all.ragnarokscanlation-v1.6.2.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/all/ragnarokscanlation/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/8163a29/tachiyomi-all.ragnarokscanlation-v1.6.2.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106002",
+        "versionName": "1.6.2",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "1773323196117952410",
+            "name": "Ragnarok Scanlation",
+            "language": "all",
+            "homeUrl": "https://ragnarokscanlation.org"
+          }
+        ]
+      },
+      {
         "name": "RokuHentai",
         "packageName": "eu.kanade.tachiyomi.extension.all.rokuhentai",
         "resources": {
@@ -36168,13 +36189,13 @@
         "name": "Fleur Blanche",
         "packageName": "eu.kanade.tachiyomi.extension.pt.fleurblanche",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/b245965-2/tachiyomi-pt.fleurblanche-v1.6.60.apk",
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/8163a29/tachiyomi-pt.fleurblanche-v1.6.61.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/fleurblanche/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/c436bb8/tachiyomi-pt.fleurblanche-v1.6.60.jar"
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/8163a29/tachiyomi-pt.fleurblanche-v1.6.61.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106060",
-        "versionName": "1.6.60",
+        "versionCode": "106061",
+        "versionName": "1.6.61",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -37470,13 +37491,13 @@
         "name": "OneReader",
         "packageName": "eu.kanade.tachiyomi.extension.pt.onereader",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/bfa4257/tachiyomi-pt.onereader-v1.6.4.apk",
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/8163a29/tachiyomi-pt.onereader-v1.6.5.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/onereader/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/bfa4257/tachiyomi-pt.onereader-v1.6.4.jar"
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/8163a29/tachiyomi-pt.onereader-v1.6.5.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106004",
-        "versionName": "1.6.4",
+        "versionCode": "106005",
+        "versionName": "1.6.5",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -37596,13 +37617,13 @@
         "name": "Kitsune Yako",
         "packageName": "eu.kanade.tachiyomi.extension.pt.pointzerotoons",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/b245965-2/tachiyomi-pt.pointzerotoons-v1.6.4.apk",
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/8163a29/tachiyomi-pt.pointzerotoons-v1.6.5.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/pointzerotoons/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/57cfd81/tachiyomi-pt.pointzerotoons-v1.6.4.jar"
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/8163a29/tachiyomi-pt.pointzerotoons-v1.6.5.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106004",
-        "versionName": "1.6.4",
+        "versionCode": "106005",
+        "versionName": "1.6.5",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -37631,27 +37652,6 @@
             "name": "Portal Yaoi",
             "language": "pt-BR",
             "homeUrl": "https://portalyaoi.com"
-          }
-        ]
-      },
-      {
-        "name": "Ragnarok Scanlation",
-        "packageName": "eu.kanade.tachiyomi.extension.pt.ragnarokscanlation",
-        "resources": {
-          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/2342def/tachiyomi-pt.ragnarokscanlation-v1.6.1.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/ragnarokscanlation/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/2342def/tachiyomi-pt.ragnarokscanlation-v1.6.1.jar"
-        },
-        "extensionLib": "1.6",
-        "versionCode": "106001",
-        "versionName": "1.6.1",
-        "contentWarning": "CONTENT_WARNING_MIXED",
-        "sources": [
-          {
-            "id": "2871520001251058293",
-            "name": "Ragnarok Scanlation",
-            "language": "pt-BR",
-            "homeUrl": "https://ragnarokscanlation.org"
           }
         ]
       },
@@ -37953,13 +37953,13 @@
         "name": "TaimuMangas",
         "packageName": "eu.kanade.tachiyomi.extension.pt.taimumangas",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/b245965-2/tachiyomi-pt.taimumangas-v1.4.2.apk",
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/8163a29/tachiyomi-pt.taimumangas-v1.4.3.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/taimumangas/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/d6d5c1c-2/tachiyomi-pt.taimumangas-v1.4.2.jar"
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/8163a29/tachiyomi-pt.taimumangas-v1.4.3.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "104002",
-        "versionName": "1.4.2",
+        "versionCode": "104003",
+        "versionName": "1.4.3",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -38310,13 +38310,13 @@
         "name": "XXX Yaoi",
         "packageName": "eu.kanade.tachiyomi.extension.pt.xxxyaoi",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/b245965-2/tachiyomi-pt.xxxyaoi-v1.6.63.apk",
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/8163a29/tachiyomi-pt.xxxyaoi-v1.6.64.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/xxxyaoi/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/c436bb8/tachiyomi-pt.xxxyaoi-v1.6.63.jar"
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/8163a29/tachiyomi-pt.xxxyaoi-v1.6.64.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106063",
-        "versionName": "1.6.63",
+        "versionCode": "106064",
+        "versionName": "1.6.64",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
