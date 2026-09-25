@@ -10321,12 +10321,12 @@
   },
   "eu.kanade.tachiyomi.extension.pt.fenixproject": {
     "apk": {
-      "name": "tachiyomi-pt.fenixproject-v1.4.56.apk",
-      "sha256": "588291eacf42c4978b7c38da678769d89dfd54b24a4dcf81901fc8acbda81abc"
+      "name": "tachiyomi-pt.fenixproject-v1.4.57.apk",
+      "sha256": "e781c493d59acc6e42005a9555c44337e92bbcc985ff37c7a5f5d96762c0e510"
     },
     "jar": {
-      "name": "tachiyomi-pt.fenixproject-v1.4.56.jar",
-      "sha256": "0a073932bcf0e6e3055b7eceb90d9c5702fb288694f8ad8d8c306a60d2f7ab96"
+      "name": "tachiyomi-pt.fenixproject-v1.4.57.jar",
+      "sha256": "8116193300b9839b0c8412b830da8bf8ca6ac6ffaa0690752a5c474609fdbb1b"
     }
   },
   "eu.kanade.tachiyomi.extension.pt.fleurblanche": {

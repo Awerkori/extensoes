@@ -36210,13 +36210,13 @@
         "name": "Fenix Project",
         "packageName": "eu.kanade.tachiyomi.extension.pt.fenixproject",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/2342def/tachiyomi-pt.fenixproject-v1.4.56.apk",
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/f7a8a6a/tachiyomi-pt.fenixproject-v1.4.57.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/fenixproject/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/2342def/tachiyomi-pt.fenixproject-v1.4.56.jar"
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/f7a8a6a/tachiyomi-pt.fenixproject-v1.4.57.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "104056",
-        "versionName": "1.4.56",
+        "versionCode": "104057",
+        "versionName": "1.4.57",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
