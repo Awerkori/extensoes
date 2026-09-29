@@ -39310,13 +39310,13 @@
         "name": "Portal Yaoi",
         "packageName": "eu.kanade.tachiyomi.extension.pt.portalyaoi",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/ab1c0fe/tachiyomi-pt.portalyaoi-v1.6.60.apk",
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/a3805b3/tachiyomi-pt.portalyaoi-v1.6.61.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/portalyaoi/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/ab1c0fe/tachiyomi-pt.portalyaoi-v1.6.60.jar"
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/a3805b3/tachiyomi-pt.portalyaoi-v1.6.61.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106060",
-        "versionName": "1.6.60",
+        "versionCode": "106061",
+        "versionName": "1.6.61",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {

@@ -10881,12 +10881,12 @@
   },
   "eu.kanade.tachiyomi.extension.pt.portalyaoi": {
     "apk": {
-      "name": "tachiyomi-pt.portalyaoi-v1.6.60.apk",
-      "sha256": "6685030464d08b07971a64757f73a6ddec9f342745b2cfa8570b96d7064e1aeb"
+      "name": "tachiyomi-pt.portalyaoi-v1.6.61.apk",
+      "sha256": "6453c13c2292deb01d3a67119841b0d601a913a3e215d196f420e6313dafc645"
     },
     "jar": {
-      "name": "tachiyomi-pt.portalyaoi-v1.6.60.jar",
-      "sha256": "a3bf185a67bc92903f27b58875ece6da20e0590f00689fa8e8d16de3eb95599d"
+      "name": "tachiyomi-pt.portalyaoi-v1.6.61.jar",
+      "sha256": "4440c0916bac0fcb3e9599c6d95416310df1393df4d2d709ac74f61570d4234f"
     }
   },
   "eu.kanade.tachiyomi.extension.pt.randomscan": {
