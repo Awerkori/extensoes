@@ -38491,13 +38491,13 @@
         "name": "Little Tyrant",
         "packageName": "eu.kanade.tachiyomi.extension.pt.littletyrant",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/ab1c0fe/tachiyomi-pt.littletyrant-v1.4.68.apk",
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/06723fc/tachiyomi-pt.littletyrant-v1.6.69.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/littletyrant/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/ab1c0fe/tachiyomi-pt.littletyrant-v1.4.68.jar"
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/06723fc/tachiyomi-pt.littletyrant-v1.6.69.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104068",
-        "versionName": "1.4.68",
+        "extensionLib": "1.6",
+        "versionCode": "106069",
+        "versionName": "1.6.69",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
