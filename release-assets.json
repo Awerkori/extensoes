@@ -10579,16 +10579,6 @@
       "sha256": "f7ed4b204f4526001295354a4db520381ba7e5fe74a7cf74ad59c62de6c57402"
     }
   },
-  "eu.kanade.tachiyomi.extension.pt.manganight": {
-    "apk": {
-      "name": "tachiyomi-pt.manganight-v1.6.1.apk",
-      "sha256": "8ad6760e546948bc9189b409e48e3b20f58c950f77d1ad60651d5f801e70aeae"
-    },
-    "jar": {
-      "name": "tachiyomi-pt.manganight-v1.6.1.jar",
-      "sha256": "16031f192098ea6ddda54a529db47290ea4d6a12926bbc68417a54ea2dc0a1ce"
-    }
-  },
   "eu.kanade.tachiyomi.extension.pt.manganyx": {
     "apk": {
       "name": "tachiyomi-pt.manganyx-v1.6.6.apk",

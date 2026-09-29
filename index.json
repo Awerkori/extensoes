@@ -38719,27 +38719,6 @@
         ]
       },
       {
-        "name": "Manga Night",
-        "packageName": "eu.kanade.tachiyomi.extension.pt.manganight",
-        "resources": {
-          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/b245965-2/tachiyomi-pt.manganight-v1.6.1.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/manganight/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/d6d5c1c-2/tachiyomi-pt.manganight-v1.6.1.jar"
-        },
-        "extensionLib": "1.6",
-        "versionCode": "106001",
-        "versionName": "1.6.1",
-        "contentWarning": "CONTENT_WARNING_SAFE",
-        "sources": [
-          {
-            "id": "5824558789854801098",
-            "name": "Manga Night",
-            "language": "pt-BR",
-            "homeUrl": "https://www.manganight.com.br"
-          }
-        ]
-      },
-      {
         "name": "Manga NXY",
         "packageName": "eu.kanade.tachiyomi.extension.pt.manganyx",
         "resources": {
