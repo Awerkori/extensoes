@@ -39394,13 +39394,13 @@
         "name": "Portal Yaoi",
         "packageName": "eu.kanade.tachiyomi.extension.pt.portalyaoi",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/a3805b3/tachiyomi-pt.portalyaoi-v1.6.61.apk",
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/66bdd03/tachiyomi-pt.portalyaoi-v1.6.62.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/portalyaoi/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/a3805b3/tachiyomi-pt.portalyaoi-v1.6.61.jar"
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/66bdd03/tachiyomi-pt.portalyaoi-v1.6.62.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106061",
-        "versionName": "1.6.61",
+        "versionCode": "106062",
+        "versionName": "1.6.62",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -40066,13 +40066,13 @@
         "name": "XXX Yaoi",
         "packageName": "eu.kanade.tachiyomi.extension.pt.xxxyaoi",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/ab1c0fe/tachiyomi-pt.xxxyaoi-v1.6.64.apk",
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/66bdd03/tachiyomi-pt.xxxyaoi-v1.6.65.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/xxxyaoi/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/ab1c0fe/tachiyomi-pt.xxxyaoi-v1.6.64.jar"
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/66bdd03/tachiyomi-pt.xxxyaoi-v1.6.65.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106064",
-        "versionName": "1.6.64",
+        "versionCode": "106065",
+        "versionName": "1.6.65",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {

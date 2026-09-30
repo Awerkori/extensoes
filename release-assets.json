@@ -10881,12 +10881,12 @@
   },
   "eu.kanade.tachiyomi.extension.pt.portalyaoi": {
     "apk": {
-      "name": "tachiyomi-pt.portalyaoi-v1.6.61.apk",
-      "sha256": "6453c13c2292deb01d3a67119841b0d601a913a3e215d196f420e6313dafc645"
+      "name": "tachiyomi-pt.portalyaoi-v1.6.62.apk",
+      "sha256": "ca24c6d6399483c638c87c3e003bd3e48323a2168ff25f6e0b6da2ef9a620825"
     },
     "jar": {
-      "name": "tachiyomi-pt.portalyaoi-v1.6.61.jar",
-      "sha256": "4440c0916bac0fcb3e9599c6d95416310df1393df4d2d709ac74f61570d4234f"
+      "name": "tachiyomi-pt.portalyaoi-v1.6.62.jar",
+      "sha256": "2e1436e74980427236f5d1f222dc2c32a327d10f605cfbc4dadf8f43912c16aa"
     }
   },
   "eu.kanade.tachiyomi.extension.pt.randomscan": {
@@ -11201,12 +11201,12 @@
   },
   "eu.kanade.tachiyomi.extension.pt.xxxyaoi": {
     "apk": {
-      "name": "tachiyomi-pt.xxxyaoi-v1.6.64.apk",
-      "sha256": "37c336b405ae085bb0d44df3d64f620b7814364c268bfe31d741ac10ec99d1e7"
+      "name": "tachiyomi-pt.xxxyaoi-v1.6.65.apk",
+      "sha256": "937d600b32f7e05d9cbb9e4525b26144f2b250e7e1acb0260762285cb5f61ab0"
     },
     "jar": {
-      "name": "tachiyomi-pt.xxxyaoi-v1.6.64.jar",
-      "sha256": "731db467ad6ca4534c332185948fc92a87517ace164461eea605f45bf41fb19e"
+      "name": "tachiyomi-pt.xxxyaoi-v1.6.65.jar",
+      "sha256": "3abbadd12b8542c17af216220a8ff84f5b415b0be529ff375aa17c623dff188f"
     }
   },
   "eu.kanade.tachiyomi.extension.pt.yaoifanclub": {
