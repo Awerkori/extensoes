@@ -10231,12 +10231,12 @@
   },
   "eu.kanade.tachiyomi.extension.pt.galaxscanlator": {
     "apk": {
-      "name": "tachiyomi-pt.galaxscanlator-v1.6.16.apk",
-      "sha256": "9bdfc9da3bc314a2488e87aaac7c582bad9e329e705c8251cd00ae37e000af32"
+      "name": "tachiyomi-pt.galaxscanlator-v1.6.17.apk",
+      "sha256": "838773b4493cddb02a4a07173f8e8bc4855a15bf08765b058ec781bfe3d38f7d"
     },
     "jar": {
-      "name": "tachiyomi-pt.galaxscanlator-v1.6.16.jar",
-      "sha256": "7f15d01a7ad393c4252a5c406d42c8f59bb2282bba865be4d9237f556b8fa0ec"
+      "name": "tachiyomi-pt.galaxscanlator-v1.6.17.jar",
+      "sha256": "e15aefbbefce3a9e7c8aa6bf6074a976033acf0b5bc645fab9909ad73614a2bc"
     }
   },
   "eu.kanade.tachiyomi.extension.pt.geasscomics": {

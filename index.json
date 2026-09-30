@@ -37987,13 +37987,13 @@
         "name": "GALAX Scans",
         "packageName": "eu.kanade.tachiyomi.extension.pt.galaxscanlator",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/b245965-2/tachiyomi-pt.galaxscanlator-v1.6.16.apk",
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/42a7e22/tachiyomi-pt.galaxscanlator-v1.6.17.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/galaxscanlator/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/d6d5c1c-2/tachiyomi-pt.galaxscanlator-v1.6.16.jar"
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/42a7e22/tachiyomi-pt.galaxscanlator-v1.6.17.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106016",
-        "versionName": "1.6.16",
+        "versionCode": "106017",
+        "versionName": "1.6.17",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
