@@ -10811,12 +10811,12 @@
   },
   "eu.kanade.tachiyomi.extension.pt.onereader": {
     "apk": {
-      "name": "tachiyomi-pt.onereader-v1.6.5.apk",
-      "sha256": "31b0f9e8b1de94b11ae73792d63fa0e5a8318062596f894df3aead5b2f4f9a6e"
+      "name": "tachiyomi-pt.onereader-v1.6.6.apk",
+      "sha256": "17a4ea107c9b23b4fe3279654e1892ce086e6ca4e27ee7e148933b8c2af18cf0"
     },
     "jar": {
-      "name": "tachiyomi-pt.onereader-v1.6.5.jar",
-      "sha256": "3518ab2517f08c9144b2ae33a6cbe0733ced9509d69f4739e4cac4d88262a059"
+      "name": "tachiyomi-pt.onereader-v1.6.6.jar",
+      "sha256": "5771961032733ee8a0414e61bfaea661da701089bccb380c2b73aa72b4358c76"
     }
   },
   "eu.kanade.tachiyomi.extension.pt.osakascan": {
