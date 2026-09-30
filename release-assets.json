@@ -10161,12 +10161,12 @@
   },
   "eu.kanade.tachiyomi.extension.pt.egotoons": {
     "apk": {
-      "name": "tachiyomi-pt.egotoons-v1.6.9.apk",
-      "sha256": "888fb52b2373366fe5264cc027e3a3f5aeff20b511fd78a17aaab9df11aebf61"
+      "name": "tachiyomi-pt.egotoons-v1.6.10.apk",
+      "sha256": "fd1321ab17e35f9ecdb057f9504ce503006134be7adcad92df7cafb99068f6c8"
     },
     "jar": {
-      "name": "tachiyomi-pt.egotoons-v1.6.9.jar",
-      "sha256": "1ea831f921a22e80f6aa837148c036e54be60b579021da40c301f2366d55b786"
+      "name": "tachiyomi-pt.egotoons-v1.6.10.jar",
+      "sha256": "da395ea9be5755b20189509bda3cd7a0cde8f75d9c68c2128b3e465092ce77b4"
     }
   },
   "eu.kanade.tachiyomi.extension.pt.erosect": {
@@ -10811,12 +10811,12 @@
   },
   "eu.kanade.tachiyomi.extension.pt.onereader": {
     "apk": {
-      "name": "tachiyomi-pt.onereader-v1.6.6.apk",
-      "sha256": "17a4ea107c9b23b4fe3279654e1892ce086e6ca4e27ee7e148933b8c2af18cf0"
+      "name": "tachiyomi-pt.onereader-v1.6.7.apk",
+      "sha256": "118bd3c5279f37b23340cb8aaf00ce6595609f72e992273dd8eeeb4b18608426"
     },
     "jar": {
-      "name": "tachiyomi-pt.onereader-v1.6.6.jar",
-      "sha256": "5771961032733ee8a0414e61bfaea661da701089bccb380c2b73aa72b4358c76"
+      "name": "tachiyomi-pt.onereader-v1.6.7.jar",
+      "sha256": "27166681eb8aec79d225f578a06e005a2c421057e1e7359bb12396f82c214c35"
     }
   },
   "eu.kanade.tachiyomi.extension.pt.osakascan": {

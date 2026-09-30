@@ -37882,13 +37882,13 @@
         "name": "Ego Toons",
         "packageName": "eu.kanade.tachiyomi.extension.pt.egotoons",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/b245965-2/tachiyomi-pt.egotoons-v1.6.9.apk",
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/4eebdbf/tachiyomi-pt.egotoons-v1.6.10.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/egotoons/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/d6d5c1c-2/tachiyomi-pt.egotoons-v1.6.9.jar"
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/4eebdbf/tachiyomi-pt.egotoons-v1.6.10.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106009",
-        "versionName": "1.6.9",
+        "versionCode": "106010",
+        "versionName": "1.6.10",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -39247,13 +39247,13 @@
         "name": "OneReader",
         "packageName": "eu.kanade.tachiyomi.extension.pt.onereader",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/8b9906d/tachiyomi-pt.onereader-v1.6.6.apk",
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/4eebdbf/tachiyomi-pt.onereader-v1.6.7.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/onereader/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/8b9906d/tachiyomi-pt.onereader-v1.6.6.jar"
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/4eebdbf/tachiyomi-pt.onereader-v1.6.7.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106006",
-        "versionName": "1.6.6",
+        "versionCode": "106007",
+        "versionName": "1.6.7",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
