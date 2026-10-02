@@ -11131,12 +11131,12 @@
   },
   "eu.kanade.tachiyomi.extension.pt.spectralscan": {
     "apk": {
-      "name": "tachiyomi-pt.spectralscan-v1.4.62.apk",
-      "sha256": "f6fe6f988df89411421d4fa89cf21677b659e9ee90e943e4bcf0fbb08fdb9002"
+      "name": "tachiyomi-pt.spectralscan-v1.6.63.apk",
+      "sha256": "dcc0de30d45a780a45263cc8c39027ba37fe88b5914aab2ea8df2809289fdb67"
     },
     "jar": {
-      "name": "tachiyomi-pt.spectralscan-v1.4.62.jar",
-      "sha256": "a750f250a49ace2003a0b919be9311251490632b74efeb7a13d73ec71f38587b"
+      "name": "tachiyomi-pt.spectralscan-v1.6.63.jar",
+      "sha256": "e1d36bf2953adba611a2f6cdd23307c7efecfa9f4df9cd00946b47bcb9d61660"
     }
   },
   "eu.kanade.tachiyomi.extension.pt.sssscanlator": {

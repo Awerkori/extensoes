@@ -40066,13 +40066,13 @@
         "name": "Nexus Toons",
         "packageName": "eu.kanade.tachiyomi.extension.pt.spectralscan",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/b245965-2/tachiyomi-pt.spectralscan-v1.4.62.apk",
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/20f5774/tachiyomi-pt.spectralscan-v1.6.63.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/spectralscan/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/d6d5c1c-2/tachiyomi-pt.spectralscan-v1.4.62.jar"
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/20f5774/tachiyomi-pt.spectralscan-v1.6.63.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104062",
-        "versionName": "1.4.62",
+        "extensionLib": "1.6",
+        "versionCode": "106063",
+        "versionName": "1.6.63",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
