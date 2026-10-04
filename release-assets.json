@@ -10701,12 +10701,12 @@
   },
   "eu.kanade.tachiyomi.extension.pt.mangalivre": {
     "apk": {
-      "name": "tachiyomi-pt.mangalivre-v1.6.90.apk",
-      "sha256": "627a7fe61f954caa7abdc5766addca42a861acdc5bd43efcca225f520f21c578"
+      "name": "tachiyomi-pt.mangalivre-v1.6.91.apk",
+      "sha256": "5a8254347393e58dc354c8dcc9ffee1da950604315a6a70ba7edecc610e76026"
     },
     "jar": {
-      "name": "tachiyomi-pt.mangalivre-v1.6.90.jar",
-      "sha256": "b2e5cbbc1a02cb78d2521c8b8a0f4e4897e25730a3c2a543d105e632bc9d1097"
+      "name": "tachiyomi-pt.mangalivre-v1.6.91.jar",
+      "sha256": "dc0d97b9a86e245f1645b87da8c0fef75e59d746aa2c7844d465ed04d35c2b5f"
     }
   },
   "eu.kanade.tachiyomi.extension.pt.mangalivreblog": {

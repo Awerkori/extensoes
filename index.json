@@ -40204,13 +40204,13 @@
         "name": "ToonLivre",
         "packageName": "eu.kanade.tachiyomi.extension.pt.mangalivre",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/b245965-2/tachiyomi-pt.mangalivre-v1.6.90.apk",
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/910f6c8/tachiyomi-pt.mangalivre-v1.6.91.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/mangalivre/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/d6d5c1c-2/tachiyomi-pt.mangalivre-v1.6.90.jar"
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/910f6c8/tachiyomi-pt.mangalivre-v1.6.91.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106090",
-        "versionName": "1.6.90",
+        "versionCode": "106091",
+        "versionName": "1.6.91",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
