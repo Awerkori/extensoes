@@ -10661,12 +10661,12 @@
   },
   "eu.kanade.tachiyomi.extension.pt.maidscan": {
     "apk": {
-      "name": "tachiyomi-pt.maidscan-v1.4.63.apk",
-      "sha256": "6b7447f65bce40ba7246eedbf846a7cadb60c2545ec41deb5527229314adbb2b"
+      "name": "tachiyomi-pt.maidscan-v1.4.64.apk",
+      "sha256": "6e0b51f61196ab36847c172d424fb5a8f04c9aff98b7755069c800e022f25097"
     },
     "jar": {
-      "name": "tachiyomi-pt.maidscan-v1.4.63.jar",
-      "sha256": "13c6d7d4a19fded25edb943b63938af9c7e41d7d94884e8a2a1960e94500b62e"
+      "name": "tachiyomi-pt.maidscan-v1.4.64.jar",
+      "sha256": "1d212b83fa832bc233b21eea71a2fc13fcca3a0fcdf2b8309131cb0224d195c0"
     }
   },
   "eu.kanade.tachiyomi.extension.pt.mangadash": {

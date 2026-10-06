@@ -40116,13 +40116,13 @@
         "name": "Maid Scan",
         "packageName": "eu.kanade.tachiyomi.extension.pt.maidscan",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/b245965-2/tachiyomi-pt.maidscan-v1.4.63.apk",
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/e0a88a0/tachiyomi-pt.maidscan-v1.4.64.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/maidscan/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/d6d5c1c-2/tachiyomi-pt.maidscan-v1.4.63.jar"
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/e0a88a0/tachiyomi-pt.maidscan-v1.4.64.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "104063",
-        "versionName": "1.4.63",
+        "versionCode": "104064",
+        "versionName": "1.4.64",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
