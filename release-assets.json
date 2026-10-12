@@ -11369,6 +11369,16 @@
       "sha256": "cfa89f61ab079da7f28ca67151d29408f47a8d54832afd5fae676707a03a4e73"
     }
   },
+  "eu.kanade.tachiyomi.extension.pt.supermanga": {
+    "apk": {
+      "name": "tachiyomi-pt.supermanga-v1.6.1.apk",
+      "sha256": "80f28935c57619abbfe9bb3452f3d6e72a7ee93ec5f4f77ef89c3cf2543782ae"
+    },
+    "jar": {
+      "name": "tachiyomi-pt.supermanga-v1.6.1.jar",
+      "sha256": "8fb6e8644bba0138a53cea4b9cb975c044e7b989474ad391ec9ad559ec022fe4"
+    }
+  },
   "eu.kanade.tachiyomi.extension.pt.taimumangas": {
     "apk": {
       "name": "tachiyomi-pt.taimumangas-v1.4.3.apk",

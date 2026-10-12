@@ -43689,6 +43689,27 @@
         ]
       },
       {
+        "name": "SuperManga",
+        "packageName": "eu.kanade.tachiyomi.extension.pt.supermanga",
+        "resources": {
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/1a5f054/tachiyomi-pt.supermanga-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/supermanga/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/1a5f054/tachiyomi-pt.supermanga-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "339164321246586892",
+            "name": "SuperManga",
+            "language": "pt-BR",
+            "homeUrl": "https://supermanga.net"
+          }
+        ]
+      },
+      {
         "name": "TaimuMangas",
         "packageName": "eu.kanade.tachiyomi.extension.pt.taimumangas",
         "resources": {
