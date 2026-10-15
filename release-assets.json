@@ -10841,12 +10841,12 @@
   },
   "eu.kanade.tachiyomi.extension.pt.lycantoons": {
     "apk": {
-      "name": "tachiyomi-pt.lycantoons-v1.4.13.apk",
-      "sha256": "db22ffc4ff03a22514fd25e64be3bb0de2713ec24b4b0a821b62a35068665a7e"
+      "name": "tachiyomi-pt.lycantoons-v1.6.0.apk",
+      "sha256": "605c04bf52b53188b02269eb7bedf4ac999aba876699bc36dbcf0e394655fd97"
     },
     "jar": {
-      "name": "tachiyomi-pt.lycantoons-v1.4.13.jar",
-      "sha256": "5bcbd9b1a1fa2c03a3ee88ea8e70c368bd32bbee0a1a04808b3e2229a6ce21d4"
+      "name": "tachiyomi-pt.lycantoons-v1.6.0.jar",
+      "sha256": "daae661e2ee184cb2b4515fc7073da916697ab13d92835314eabce7fa983a284"
     }
   },
   "eu.kanade.tachiyomi.extension.pt.maidscan": {
@@ -10881,12 +10881,12 @@
   },
   "eu.kanade.tachiyomi.extension.pt.mangalivre": {
     "apk": {
-      "name": "tachiyomi-pt.mangalivre-v1.6.91.apk",
-      "sha256": "66efe05f2da5aeee7213701cfcd0fd057cd524b0c9c3b34d55e629ff88b3d619"
+      "name": "tachiyomi-pt.mangalivre-v1.6.92.apk",
+      "sha256": "eb3b91c190bdd2da8f46a827f0619097ce9a30af79487fd9f373be0fbfaf4272"
     },
     "jar": {
-      "name": "tachiyomi-pt.mangalivre-v1.6.91.jar",
-      "sha256": "2747f689de88edfd47393a045d8a7f1c0f8f26c42ef9868241009eb7cceec193"
+      "name": "tachiyomi-pt.mangalivre-v1.6.92.jar",
+      "sha256": "158425d1ade332b61a4d88d881f83b2244298bb28ece5cbb990900be1d95e049"
     }
   },
   "eu.kanade.tachiyomi.extension.pt.mangalivreblog": {
@@ -11231,12 +11231,12 @@
   },
   "eu.kanade.tachiyomi.extension.pt.remangas": {
     "apk": {
-      "name": "tachiyomi-pt.remangas-v1.4.56.apk",
-      "sha256": "783bc8121adb1305f76aa09f768b08aaea2f546de2785fedef94e6ad61c748d4"
+      "name": "tachiyomi-pt.remangas-v1.6.0.apk",
+      "sha256": "e004e10adcf8808eeab71d387d1f5ef70f0130e70d7e34d803f2ae477bd122c2"
     },
     "jar": {
-      "name": "tachiyomi-pt.remangas-v1.4.56.jar",
-      "sha256": "a74f4bc1f93bae9a06339e1b2c4f1abcb440b7b6e6b1b5ad9afe9c3839d32d2d"
+      "name": "tachiyomi-pt.remangas-v1.6.0.jar",
+      "sha256": "b2ec15fa9dee23714d1f57575a9bcd695f80e3f3e6f710a38553465bad5f9535"
     }
   },
   "eu.kanade.tachiyomi.extension.pt.revistasequadrinhos": {

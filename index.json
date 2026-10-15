@@ -43593,13 +43593,13 @@
         "name": "Lycan Toons",
         "packageName": "eu.kanade.tachiyomi.extension.pt.lycantoons",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/c849d90/tachiyomi-pt.lycantoons-v1.4.13.apk",
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/5b5bda3/tachiyomi-pt.lycantoons-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/lycantoons/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/c849d90/tachiyomi-pt.lycantoons-v1.4.13.jar"
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/5b5bda3/tachiyomi-pt.lycantoons-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104013",
-        "versionName": "1.4.13",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -43677,13 +43677,13 @@
         "name": "ToonLivre",
         "packageName": "eu.kanade.tachiyomi.extension.pt.mangalivre",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/2334ebd/tachiyomi-pt.mangalivre-v1.6.91.apk",
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/5b5bda3/tachiyomi-pt.mangalivre-v1.6.92.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/mangalivre/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/2334ebd/tachiyomi-pt.mangalivre-v1.6.91.jar"
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/5b5bda3/tachiyomi-pt.mangalivre-v1.6.92.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106091",
-        "versionName": "1.6.91",
+        "versionCode": "106092",
+        "versionName": "1.6.92",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -44409,23 +44409,23 @@
         ]
       },
       {
-        "name": "NixManga",
+        "name": "Loobyt",
         "packageName": "eu.kanade.tachiyomi.extension.pt.remangas",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/b245965-2/tachiyomi-pt.remangas-v1.4.56.apk",
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/5b5bda3/tachiyomi-pt.remangas-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/remangas/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/d6d5c1c-2/tachiyomi-pt.remangas-v1.4.56.jar"
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/5b5bda3/tachiyomi-pt.remangas-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104056",
-        "versionName": "1.4.56",
-        "contentWarning": "CONTENT_WARNING_SAFE",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
+        "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
             "id": "7462657023971681136",
-            "name": "NixManga",
+            "name": "Loobyt",
             "language": "pt-BR",
-            "homeUrl": "https://noxmangas.org"
+            "homeUrl": "https://loobyt.org"
           }
         ]
       },
