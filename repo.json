@@ -1,7 +1,8 @@
 {
-  "index_v2": "https://github.com/Awerkori/extensoes/raw/repo/index.pb",
+  "index_v2": "https://raw.githubusercontent.com/Awerkori/extensoes/repo/index.pb",
   "meta": {
     "name": "Project Nox",
+    "shortName": "NOX",
     "website": "https://github.com/Awerkori/fonte-extensoes",
     "signingKeyFingerprint": "144f44e865cbfae6bde110489ef7ec142f0b1681f627a093a218650e21db5dad"
   }
