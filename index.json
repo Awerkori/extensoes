@@ -9089,6 +9089,7 @@
         "packageName": "eu.kanade.tachiyomi.extension.all.yabai",
         "resources": {
           "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/d0043fc/tachiyomi-all.yabai-v1.6.0.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/core/src/main/res/mipmap-xhdpi/ic_launcher.png",
           "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/d0043fc/tachiyomi-all.yabai-v1.6.0.jar"
         },
         "extensionLib": "1.6",
@@ -28742,6 +28743,7 @@
         "packageName": "eu.kanade.tachiyomi.extension.pt.apenasumafa",
         "resources": {
           "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/b245965-2/tachiyomi-pt.apenasumafa-v1.6.15.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/core/src/main/res/mipmap-xhdpi/ic_launcher.png",
           "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/d6d5c1c-2/tachiyomi-pt.apenasumafa-v1.6.15.jar"
         },
         "extensionLib": "1.6",
