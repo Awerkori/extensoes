@@ -15755,33 +15755,6 @@
         ]
       },
       {
-        "name": "KaliScan",
-        "packageName": "eu.kanade.tachiyomi.extension.en.kaliscancom",
-        "resources": {
-          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/eb4f2a0-0/tachiyomi-en.kaliscancom-v1.4.25.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/en/kaliscancom/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/d6d5c1c-0/tachiyomi-en.kaliscancom-v1.4.25.jar"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "104025",
-        "versionName": "1.4.25",
-        "contentWarning": "CONTENT_WARNING_MIXED",
-        "sources": [
-          {
-            "id": "7660637864742395387",
-            "name": "KaliScan",
-            "language": "en",
-            "homeUrl": "https://kaliscan.com",
-            "mirrorUrls": [
-              "https://kaliscan.com",
-              "https://kaliscan.me",
-              "https://kaliscan.io",
-              "https://mgjinx.com"
-            ]
-          }
-        ]
-      },
-      {
         "name": "Kappa Beast",
         "packageName": "eu.kanade.tachiyomi.extension.en.kappabeast",
         "resources": {
@@ -39942,6 +39915,27 @@
         ]
       },
       {
+        "name": "Comic Action",
+        "packageName": "eu.kanade.tachiyomi.extension.ja.comicaction",
+        "resources": {
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/7e2013b/tachiyomi-ja.comicaction-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/ja/comicaction/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/7e2013b/tachiyomi-ja.comicaction-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "3399001455113605946",
+            "name": "Comic Action",
+            "language": "ja",
+            "homeUrl": "https://comic-action.com"
+          }
+        ]
+      },
+      {
         "name": "Comic Boost",
         "packageName": "eu.kanade.tachiyomi.extension.ja.comicboost",
         "resources": {
@@ -40362,6 +40356,27 @@
         ]
       },
       {
+        "name": "Comic Ogyaaa",
+        "packageName": "eu.kanade.tachiyomi.extension.ja.comicogyaaa",
+        "resources": {
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/7e2013b/tachiyomi-ja.comicogyaaa-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/ja/comicogyaaa/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/7e2013b/tachiyomi-ja.comicogyaaa-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "3754263546482783493",
+            "name": "Comic Ogyaaa",
+            "language": "ja",
+            "homeUrl": "https://comic-ogyaaa.com"
+          }
+        ]
+      },
+      {
         "name": "Comic Pash",
         "packageName": "eu.kanade.tachiyomi.extension.ja.comicpash",
         "resources": {
@@ -40442,6 +40457,48 @@
             "name": "Comic Ryu",
             "language": "ja",
             "homeUrl": "https://comic-ryu.jp"
+          }
+        ]
+      },
+      {
+        "name": "Comic Seasons",
+        "packageName": "eu.kanade.tachiyomi.extension.ja.comicseasons",
+        "resources": {
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/7e2013b/tachiyomi-ja.comicseasons-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/ja/comicseasons/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/7e2013b/tachiyomi-ja.comicseasons-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "5198063407173750376",
+            "name": "Comic Seasons",
+            "language": "ja",
+            "homeUrl": "https://comic-seasons.com"
+          }
+        ]
+      },
+      {
+        "name": "Comic Trail",
+        "packageName": "eu.kanade.tachiyomi.extension.ja.comictrail",
+        "resources": {
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/7e2013b/tachiyomi-ja.comictrail-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/ja/comictrail/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/7e2013b/tachiyomi-ja.comictrail-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "1668208127536452428",
+            "name": "Comic Trail",
+            "language": "ja",
+            "homeUrl": "https://comic-trail.com"
           }
         ]
       },
@@ -40658,6 +40715,27 @@
             "name": "eBookJapan",
             "language": "ja",
             "homeUrl": "https://ebookjapan.yahoo.co.jp"
+          }
+        ]
+      },
+      {
+        "name": "Feel Web",
+        "packageName": "eu.kanade.tachiyomi.extension.ja.feelweb",
+        "resources": {
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/7e2013b/tachiyomi-ja.feelweb-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/ja/feelweb/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/7e2013b/tachiyomi-ja.feelweb-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "96841390298894778",
+            "name": "Feel Web",
+            "language": "ja",
+            "homeUrl": "https://feelweb.jp"
           }
         ]
       },
@@ -41880,6 +41958,27 @@
         ]
       },
       {
+        "name": "Manga Time Square",
+        "packageName": "eu.kanade.tachiyomi.extension.ja.mangatimesquare",
+        "resources": {
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/7e2013b/tachiyomi-ja.mangatimesquare-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/ja/mangatimesquare/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/7e2013b/tachiyomi-ja.mangatimesquare-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "5972758064357912813",
+            "name": "Manga Time Square",
+            "language": "ja",
+            "homeUrl": "https://mangatime-square.com"
+          }
+        ]
+      },
+      {
         "name": "Manga Toshokan Z",
         "packageName": "eu.kanade.tachiyomi.extension.ja.mangatoshokanz",
         "resources": {
@@ -42128,6 +42227,27 @@
             "name": "Ohta Web Comic",
             "language": "ja",
             "homeUrl": "https://webcomic.ohtabooks.com"
+          }
+        ]
+      },
+      {
+        "name": "Our Feel",
+        "packageName": "eu.kanade.tachiyomi.extension.ja.ourfeel",
+        "resources": {
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/7e2013b/tachiyomi-ja.ourfeel-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/ja/ourfeel/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/7e2013b/tachiyomi-ja.ourfeel-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "783189652313877732",
+            "name": "Our Feel",
+            "language": "ja",
+            "homeUrl": "https://ourfeel.jp"
           }
         ]
       },
@@ -43320,13 +43440,13 @@
         "name": "Bakai",
         "packageName": "eu.kanade.tachiyomi.extension.pt.bakai",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/fba2bad/tachiyomi-pt.bakai-v1.6.20.apk",
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/7e2013b/tachiyomi-pt.bakai-v1.6.21.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/bakai/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/fba2bad/tachiyomi-pt.bakai-v1.6.20.jar"
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/7e2013b/tachiyomi-pt.bakai-v1.6.21.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106020",
-        "versionName": "1.6.20",
+        "versionCode": "106021",
+        "versionName": "1.6.21",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -44349,13 +44469,13 @@
         "name": "Lycan Toons",
         "packageName": "eu.kanade.tachiyomi.extension.pt.lycantoons",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/5a01c94/tachiyomi-pt.lycantoons-v1.6.1.apk",
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/7e2013b/tachiyomi-pt.lycantoons-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/lycantoons/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/5a01c94/tachiyomi-pt.lycantoons-v1.6.1.jar"
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/7e2013b/tachiyomi-pt.lycantoons-v1.6.2.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106001",
-        "versionName": "1.6.1",
+        "versionCode": "106002",
+        "versionName": "1.6.2",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -44538,20 +44658,20 @@
         "name": "Manga Online",
         "packageName": "eu.kanade.tachiyomi.extension.pt.mangaonline",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/fba2bad/tachiyomi-pt.mangaonline-v1.6.62.apk",
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/7e2013b/tachiyomi-pt.mangaonline-v1.6.63.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/mangaonline/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/fba2bad/tachiyomi-pt.mangaonline-v1.6.62.jar"
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/7e2013b/tachiyomi-pt.mangaonline-v1.6.63.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106062",
-        "versionName": "1.6.62",
+        "versionCode": "106063",
+        "versionName": "1.6.63",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
             "id": "7203957529449460928",
             "name": "Manga Online",
             "language": "pt-BR",
-            "homeUrl": "https://mangaonline.green"
+            "homeUrl": "https://mangaonline.love"
           }
         ]
       },
@@ -45434,27 +45554,6 @@
             "name": "Super Ecchi",
             "language": "pt-BR",
             "homeUrl": "https://superecchi.com"
-          }
-        ]
-      },
-      {
-        "name": "SuperManga",
-        "packageName": "eu.kanade.tachiyomi.extension.pt.supermanga",
-        "resources": {
-          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/1a5f054/tachiyomi-pt.supermanga-v1.6.1.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/supermanga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/1a5f054/tachiyomi-pt.supermanga-v1.6.1.jar"
-        },
-        "extensionLib": "1.6",
-        "versionCode": "106001",
-        "versionName": "1.6.1",
-        "contentWarning": "CONTENT_WARNING_MIXED",
-        "sources": [
-          {
-            "id": "339164321246586892",
-            "name": "SuperManga",
-            "language": "pt-BR",
-            "homeUrl": "https://supermanga.net"
           }
         ]
       },
