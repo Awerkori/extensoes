@@ -1859,6 +1859,16 @@
       "sha256": "c21304d43fca2fd82adb4fbe37279180e4a516d10c6012a92d2aade22928d42b"
     }
   },
+  "eu.kanade.tachiyomi.extension.ar.procomic": {
+    "apk": {
+      "name": "tachiyomi-ar.procomic-v1.6.0.apk",
+      "sha256": "a98a1fa6762206486f55f8c037b1d9a7d6432fb2fa9db300e29193d02cc8d7bc"
+    },
+    "jar": {
+      "name": "tachiyomi-ar.procomic-v1.6.0.jar",
+      "sha256": "d92fcbb082923b091a172c6fe4691019079ebd39d99dae20bfb17e27bf397fc6"
+    }
+  },
   "eu.kanade.tachiyomi.extension.ar.rocksmanga": {
     "apk": {
       "name": "tachiyomi-ar.rocksmanga-v1.6.58.apk",
@@ -3337,6 +3347,16 @@
     "jar": {
       "name": "tachiyomi-en.kaizenscan-v1.6.23.jar",
       "sha256": "b76786731237e40a800197cb7ec3f484082ff030dcf11d1a92feb494b0720973"
+    }
+  },
+  "eu.kanade.tachiyomi.extension.en.kaliscanorg": {
+    "apk": {
+      "name": "tachiyomi-en.kaliscanorg-v1.6.55.apk",
+      "sha256": "93e2d28a6ab50da984e7ba772f796e82220738716e2b1e855f06a6d4e2176ac3"
+    },
+    "jar": {
+      "name": "tachiyomi-en.kaliscanorg-v1.6.55.jar",
+      "sha256": "c3903863c1124f4b1f8a866de822311fa68653162dc320c8c91de360012f2748"
     }
   },
   "eu.kanade.tachiyomi.extension.en.kappabeast": {
