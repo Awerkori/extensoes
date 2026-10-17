@@ -10422,11 +10422,11 @@
   "eu.kanade.tachiyomi.extension.pt.bladetoons": {
     "apk": {
       "name": "tachiyomi-pt.bladetoons-v1.6.4.apk",
-      "sha256": "61bc7d9c2ea30cf5215dda2733a280e075dec1589ad559a086053722d25fec6f"
+      "sha256": "8054999b43c0b2b74e156de7ff76eacf62a7445043741df5c48449dbba6950a2"
     },
     "jar": {
       "name": "tachiyomi-pt.bladetoons-v1.6.4.jar",
-      "sha256": "35233fc9b9bb37334e65806dfee965bc2838c7dca02e85c87a6be0da6fa4afa2"
+      "sha256": "def2f25fd7620e22da531a3d185b2eefac74e3ff04602d1e7e9f9c30794791e2"
     }
   },
   "eu.kanade.tachiyomi.extension.pt.borutoexplorer": {
@@ -10761,12 +10761,12 @@
   },
   "eu.kanade.tachiyomi.extension.pt.imperiodabritannia": {
     "apk": {
-      "name": "tachiyomi-pt.imperiodabritannia-v1.6.0.apk",
-      "sha256": "5b711af6d142c8fc989b664fcfcc167d25434cfa142e25ea7e9f5d59a971dc44"
+      "name": "tachiyomi-pt.imperiodabritannia-v1.6.1.apk",
+      "sha256": "1089a425737aa2f99aff0246854972dcbee43c756796a4ef311bc2fedff547bd"
     },
     "jar": {
-      "name": "tachiyomi-pt.imperiodabritannia-v1.6.0.jar",
-      "sha256": "c95c5a51ec97a5698bc89914ca8b7fd230d4f7e20f22f1c1a33467fe576d5f05"
+      "name": "tachiyomi-pt.imperiodabritannia-v1.6.1.jar",
+      "sha256": "6cd700e1920830fd56f092022c91876de99c7a3ad842e4e2264692ecf090478c"
     }
   },
   "eu.kanade.tachiyomi.extension.pt.inkapk": {

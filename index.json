@@ -28952,9 +28952,9 @@
         "name": "Bladetoons",
         "packageName": "eu.kanade.tachiyomi.extension.pt.bladetoons",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/f509696/tachiyomi-pt.bladetoons-v1.6.4.apk",
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/57c3b0c/tachiyomi-pt.bladetoons-v1.6.4.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/bladetoons/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/5a01c94/tachiyomi-pt.bladetoons-v1.6.4.jar"
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/57c3b0c/tachiyomi-pt.bladetoons-v1.6.4.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106004",
@@ -29666,13 +29666,13 @@
         "name": "Sagrado Imp\u00e9rio da Britannia",
         "packageName": "eu.kanade.tachiyomi.extension.pt.imperiodabritannia",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/e4db192/tachiyomi-pt.imperiodabritannia-v1.6.0.apk",
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/57c3b0c/tachiyomi-pt.imperiodabritannia-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/imperiodabritannia/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/e4db192/tachiyomi-pt.imperiodabritannia-v1.6.0.jar"
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/57c3b0c/tachiyomi-pt.imperiodabritannia-v1.6.1.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106000",
-        "versionName": "1.6.0",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
