@@ -10459,6 +10459,16 @@
       "sha256": "def2f25fd7620e22da531a3d185b2eefac74e3ff04602d1e7e9f9c30794791e2"
     }
   },
+  "eu.kanade.tachiyomi.extension.pt.blitztoons": {
+    "apk": {
+      "name": "tachiyomi-pt.blitztoons-v1.6.1.apk",
+      "sha256": "409027558a8bba3ffc241775024f6cfe6b094de68b155b8ca77eb8ab8d167843"
+    },
+    "jar": {
+      "name": "tachiyomi-pt.blitztoons-v1.6.1.jar",
+      "sha256": "ec903f02f382be3d30bf63e2d02dd7bff4b153427b368797efd22c10162ae1ec"
+    }
+  },
   "eu.kanade.tachiyomi.extension.pt.borutoexplorer": {
     "apk": {
       "name": "tachiyomi-pt.borutoexplorer-v1.6.57.apk",
@@ -10921,12 +10931,12 @@
   },
   "eu.kanade.tachiyomi.extension.pt.lycantoons": {
     "apk": {
-      "name": "tachiyomi-pt.lycantoons-v1.6.2.apk",
-      "sha256": "bf3101bb5208a14322d2eab49877498cdd6c62c8bef3c7779fb9b3ae79ba4bbc"
+      "name": "tachiyomi-pt.lycantoons-v1.6.3.apk",
+      "sha256": "53b574296b70ad76f532fd48376494b3ebcee2319be77c187be787088c710699"
     },
     "jar": {
-      "name": "tachiyomi-pt.lycantoons-v1.6.2.jar",
-      "sha256": "53d12aae07f1cc6d8fc8c4efa7db96b421c3609dd8430e9b7e2a265c92c03c09"
+      "name": "tachiyomi-pt.lycantoons-v1.6.3.jar",
+      "sha256": "242e43872792f4c9ca85ff2f430826059cec0b215f95bdb683db08d5ac7c17d2"
     }
   },
   "eu.kanade.tachiyomi.extension.pt.maidscan": {

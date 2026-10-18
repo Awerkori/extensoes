@@ -29033,6 +29033,27 @@
         ]
       },
       {
+        "name": "BlitzToons",
+        "packageName": "eu.kanade.tachiyomi.extension.pt.blitztoons",
+        "resources": {
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/845f4a1/tachiyomi-pt.blitztoons-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/blitztoons/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/845f4a1/tachiyomi-pt.blitztoons-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "1235800220312092775",
+            "name": "BlitzToons",
+            "language": "pt-BR",
+            "homeUrl": "https://blitztoons.com"
+          }
+        ]
+      },
+      {
         "name": "Boruto Explorer",
         "packageName": "eu.kanade.tachiyomi.extension.pt.borutoexplorer",
         "resources": {
@@ -30002,13 +30023,13 @@
         "name": "Lycan Toons",
         "packageName": "eu.kanade.tachiyomi.extension.pt.lycantoons",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/f509696/tachiyomi-pt.lycantoons-v1.6.2.apk",
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/845f4a1/tachiyomi-pt.lycantoons-v1.6.3.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/lycantoons/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/7e2013b/tachiyomi-pt.lycantoons-v1.6.2.jar"
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/845f4a1/tachiyomi-pt.lycantoons-v1.6.3.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106002",
-        "versionName": "1.6.2",
+        "versionCode": "106003",
+        "versionName": "1.6.3",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
