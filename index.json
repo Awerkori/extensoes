@@ -11502,13 +11502,13 @@
         "name": "Comix",
         "packageName": "eu.kanade.tachiyomi.extension.en.comix",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/2010303/tachiyomi-en.comix-v1.6.53.apk",
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/832a8be/tachiyomi-en.comix-v1.6.54.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/en/comix/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/2010303/tachiyomi-en.comix-v1.6.53.jar"
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/832a8be/tachiyomi-en.comix-v1.6.54.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106053",
-        "versionName": "1.6.53",
+        "versionCode": "106054",
+        "versionName": "1.6.54",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {

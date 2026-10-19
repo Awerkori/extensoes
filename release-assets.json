@@ -2461,12 +2461,12 @@
   },
   "eu.kanade.tachiyomi.extension.en.comix": {
     "apk": {
-      "name": "tachiyomi-en.comix-v1.6.53.apk",
-      "sha256": "539d1456c1a494cf4f13377186e161702ef79bcbb56270cf6789d6a560af4e91"
+      "name": "tachiyomi-en.comix-v1.6.54.apk",
+      "sha256": "fcbeaad69a957426fde011ebe51175403cbab4b4576bccf7d8f71453f11378de"
     },
     "jar": {
-      "name": "tachiyomi-en.comix-v1.6.53.jar",
-      "sha256": "b6eb4171d2922fa35c0c9fa4c5169c18e77912064e5e773de82d3084564ef0a5"
+      "name": "tachiyomi-en.comix-v1.6.54.jar",
+      "sha256": "5d8483042196a25bf1ce1bbc2191050dcee91f64882c397c79ad8d6d2cc9c9c0"
     }
   },
   "eu.kanade.tachiyomi.extension.en.coolmic": {
