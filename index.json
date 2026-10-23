@@ -9499,6 +9499,27 @@
         ]
       },
       {
+        "name": "AsgardScans",
+        "packageName": "eu.kanade.tachiyomi.extension.ar.asgardscans",
+        "resources": {
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/757126d/tachiyomi-ar.asgardscans-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/ar/asgardscans/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/757126d/tachiyomi-ar.asgardscans-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "1271101147092894805",
+            "name": "AsgardScans",
+            "language": "ar",
+            "homeUrl": "https://asgardscans.com"
+          }
+        ]
+      },
+      {
         "name": "Azora",
         "packageName": "eu.kanade.tachiyomi.extension.ar.azora",
         "resources": {
@@ -14326,13 +14347,13 @@
         "name": "Mangabat",
         "packageName": "eu.kanade.tachiyomi.extension.en.mangabat",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/b245965-0/tachiyomi-en.mangabat-v1.6.23.apk",
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/757126d/tachiyomi-en.mangabat-v1.6.24.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/en/mangabat/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/d6d5c1c-0/tachiyomi-en.mangabat-v1.6.23.jar"
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/757126d/tachiyomi-en.mangabat-v1.6.24.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106023",
-        "versionName": "1.6.23",
+        "versionCode": "106024",
+        "versionName": "1.6.24",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -15493,13 +15514,13 @@
         "name": "Mangakakalot",
         "packageName": "eu.kanade.tachiyomi.extension.en.mangakakalot",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/ac9acff/tachiyomi-en.mangakakalot-v1.6.25.apk",
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/757126d/tachiyomi-en.mangakakalot-v1.6.26.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/en/mangakakalot/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/ac9acff/tachiyomi-en.mangakakalot-v1.6.25.jar"
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/757126d/tachiyomi-en.mangakakalot-v1.6.26.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106025",
-        "versionName": "1.6.25",
+        "versionCode": "106026",
+        "versionName": "1.6.26",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -15686,13 +15707,13 @@
         "name": "Manganato",
         "packageName": "eu.kanade.tachiyomi.extension.en.manganelo",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/b245965-0/tachiyomi-en.manganelo-v1.6.22.apk",
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/757126d/tachiyomi-en.manganelo-v1.6.23.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/en/manganelo/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/d6d5c1c-0/tachiyomi-en.manganelo-v1.6.22.jar"
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/757126d/tachiyomi-en.manganelo-v1.6.23.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106022",
-        "versionName": "1.6.22",
+        "versionCode": "106023",
+        "versionName": "1.6.23",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -24827,20 +24848,20 @@
         "name": "Softkomik",
         "packageName": "eu.kanade.tachiyomi.extension.id.softkomik",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/f509696/tachiyomi-id.softkomik-v1.6.0.apk",
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/757126d/tachiyomi-id.softkomik-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/id/softkomik/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/5a01c94/tachiyomi-id.softkomik-v1.6.0.jar"
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/757126d/tachiyomi-id.softkomik-v1.6.1.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106000",
-        "versionName": "1.6.0",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "4398521787288838980",
             "name": "Softkomik",
             "language": "id",
-            "homeUrl": "https://softkomik.co"
+            "homeUrl": "https://softkomik.app"
           }
         ]
       },
@@ -24932,20 +24953,24 @@
         "name": "West Manga",
         "packageName": "eu.kanade.tachiyomi.extension.id.westmanga",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/ac9acff/tachiyomi-id.westmanga-v1.6.2.apk",
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/757126d/tachiyomi-id.westmanga-v1.6.3.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/id/westmanga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/ac9acff/tachiyomi-id.westmanga-v1.6.2.jar"
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/757126d/tachiyomi-id.westmanga-v1.6.3.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106002",
-        "versionName": "1.6.2",
+        "versionCode": "106003",
+        "versionName": "1.6.3",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "8883916630998758688",
             "name": "West Manga",
             "language": "id",
-            "homeUrl": "https://v1.westmanga.my"
+            "homeUrl": "https://v1.westmanga.my",
+            "mirrorUrls": [
+              "https://v1.westmanga.my",
+              "https://v1.westmanga.top"
+            ]
           }
         ]
       },
