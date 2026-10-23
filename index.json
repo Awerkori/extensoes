@@ -2007,13 +2007,13 @@
         "name": "HentaiFox",
         "packageName": "eu.kanade.tachiyomi.extension.all.hentaifox",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/b245965-0/tachiyomi-all.hentaifox-v1.6.18.apk",
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/407f442/tachiyomi-all.hentaifox-v1.6.19.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/all/hentaifox/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/fa2adb3/tachiyomi-all.hentaifox-v1.6.18.jar"
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/407f442/tachiyomi-all.hentaifox-v1.6.19.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106018",
-        "versionName": "1.6.18",
+        "versionCode": "106019",
+        "versionName": "1.6.19",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -7021,92 +7021,92 @@
         "name": "SayManhwa",
         "packageName": "eu.kanade.tachiyomi.extension.all.saymanhwa",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/b245965-0/tachiyomi-all.saymanhwa-v1.6.2.apk",
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/407f442/tachiyomi-all.saymanhwa-v1.6.3.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/all/saymanhwa/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/b245965-0/tachiyomi-all.saymanhwa-v1.6.2.jar"
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/407f442/tachiyomi-all.saymanhwa-v1.6.3.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106002",
-        "versionName": "1.6.2",
+        "versionCode": "106003",
+        "versionName": "1.6.3",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
             "id": "7915151531599641879",
             "name": "SayManhwa",
             "language": "ar",
-            "homeUrl": "https://saymanhwa.com"
+            "homeUrl": "https://saymanhwa.net"
           },
           {
             "id": "718198470352266702",
             "name": "SayManhwa",
             "language": "de",
-            "homeUrl": "https://saymanhwa.com"
+            "homeUrl": "https://saymanhwa.net"
           },
           {
             "id": "160957764321519511",
             "name": "SayManhwa",
             "language": "en",
-            "homeUrl": "https://saymanhwa.com"
+            "homeUrl": "https://saymanhwa.net"
           },
           {
             "id": "4746791862486594870",
             "name": "SayManhwa",
             "language": "es",
-            "homeUrl": "https://saymanhwa.com"
+            "homeUrl": "https://saymanhwa.net"
           },
           {
             "id": "8842126332542772866",
             "name": "SayManhwa",
             "language": "fil",
-            "homeUrl": "https://saymanhwa.com"
+            "homeUrl": "https://saymanhwa.net"
           },
           {
             "id": "1085765242853690038",
             "name": "SayManhwa",
             "language": "fr",
-            "homeUrl": "https://saymanhwa.com"
+            "homeUrl": "https://saymanhwa.net"
           },
           {
             "id": "2860030111448556554",
             "name": "SayManhwa",
             "language": "id",
-            "homeUrl": "https://saymanhwa.com"
+            "homeUrl": "https://saymanhwa.net"
           },
           {
             "id": "3346867097478116902",
             "name": "SayManhwa",
             "language": "ja",
-            "homeUrl": "https://saymanhwa.com"
+            "homeUrl": "https://saymanhwa.net"
           },
           {
             "id": "6718937619873538111",
             "name": "SayManhwa",
             "language": "pt",
-            "homeUrl": "https://saymanhwa.com"
+            "homeUrl": "https://saymanhwa.net"
           },
           {
             "id": "3836842608420894997",
             "name": "SayManhwa",
             "language": "th",
-            "homeUrl": "https://saymanhwa.com"
+            "homeUrl": "https://saymanhwa.net"
           },
           {
             "id": "8278038049426902994",
             "name": "SayManhwa",
             "language": "vi",
-            "homeUrl": "https://saymanhwa.com"
+            "homeUrl": "https://saymanhwa.net"
           },
           {
             "id": "6326978194357900073",
             "name": "SayManhwa",
             "language": "zh-Hans",
-            "homeUrl": "https://saymanhwa.com"
+            "homeUrl": "https://saymanhwa.net"
           },
           {
             "id": "9161706686520081002",
             "name": "SayManhwa",
             "language": "zh-Hant",
-            "homeUrl": "https://saymanhwa.com"
+            "homeUrl": "https://saymanhwa.net"
           }
         ]
       },
@@ -18703,13 +18703,13 @@
         "name": "Tapas",
         "packageName": "eu.kanade.tachiyomi.extension.en.tapastic",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/b01b064/tachiyomi-en.tapastic-v1.6.4.apk",
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/407f442/tachiyomi-en.tapastic-v1.6.5.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/en/tapastic/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/b01b064/tachiyomi-en.tapastic-v1.6.4.jar"
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/407f442/tachiyomi-en.tapastic-v1.6.5.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106004",
-        "versionName": "1.6.4",
+        "versionCode": "106005",
+        "versionName": "1.6.5",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -23609,13 +23609,13 @@
         "name": "Kiryuu",
         "packageName": "eu.kanade.tachiyomi.extension.id.kiryuu",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/b245965-1/tachiyomi-id.kiryuu-v1.6.58.apk",
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/407f442/tachiyomi-id.kiryuu-v1.6.59.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/id/kiryuu/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/325569d/tachiyomi-id.kiryuu-v1.6.58.jar"
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/407f442/tachiyomi-id.kiryuu-v1.6.59.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106058",
-        "versionName": "1.6.58",
+        "versionCode": "106059",
+        "versionName": "1.6.59",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -24407,13 +24407,13 @@
         "name": "Natsu",
         "packageName": "eu.kanade.tachiyomi.extension.id.natsu",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/b245965-1/tachiyomi-id.natsu-v1.6.39.apk",
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/407f442/tachiyomi-id.natsu-v1.6.40.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/id/natsu/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/325569d/tachiyomi-id.natsu-v1.6.39.jar"
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/407f442/tachiyomi-id.natsu-v1.6.40.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106039",
-        "versionName": "1.6.39",
+        "versionCode": "106040",
+        "versionName": "1.6.40",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -27735,13 +27735,13 @@
         "name": "Rawkuma",
         "packageName": "eu.kanade.tachiyomi.extension.ja.rawkuma",
         "resources": {
-          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/b245965-2/tachiyomi-ja.rawkuma-v1.6.41.apk",
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/407f442/tachiyomi-ja.rawkuma-v1.6.42.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/ja/rawkuma/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/325569d/tachiyomi-ja.rawkuma-v1.6.41.jar"
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/407f442/tachiyomi-ja.rawkuma-v1.6.42.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106041",
-        "versionName": "1.6.41",
+        "versionCode": "106042",
+        "versionName": "1.6.42",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
