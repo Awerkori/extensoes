@@ -29819,6 +29819,27 @@
         ]
       },
       {
+        "name": "NeoToons",
+        "packageName": "eu.kanade.tachiyomi.extension.pt.neotoons",
+        "resources": {
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/7a3989d/tachiyomi-pt.neotoons-v1.6.0.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/neotoons/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/7a3989d/tachiyomi-pt.neotoons-v1.6.0.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "466795790570800494",
+            "name": "NeoToons",
+            "language": "pt-BR",
+            "homeUrl": "https://neotoons.com.br"
+          }
+        ]
+      },
+      {
         "name": "Nexus Mangas",
         "packageName": "eu.kanade.tachiyomi.extension.pt.nexusmangas",
         "resources": {

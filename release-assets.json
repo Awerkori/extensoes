@@ -11139,6 +11139,16 @@
       "sha256": "98370dc3c009895a3aa1927d7ae3a4d22558fe84cc048b19c2d099ded74882c1"
     }
   },
+  "eu.kanade.tachiyomi.extension.pt.neotoons": {
+    "apk": {
+      "name": "tachiyomi-pt.neotoons-v1.6.0.apk",
+      "sha256": "85799b197cbd5ab4744fc3d4b1e6eaad803c2e9cec457d8908fde36ae47039af"
+    },
+    "jar": {
+      "name": "tachiyomi-pt.neotoons-v1.6.0.jar",
+      "sha256": "b56d92044443d1597d45123d3f4c63ce13d06771279478530e9c7d4bcacbff77"
+    }
+  },
   "eu.kanade.tachiyomi.extension.pt.nexusmangas": {
     "apk": {
       "name": "tachiyomi-pt.nexusmangas-v1.6.2.apk",
