@@ -28685,6 +28685,27 @@
         ]
       },
       {
+        "name": "GoMangas",
+        "packageName": "eu.kanade.tachiyomi.extension.pt.gomangas",
+        "resources": {
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/5dc6d53/tachiyomi-pt.gomangas-v1.6.0.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/gomangas/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/5dc6d53/tachiyomi-pt.gomangas-v1.6.0.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "2283787061999577853",
+            "name": "GoMangas",
+            "language": "pt-BR",
+            "homeUrl": "https://gomangas.com"
+          }
+        ]
+      },
+      {
         "name": "Hanmokku Scan",
         "packageName": "eu.kanade.tachiyomi.extension.pt.hanmokkuscan",
         "resources": {

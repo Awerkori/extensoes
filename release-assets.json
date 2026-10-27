@@ -10599,6 +10599,16 @@
       "sha256": "823076cbf5e5bef90cf70a4027a95459e631229587abd8a4e8eddaa95a4c9558"
     }
   },
+  "eu.kanade.tachiyomi.extension.pt.gomangas": {
+    "apk": {
+      "name": "tachiyomi-pt.gomangas-v1.6.0.apk",
+      "sha256": "a973974ce983c27e7447784bd54afbb57de458c24f0e40638125f1f7f1bab161"
+    },
+    "jar": {
+      "name": "tachiyomi-pt.gomangas-v1.6.0.jar",
+      "sha256": "39851e5c11c430d8700bfbdb1153d8aa362f26c7db6ab187099ca3bca593e504"
+    }
+  },
   "eu.kanade.tachiyomi.extension.pt.hanmokkuscan": {
     "apk": {
       "name": "tachiyomi-pt.hanmokkuscan-v1.6.14.apk",
