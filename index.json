@@ -29588,6 +29588,27 @@
         ]
       },
       {
+        "name": "Mang\u00e1 Verde",
+        "packageName": "eu.kanade.tachiyomi.extension.pt.mangaverde",
+        "resources": {
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/90eda94/tachiyomi-pt.mangaverde-v1.6.0.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/mangaverde/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/90eda94/tachiyomi-pt.mangaverde-v1.6.0.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "2674751639408416926",
+            "name": "Mang\u00e1 Verde",
+            "language": "pt-BR",
+            "homeUrl": "https://mangaverde.net"
+          }
+        ]
+      },
+      {
         "name": "ManGeek",
         "packageName": "eu.kanade.tachiyomi.extension.pt.mangeek",
         "resources": {

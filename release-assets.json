@@ -11029,6 +11029,16 @@
       "sha256": "31ddaf9f8e674f91f328dec2489624927af83d7801e7a3aba574d379b491cf1f"
     }
   },
+  "eu.kanade.tachiyomi.extension.pt.mangaverde": {
+    "apk": {
+      "name": "tachiyomi-pt.mangaverde-v1.6.0.apk",
+      "sha256": "296ccf4d55367e0026c33666dae67453e4efae9587c7f8616f48caf7a2b93fdb"
+    },
+    "jar": {
+      "name": "tachiyomi-pt.mangaverde-v1.6.0.jar",
+      "sha256": "286b78165de46ed6ab499af7b9b975c016bf3fa43ee05b08ba2621bb86a8f8d5"
+    }
+  },
   "eu.kanade.tachiyomi.extension.pt.mangeek": {
     "apk": {
       "name": "tachiyomi-pt.mangeek-v1.6.2.apk",
