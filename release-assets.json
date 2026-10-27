@@ -10851,12 +10851,12 @@
   },
   "eu.kanade.tachiyomi.extension.pt.littletyrant": {
     "apk": {
-      "name": "tachiyomi-pt.littletyrant-v1.6.69.apk",
-      "sha256": "65bd50b2fa9f21122b1497c1442e5bd3a03600f4fd33a2ffbca15694d02f508c"
+      "name": "tachiyomi-pt.littletyrant-v1.6.70.apk",
+      "sha256": "962e06b52bf564c972b9a8ff3082d2314ff393bafee1db45a631db9716d5b0c5"
     },
     "jar": {
-      "name": "tachiyomi-pt.littletyrant-v1.6.69.jar",
-      "sha256": "0f96b1648240862f7ec0e1a5db50f3bfaf75c5e6df5e0c4f6bf3b07b87308dab"
+      "name": "tachiyomi-pt.littletyrant-v1.6.70.jar",
+      "sha256": "a2c36d714dff4b4c4aa5e510292ca4b6f06b2aa49a9822c12aa16c2757655fae"
     }
   },
   "eu.kanade.tachiyomi.extension.pt.lycantoons": {
