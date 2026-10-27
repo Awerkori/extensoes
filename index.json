@@ -28853,6 +28853,27 @@
         ]
       },
       {
+        "name": "Hikari Comics",
+        "packageName": "eu.kanade.tachiyomi.extension.pt.hikaricomics",
+        "resources": {
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/279caf8/tachiyomi-pt.hikaricomics-v1.6.0.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/hikaricomics/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/279caf8/tachiyomi-pt.hikaricomics-v1.6.0.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "5955512917711736511",
+            "name": "Hikari Comics",
+            "language": "pt-BR",
+            "homeUrl": "https://hikaricomics.xyz"
+          }
+        ]
+      },
+      {
         "name": "HipercooL",
         "packageName": "eu.kanade.tachiyomi.extension.pt.hipercool",
         "resources": {

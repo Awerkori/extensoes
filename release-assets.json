@@ -10679,6 +10679,16 @@
       "sha256": "a73094751e1c780985c7a5a403d96415008fd906aeb9f44de9e840b77423eafe"
     }
   },
+  "eu.kanade.tachiyomi.extension.pt.hikaricomics": {
+    "apk": {
+      "name": "tachiyomi-pt.hikaricomics-v1.6.0.apk",
+      "sha256": "e29133b404769d8d493eb86d6bf1477ee6e1053476e34585147d786165d27a05"
+    },
+    "jar": {
+      "name": "tachiyomi-pt.hikaricomics-v1.6.0.jar",
+      "sha256": "30b3c827778f008f16be57623681bef0f6394e8bb06e97763b585e7874e52f21"
+    }
+  },
   "eu.kanade.tachiyomi.extension.pt.hipercool": {
     "apk": {
       "name": "tachiyomi-pt.hipercool-v1.6.64.apk",
