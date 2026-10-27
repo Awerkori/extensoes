@@ -28832,6 +28832,27 @@
         ]
       },
       {
+        "name": "Hentaiteca.net",
+        "packageName": "eu.kanade.tachiyomi.extension.pt.hentaitecanet",
+        "resources": {
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/302a959/tachiyomi-pt.hentaitecanet-v1.6.0.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/hentaitecanet/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/302a959/tachiyomi-pt.hentaitecanet-v1.6.0.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "7315018376196962420",
+            "name": "Hentaiteca.net",
+            "language": "pt-BR",
+            "homeUrl": "https://hentaiteca.net"
+          }
+        ]
+      },
+      {
         "name": "Hentai Tokyo",
         "packageName": "eu.kanade.tachiyomi.extension.pt.hentaitokyo",
         "resources": {
