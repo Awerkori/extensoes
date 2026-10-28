@@ -10889,6 +10889,16 @@
       "sha256": "f928639682644e201c8853e027172e952faa5b693ba007e2c0b719ade7770fcd"
     }
   },
+  "eu.kanade.tachiyomi.extension.pt.lermangaonline": {
+    "apk": {
+      "name": "tachiyomi-pt.lermangaonline-v1.6.0.apk",
+      "sha256": "ec0cc0283ca6a544e6e8b30b7e5d4d8849c14bd1c1e3660622a1f619d6a58edb"
+    },
+    "jar": {
+      "name": "tachiyomi-pt.lermangaonline-v1.6.0.jar",
+      "sha256": "31ca42838f961f5a7a074a3cf98259b2505505359021816af2daf4cd35d663d4"
+    }
+  },
   "eu.kanade.tachiyomi.extension.pt.littletyrant": {
     "apk": {
       "name": "tachiyomi-pt.littletyrant-v1.6.70.apk",

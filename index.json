@@ -29294,6 +29294,27 @@
         ]
       },
       {
+        "name": "Ler Mang\u00e1 Online",
+        "packageName": "eu.kanade.tachiyomi.extension.pt.lermangaonline",
+        "resources": {
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/b0f6bb3/tachiyomi-pt.lermangaonline-v1.6.0.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/lermangaonline/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/b0f6bb3/tachiyomi-pt.lermangaonline-v1.6.0.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "2698137748638081931",
+            "name": "Ler Mang\u00e1 Online",
+            "language": "pt-BR",
+            "homeUrl": "https://lermangaonline.com.br"
+          }
+        ]
+      },
+      {
         "name": "Little Tyrant",
         "packageName": "eu.kanade.tachiyomi.extension.pt.littletyrant",
         "resources": {
