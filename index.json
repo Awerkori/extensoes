@@ -29735,6 +29735,27 @@
         ]
       },
       {
+        "name": "ManHQ",
+        "packageName": "eu.kanade.tachiyomi.extension.pt.manhq",
+        "resources": {
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/f7e5c79/tachiyomi-pt.manhq-v1.6.0.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/manhq/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/f7e5c79/tachiyomi-pt.manhq-v1.6.0.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "2014932132949821131",
+            "name": "ManHQ",
+            "language": "pt-BR",
+            "homeUrl": "https://manhq.com.br"
+          }
+        ]
+      },
+      {
         "name": "Mediocre Toons",
         "packageName": "eu.kanade.tachiyomi.extension.pt.mediocretoons",
         "resources": {

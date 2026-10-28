@@ -11099,6 +11099,16 @@
       "sha256": "cbbc6732bcf8ed481c6b436dddbd26b5cd9fb8f78212200f31b0fe6cdf17c210"
     }
   },
+  "eu.kanade.tachiyomi.extension.pt.manhq": {
+    "apk": {
+      "name": "tachiyomi-pt.manhq-v1.6.0.apk",
+      "sha256": "c5e9509f87faa6f76fddb77488d3b0c2821e5e3b63fdf79067851d46703a39e4"
+    },
+    "jar": {
+      "name": "tachiyomi-pt.manhq-v1.6.0.jar",
+      "sha256": "af0232743a328529c7f14d7e4052ac235a130e91e2c982d123b08e181c980ec1"
+    }
+  },
   "eu.kanade.tachiyomi.extension.pt.mediocretoons": {
     "apk": {
       "name": "tachiyomi-pt.mediocretoons-v1.6.1.apk",
