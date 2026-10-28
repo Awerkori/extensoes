@@ -29504,6 +29504,27 @@
         ]
       },
       {
+        "name": "MangaLivre.lat",
+        "packageName": "eu.kanade.tachiyomi.extension.pt.mangalivrelat",
+        "resources": {
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/d931621/tachiyomi-pt.mangalivrelat-v1.6.0.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/mangalivrelat/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/d931621/tachiyomi-pt.mangalivrelat-v1.6.0.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "6151926525184574843",
+            "name": "MangaLivre.lat",
+            "language": "pt-BR",
+            "homeUrl": "https://mangalivre.lat"
+          }
+        ]
+      },
+      {
         "name": "MangaLivre.org",
         "packageName": "eu.kanade.tachiyomi.extension.pt.mangalivreorg",
         "resources": {

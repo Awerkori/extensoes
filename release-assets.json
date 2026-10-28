@@ -10989,6 +10989,16 @@
       "sha256": "7961dce1530ff8edc78dc17c80e84f8e648ebc7e28f56b3336aa00d70b1b3ccd"
     }
   },
+  "eu.kanade.tachiyomi.extension.pt.mangalivrelat": {
+    "apk": {
+      "name": "tachiyomi-pt.mangalivrelat-v1.6.0.apk",
+      "sha256": "318802114132b1255a2226a1efd142ad178627917f2528eb01f6b476a1871089"
+    },
+    "jar": {
+      "name": "tachiyomi-pt.mangalivrelat-v1.6.0.jar",
+      "sha256": "0a983fa64b5f33435511c289f5ba193d9f50b78b57054806635004b07dd559df"
+    }
+  },
   "eu.kanade.tachiyomi.extension.pt.mangalivreorg": {
     "apk": {
       "name": "tachiyomi-pt.mangalivreorg-v1.6.9.apk",
