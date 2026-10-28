@@ -11439,6 +11439,16 @@
       "sha256": "e38a3c612074c857b6eb916602823e0a2faa76d43c590ce250814f62bf6830f5"
     }
   },
+  "eu.kanade.tachiyomi.extension.pt.sukimangas": {
+    "apk": {
+      "name": "tachiyomi-pt.sukimangas-v1.6.0.apk",
+      "sha256": "b5cd86900f74f56c62790bf64a1f2ce14067af6b63f490f658d29a933dcbcefc"
+    },
+    "jar": {
+      "name": "tachiyomi-pt.sukimangas-v1.6.0.jar",
+      "sha256": "b0082ffe552dfa62e84b8c4e6e6923c6a23054b8dc2c4ce290ef3d145cb970b7"
+    }
+  },
   "eu.kanade.tachiyomi.extension.pt.superecchi": {
     "apk": {
       "name": "tachiyomi-pt.superecchi-v1.6.0.apk",

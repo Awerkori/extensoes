@@ -30449,6 +30449,27 @@
         ]
       },
       {
+        "name": "SukiMangas",
+        "packageName": "eu.kanade.tachiyomi.extension.pt.sukimangas",
+        "resources": {
+          "apkUrl": "https://github.com/Awerkori/extensoes/releases/download/af842b6/tachiyomi-pt.sukimangas-v1.6.0.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/Awerkori/fonte-extensoes@main/src/pt/sukimangas/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/Awerkori/extensoes/releases/download/af842b6/tachiyomi-pt.sukimangas-v1.6.0.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "6088248049381422514",
+            "name": "SukiMangas",
+            "language": "pt-BR",
+            "homeUrl": "https://www.sukimangas.com"
+          }
+        ]
+      },
+      {
         "name": "Super Ecchi",
         "packageName": "eu.kanade.tachiyomi.extension.pt.superecchi",
         "resources": {
